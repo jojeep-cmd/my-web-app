@@ -1,11 +1,83 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import Layout from "../layouts/Layout.astro";
+import Counter from "../components/Counter.svelte";
+import TodoList from "../components/TodoList.svelte";
 ---
 
-<Layout>
-	<Welcome />
+<Layout title="Trang chủ | My Web App">
+    <h1>👋 Chào mừng !</h1>
+    <p>
+        Đây là trang web đầu tiên được xây dựng với
+        <strong>Astro + Svelte</strong>, chạy trên
+        <strong>Cloudflare Workers</strong>.
+    </p>
+
+    <section>
+        <h2>🏝️ Svelte Island — Component tương tác</h2>
+        <p>
+            Bộ đếm bên dưới là một <strong>Svelte component</strong>. Nhấn nút
+            ➕ hoặc ➖ để thấy nó hoạt động!
+        </p>
+        <Counter client:visible />
+    </section>
+
+    <section>
+        <h2>✅ Danh sách việc cần làm</h2>
+        <p>
+            Đây là một <strong>interactive todo list</strong> được xây dựng hoàn toàn
+            bằng Svelte. Bạn có thể thêm, xóa, và đánh dấu các công việc đã hoàn thành.
+        </p>
+        <TodoList client:visible />
+    </section>
+
+    <section>
+        <h2>🚀 Công nghệ sử dụng</h2>
+        <ul>
+            <li><strong>Astro</strong> — Framework web hiệu năng cao</li>
+            <li><strong>Svelte</strong> — UI components tương tác</li>
+            <li>
+                <strong>Cloudflare Workers</strong> — Server-Side Rendering toàn cầu
+            </li>
+            <li><strong>Bun</strong> — JavaScript runtime cực nhanh</li>
+        </ul>
+    </section>
 </Layout>
+
+<style>
+    h1 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+        color: #1e1b4b;
+    }
+
+    p {
+        font-size: 1.1rem;
+        margin-bottom: 1.5rem;
+    }
+
+    section {
+        margin: 2rem 0;
+        padding: 1.5rem;
+        background: #f8fafc;
+        border-radius: 12px;
+    }
+
+    section h2 {
+        margin-bottom: 0.75rem;
+        color: #4f46e5;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    li {
+        padding: 0.5rem 0;
+        border-bottom: 1px solid #e5e7eb;
+    }
+
+    li:last-child {
+        border-bottom: none;
+    }
+</style>

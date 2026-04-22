@@ -1,0 +1,166 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Về tôi | My Web App">
+    <h1>👨‍💻 Về tôi</h1>
+
+    <section class="intro">
+        <p>
+            Xin chào! Tôi là một <strong>Full-stack Developer</strong> đam mê xây dựng các ứng dụng web hiệu năng cao và thân thiện với người dùng.
+        </p>
+        <p>
+            Với kinh nghiệm trong các công nghệ web hiện đại, tôi tập trung vào việc tạo ra những giải pháp có khả năng mở rộng, bảo mật và dễ bảo trì.
+        </p>
+    </section>
+
+    <section>
+        <h2>🎯 Kỹ năng chính</h2>
+        <div class="skills">
+            <div class="skill-group">
+                <h3>Frontend</h3>
+                <ul>
+                    <li>Astro</li>
+                    <li>React / Svelte</li>
+                    <li>TypeScript</li>
+                    <li>Tailwind CSS</li>
+                </ul>
+            </div>
+
+            <div class="skill-group">
+                <h3>Backend & Cloud</h3>
+                <ul>
+                    <li>Cloudflare Workers</li>
+                    <li>Node.js</li>
+                    <li>D1 Database</li>
+                    <li>REST APIs</li>
+                </ul>
+            </div>
+
+            <div class="skill-group">
+                <h3>Công cụ & Công nghệ</h3>
+                <ul>
+                    <li>Bun / npm</li>
+                    <li>Git & GitHub</li>
+                    <li>Docker</li>
+                    <li>Web Performance</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>📚 Sở thích & Quan tâm</h2>
+        <ul>
+            <li>⚡ Tối ưu hóa hiệu năng web</li>
+            <li>🌍 Phát triển ứng dụng toàn cầu trên edge network</li>
+            <li>🎨 Thiết kế UI/UX tối ưu</li>
+            <li>📖 Học hỏi công nghệ mới</li>
+            <li>🤝 Hợp tác trong nhóm đa chuyên ngành</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🔗 Kết nối với tôi</h2>
+        <p>
+            Tôi luôn rất vui khi giao tiếp với các nhà phát triển khác, cộng tác viên và những người yêu thích công nghệ.
+        </p>
+        <p>
+            Hãy liên hệ với tôi qua:
+        </p>
+        <ul>
+            <li>📧 Email: hello@example.com</li>
+            <li>💼 LinkedIn: linkedin.com/in/yourprofile</li>
+            <li>🐙 GitHub: github.com/yourprofile</li>
+            <li>🐦 Twitter: @yourhandle</li>
+        </ul>
+    </section>
+</Layout>
+
+<style>
+    h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+        color: #1e1b4b;
+    }
+
+    h2 {
+        font-size: 1.75rem;
+        margin-bottom: 1rem;
+        color: #4f46e5;
+    }
+
+    h3 {
+        font-size: 1.25rem;
+        margin-bottom: 0.75rem;
+        color: #334155;
+    }
+
+    p {
+        font-size: 1.1rem;
+        margin-bottom: 1rem;
+        line-height: 1.8;
+        color: #475569;
+    }
+
+    section {
+        margin: 2.5rem 0;
+        padding: 2rem;
+        background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+        border-radius: 12px;
+        border-left: 4px solid #4f46e5;
+    }
+
+    section.intro {
+        background: linear-gradient(135deg, #4f46e5 0%, #3730a3 100%);
+        color: white;
+        border-left: none;
+    }
+
+    section.intro p {
+        color: #e0e7ff;
+    }
+
+    section.intro strong {
+        color: #fbbf24;
+    }
+
+    .skills {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1.5rem;
+        margin-top: 1rem;
+    }
+
+    .skill-group {
+        background: white;
+        padding: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    .skill-group h3 {
+        margin-bottom: 1rem;
+        border-bottom: 2px solid #4f46e5;
+        padding-bottom: 0.5rem;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    li {
+        padding: 0.5rem 0;
+        padding-left: 1.5rem;
+        position: relative;
+    }
+
+    li::before {
+        content: "✓";
+        position: absolute;
+        left: 0;
+        color: #4f46e5;
+        font-weight: bold;
+    }
+</style>

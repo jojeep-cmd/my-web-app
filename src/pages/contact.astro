@@ -1,0 +1,297 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Liên hệ | My Web App">
+    <h1>📧 Liên hệ với tôi</h1>
+
+    <section class="intro">
+        <p>
+            Tôi rất vui khi nhận được tin nhắn từ bạn! Hãy liên hệ với tôi thông qua bất kỳ
+            kênh nào dưới đây hoặc điền form liên hệ.
+        </p>
+    </section>
+
+    <div class="contact-grid">
+        <section class="contact-methods">
+            <h2>📞 Các cách liên hệ</h2>
+
+            <div class="contact-item">
+                <span class="icon">📧</span>
+                <div>
+                    <h3>Email</h3>
+                    <p>
+                        <a href="mailto:hello@example.com">hello@example.com</a>
+                    </p>
+                    <small>Tôi sẽ trả lời trong 24 giờ</small>
+                </div>
+            </div>
+
+            <div class="contact-item">
+                <span class="icon">💼</span>
+                <div>
+                    <h3>LinkedIn</h3>
+                    <p>
+                        <a href="https://linkedin.com/in/yourprofile" target="_blank">
+                            linkedin.com/in/yourprofile
+                        </a>
+                    </p>
+                    <small>Kết nối chuyên nghiệp</small>
+                </div>
+            </div>
+
+            <div class="contact-item">
+                <span class="icon">🐙</span>
+                <div>
+                    <h3>GitHub</h3>
+                    <p>
+                        <a href="https://github.com/yourprofile" target="_blank">
+                            github.com/yourprofile
+                        </a>
+                    </p>
+                    <small>Xem các dự án của tôi</small>
+                </div>
+            </div>
+
+            <div class="contact-item">
+                <span class="icon">🐦</span>
+                <div>
+                    <h3>Twitter / X</h3>
+                    <p>
+                        <a href="https://twitter.com/yourhandle" target="_blank">
+                            @yourhandle
+                        </a>
+                    </p>
+                    <small>Theo dõi cập nhật hàng ngày</small>
+                </div>
+            </div>
+        </section>
+
+        <section class="contact-form-section">
+            <h2>✍️ Gửi tin nhắn</h2>
+            <form class="contact-form">
+                <div class="form-group">
+                    <label for="name">Tên của bạn</label>
+                    <input type="text" id="name" name="name" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email của bạn</label>
+                    <input type="email" id="email" name="email" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="subject">Chủ đề</label>
+                    <input type="text" id="subject" name="subject" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="message">Tin nhắn</label>
+                    <textarea
+                        id="message"
+                        name="message"
+                        rows="5"
+                        required></textarea>
+                </div>
+
+                <button type="submit" class="submit-btn">🚀 Gửi tin nhắn</button>
+            </form>
+        </section>
+    </div>
+
+    <section class="info">
+        <h2>💡 Thêm thông tin</h2>
+        <p>
+            <strong>Múi giờ:</strong> Asia/Ho_Chi_Minh (GMT+7)
+        </p>
+        <p>
+            <strong>Thời gian phản hồi:</strong> Tôi cố gắng phản hồi trong 24 giờ làm việc
+        </p>
+        <p>
+            <strong>Lĩnh vực quan tâm:</strong> Web Development, Cloudflare Workers, AI/ML,
+            Cloud Architecture
+        </p>
+    </section>
+</Layout>
+
+<style>
+    h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+        color: #1e1b4b;
+    }
+
+    h2 {
+        font-size: 1.75rem;
+        margin-bottom: 1.5rem;
+        color: #4f46e5;
+    }
+
+    h3 {
+        font-size: 1.1rem;
+        margin: 0 0 0.25rem 0;
+        color: #334155;
+    }
+
+    p {
+        font-size: 1rem;
+        line-height: 1.6;
+        color: #475569;
+        margin-bottom: 0.5rem;
+    }
+
+    small {
+        font-size: 0.85rem;
+        color: #94a3b8;
+        display: block;
+        margin-top: 0.25rem;
+    }
+
+    a {
+        color: #4f46e5;
+        text-decoration: none;
+        font-weight: 500;
+        transition: color 0.3s ease;
+    }
+
+    a:hover {
+        color: #3730a3;
+        text-decoration: underline;
+    }
+
+    section {
+        margin: 2.5rem 0;
+        padding: 2rem;
+        background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+        border-radius: 12px;
+        border-left: 4px solid #4f46e5;
+    }
+
+    section.intro {
+        background: linear-gradient(135deg, #4f46e5 0%, #3730a3 100%);
+        color: white;
+        border-left: none;
+    }
+
+    section.intro p {
+        color: #e0e7ff;
+        font-size: 1.1rem;
+    }
+
+    .contact-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+        margin: 2rem 0;
+    }
+
+    @media (max-width: 768px) {
+        .contact-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    .contact-methods,
+    .contact-form-section {
+        background: white;
+        padding: 2rem;
+        border-radius: 12px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        border-left: 4px solid #4f46e5;
+    }
+
+    .contact-methods h2,
+    .contact-form-section h2 {
+        margin-top: 0;
+    }
+
+    .contact-item {
+        display: flex;
+        gap: 1rem;
+        margin-bottom: 1.5rem;
+        padding-bottom: 1.5rem;
+        border-bottom: 1px solid #e5e7eb;
+    }
+
+    .contact-item:last-child {
+        margin-bottom: 0;
+        padding-bottom: 0;
+        border-bottom: none;
+    }
+
+    .icon {
+        font-size: 2rem;
+        display: flex;
+        align-items: flex-start;
+        min-width: 3rem;
+        justify-content: center;
+    }
+
+    .form-group {
+        margin-bottom: 1.25rem;
+    }
+
+    label {
+        display: block;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+        color: #334155;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 0.75rem 1rem;
+        border: 2px solid #e5e7eb;
+        border-radius: 8px;
+        font-size: 1rem;
+        font-family: inherit;
+        transition: all 0.3s ease;
+        resize: vertical;
+    }
+
+    input[type="text"]:focus,
+    input[type="email"]:focus,
+    textarea:focus {
+        outline: none;
+        border-color: #4f46e5;
+        box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+    }
+
+    .submit-btn {
+        width: 100%;
+        padding: 1rem 1.5rem;
+        background: #4f46e5;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .submit-btn:hover {
+        background: #3730a3;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3);
+    }
+
+    .submit-btn:active {
+        transform: translateY(0);
+    }
+
+    .info {
+        background: #fef3c7;
+        border-left-color: #f59e0b;
+    }
+
+    .info h2 {
+        color: #92400e;
+    }
+
+    .info p {
+        color: #78350f;
+    }
+</style>
