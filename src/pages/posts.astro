@@ -1,0 +1,71 @@
+---
+// Lấy đối tượng database từ môi trường Cloudflare
+const db = Astro.locals.runtime.env.DB;
+
+// Truy vấn tất cả bài viết, sắp xếp bài mới nhất lên đầu
+const { results } = await db
+    .prepare("SELECT * FROM posts ORDER BY created_at DESC")
+    .all();
+---
+
+<html lang="vi">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Bài viết</title>
+        <style>
+            body {
+                font-family: sans-serif;
+                max-width: 700px;
+                margin: 40px auto;
+                padding: 0 20px;
+                background: #f9fafb;
+                color: #1f2937;
+            }
+            h1 {
+                color: #4f46e5;
+            }
+            article {
+                background: white;
+                padding: 20px;
+                margin-bottom: 16px;
+                border-radius: 8px;
+                box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            }
+            article h2 {
+                margin-top: 0;
+                color: #1e40af;
+            }
+            article p {
+                color: #4b5563;
+                line-height: 1.6;
+            }
+            .meta {
+                font-size: 0.85rem;
+                color: #9ca3af;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>📝 Bài viết</h1>
+        <p>Danh sách bài viết từ D1 Database:</p>
+
+        {
+            results.map((post: any) => (
+                <article>
+                    <h2>{post.title}</h2>
+                    <p>{post.content}</p>
+                    <span class="meta">🕐 {post.created_at}</span>
+                </article>
+            ))
+        }
+
+        {
+            results.length === 0 && (
+                <p>Chưa có bài viết nào. Hãy thêm dữ liệu vào database!</p>
+            )
+        }
+
+        <p><a href="/">← Về trang chủ</a></p>
+    </body>
+</html>

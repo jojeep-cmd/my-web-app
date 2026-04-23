@@ -1,16 +1,23 @@
 {
-	"compatibility_date": "2026-04-22",
-	"compatibility_flags": [
-		"global_fetch_strictly_public",
-		"nodejs_compat", // ← Thêm dòng này
-	],
-	"name": "my-web-app",
-	"main": "@astrojs/cloudflare/entrypoints/server",
-	"assets": {
-		"directory": "./dist",
-		"binding": "ASSETS",
-	},
-	"observability": {
-		"enabled": true,
-	},
+    "compatibility_date": "2026-04-22",
+    "compatibility_flags": [
+        "global_fetch_strictly_public",
+        "nodejs_compat", // ← Thêm dòng này
+    ],
+    "name": "my-web-app",
+    "main": "@astrojs/cloudflare/entrypoints/server",
+    "assets": {
+        "directory": "./dist",
+        "binding": "ASSETS",
+    },
+    "observability": {
+        "enabled": true,
+    },
+    "d1_databases": [
+        {
+            "binding": "my_web_app_db",
+            "database_name": "my-web-app-db",
+            "database_id": "44137951-9de1-4152-955c-c9bdaa677796",
+        },
+    ],
 }
