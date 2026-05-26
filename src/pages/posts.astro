@@ -1,159 +1,95 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import ProductCard from "../components/ProductCard.svelte";
+import { getProducts, searchProducts, CATEGORIES } from "../data/products";
 
-const products = [
-    {
-        name: "Kem chống nắng Anessa Perfect UV Sunscreen SPF50+ PA++++",
-        price: "₫320.000",
-        commission: "8%",
-        sold: "2.1k đã bán",
-        img: "https://placehold.co/300x300/fff4f2/ee4d2d?text=SP1",
-    },
-    {
-        name: "Tai nghe Bluetooth TWS không dây chống ồn ANC Pro",
-        price: "₫189.000",
-        commission: "12%",
-        sold: "5.4k đã bán",
-        img: "https://placehold.co/300x300/f0f9ff/3b82f6?text=SP2",
-    },
-    {
-        name: "Nồi chiên không dầu 5L Philips HD9270 đen bóng cao cấp",
-        price: "₫1.490.000",
-        commission: "6%",
-        sold: "890 đã bán",
-        img: "https://placehold.co/300x300/f0fdf4/22c55e?text=SP3",
-    },
-    {
-        name: "Bộ dưỡng da Sulwhasoo Concentrated Ginseng Renewing Basic Kit",
-        price: "₫850.000",
-        commission: "10%",
-        sold: "3.2k đã bán",
-        img: "https://placehold.co/300x300/fdf4ff/a855f7?text=SP4",
-    },
-    {
-        name: "Máy lọc không khí Xiaomi Air Purifier 4 Lite chính hãng",
-        price: "₫2.190.000",
-        commission: "7%",
-        sold: "1.7k đã bán",
-        img: "https://placehold.co/300x300/fffbeb/f59e0b?text=SP5",
-    },
-    {
-        name: "Giày thể thao nam Nike Air Max 270 chạy bộ tập gym",
-        price: "₫1.250.000",
-        commission: "9%",
-        sold: "4.1k đã bán",
-        img: "https://placehold.co/300x300/fff4f2/ee4d2d?text=SP6",
-    },
-    {
-        name: "Tã quần Huggies Dry Pants XXL34 miếng thấm hút tốt",
-        price: "₫95.000",
-        commission: "5%",
-        sold: "12k đã bán",
-        img: "https://placehold.co/300x300/f0f9ff/3b82f6?text=SP7",
-    },
-    {
-        name: "Đèn bàn học chống cận LED Baseus thông minh điều chỉnh sáng",
-        price: "₫245.000",
-        commission: "11%",
-        sold: "678 đã bán",
-        img: "https://placehold.co/300x300/f0fdf4/22c55e?text=SP8",
-    },
-    {
-        name: "Vitamin C 1000mg Now Foods hộp 250 viên nhập khẩu Mỹ",
-        price: "₫280.000",
-        commission: "15%",
-        sold: "9.3k đã bán",
-        img: "https://placehold.co/300x300/fdf4ff/a855f7?text=SP9",
-    },
-    {
-        name: "Robot hút bụi Dreame D10 Plus tự đổ rác thông minh",
-        price: "₫4.590.000",
-        commission: "8%",
-        sold: "542 đã bán",
-        img: "https://placehold.co/300x300/fffbeb/f59e0b?text=SP10",
-    },
-];
+// SSR: read query params from the incoming request
+const { url } = Astro.request;
+const params = new URL(url).searchParams;
+const categoryParam = params.get("category") ?? "";
+const searchQuery = params.get("q") ?? "";
 
-const tabs = [
-    "Tất cả",
-    "Hoa hồng Xtra",
-    "Bán chạy nhất",
-    "Mẹ & Bé",
-    "Bách Hóa Online",
-    "Thời Trang Nam",
-    "Nhà Cửa & Đời Sống",
-];
+// Resolve which data to show — search takes priority over category filter
+const products = searchQuery
+    ? searchProducts(searchQuery)
+    : getProducts(categoryParam || null);
 ---
 
 <Layout title="Hoa hồng Sản phẩm">
-    <div class="page-header" hidden>
+    <div class="page-header">
         <h1 class="page-title">Hoa hồng Sản phẩm</h1>
-        <p class="page-subtitle">Affiliate › Hoa hồng › Product commission</p>
+        <p class="page-subtitle">
+            {products.length} sản phẩm
+            {categoryParam && !searchQuery ? `· ${categoryParam}` : ""}
+            {searchQuery ? `· kết quả cho "${searchQuery}"` : ""}
+        </p>
     </div>
 
-    <div class="search-wrap">
+    <!-- Search — form GET so it works without JS -->
+    <form class="search-wrap" method="get" action="/posts">
         <span class="search-icon">🔍</span>
         <input
             class="search-input"
             type="text"
+            name="q"
+            value={searchQuery}
             placeholder="Tìm kiếm sản phẩm Shopee..."
+            autocomplete="off"
         />
-    </div>
+        {categoryParam && <input type="hidden" name="category" value={categoryParam} />}
+    </form>
 
-    <div class="tabs" id="tabs">
-        {
-            tabs.map((tab, i) => (
-                <button class={`tab${i === 0 ? " active" : ""}`}>{tab}</button>
-            ))
-        }
-    </div>
+    <!-- Category tabs — each is a link, active state resolved SSR -->
+    <nav class="tabs" aria-label="Danh mục">
+        <a
+            href="/posts"
+            class={`tab${!categoryParam && !searchQuery ? " active" : ""}`}
+        >
+            Tất cả
+            <span class="tab-count">{CATEGORIES.reduce((s, c) => s + c.count, 0)}</span>
+        </a>
+        {CATEGORIES.map((cat) => (
+            <a
+                href={`/posts?category=${encodeURIComponent(cat.id)}`}
+                class={`tab${categoryParam === cat.id && !searchQuery ? " active" : ""}`}
+            >
+                {cat.label}
+                <span class="tab-count">{cat.count}</span>
+            </a>
+        ))}
+    </nav>
 
-    <div class="product-grid">
-        {
-            products.map((p) => (
-                <div class="product-card">
-                    <div class="product-img">
-                        <img src={p.img} alt={p.name} loading="lazy" />
-                        <span class="hot-badge">HOT</span>
-                    </div>
-                    <div class="product-info">
-                        <div class="product-name">{p.name}</div>
-                        <div class="product-price">{p.price}</div>
-                        <div class="commission-rate">
-                            💚 Hoa hồng {p.commission}
-                        </div>
-                    </div>
-                    <div class="product-footer">
-                        <span class="sold-count">{p.sold}</span>
-                        <button class="btn-promote">Quảng bá</button>
-                    </div>
-                </div>
-            ))
-        }
-    </div>
+    <!-- Product grid -->
+    {products.length > 0 ? (
+        <div class="product-grid">
+            {products.map((p) => (
+                <ProductCard
+                    image={p.image}
+                    title={p.name}
+                    price={p.price}
+                    originalPrice={p.originalPrice}
+                    commission={p.commissionRate}
+                    sold={p.sold}
+                    href={p.affiliateLink}
+                />
+            ))}
+        </div>
+    ) : (
+        <div class="empty-state">
+            <p>Không tìm thấy sản phẩm nào{searchQuery ? ` cho "${searchQuery}"` : ""}.</p>
+            <a href="/posts">Xem tất cả sản phẩm</a>
+        </div>
+    )}
 </Layout>
 
 <style is:global>
-    /* Override main width for this page only */
-    main {
-        max-width: 1400px !important;
-    }
+    main { max-width: 1400px !important; }
 </style>
 
 <style>
-    .page-header {
-        margin-bottom: 24px;
-    }
-    .page-title {
-        font-size: 22px;
-        font-weight: 700;
-        color: #1a1a2e;
-        margin-bottom: 4px;
-    }
-    .page-subtitle {
-        font-size: 13px;
-        color: #9ca3af;
-    }
+    .page-header { margin-bottom: 20px; }
+    .page-title  { font-size: 22px; font-weight: 700; color: #1a1a2e; margin-bottom: 4px; }
+    .page-subtitle { font-size: 13px; color: #9ca3af; }
 
     /* Search */
     .search-wrap {
@@ -178,33 +114,30 @@ const tabs = [
         font-size: 14px;
         color: #1a1a2e;
         outline: none;
-        transition:
-            border-color 0.15s,
-            box-shadow 0.15s;
+        transition: border-color 0.15s, box-shadow 0.15s;
     }
     .search-input:focus {
         border-color: #ee4d2d;
         box-shadow: 0 0 0 3px rgba(238, 77, 45, 0.08);
     }
-    .search-input::placeholder {
-        color: #9ca3af;
-    }
+    .search-input::placeholder { color: #9ca3af; }
 
     /* Tabs */
     .tabs {
         display: flex;
-        gap: 4px;
+        gap: 6px;
         overflow-x: auto;
         padding-bottom: 4px;
         margin-bottom: 24px;
         scrollbar-width: none;
     }
-    .tabs::-webkit-scrollbar {
-        display: none;
-    }
+    .tabs::-webkit-scrollbar { display: none; }
 
     .tab {
-        padding: 8px 16px;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        padding: 7px 14px;
         border-radius: 20px;
         font-size: 13px;
         font-weight: 500;
@@ -213,128 +146,42 @@ const tabs = [
         white-space: nowrap;
         border: 1px solid #e8eaf0;
         background: #fff;
+        text-decoration: none;
         transition: all 0.15s;
     }
-    .tab:hover {
-        color: #1a1a2e;
-    }
-    .tab.active {
-        background: #ee4d2d;
-        color: #fff;
-        border-color: #ee4d2d;
+    .tab:hover { color: #1a1a2e; border-color: #d1d5db; }
+    .tab.active { background: #ee4d2d; color: #fff; border-color: #ee4d2d; }
+    .tab.active .tab-count { background: rgba(255,255,255,0.25); color: #fff; }
+
+    .tab-count {
+        font-size: 11px;
+        font-weight: 600;
+        background: #f3f4f6;
+        color: #6b7280;
+        padding: 1px 6px;
+        border-radius: 10px;
+        line-height: 1.4;
     }
 
     /* Product grid */
     .product-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
         gap: 16px;
     }
 
-    .product-card {
-        background: #fff;
-        border-radius: 12px;
-        border: 1px solid #e8eaf0;
-        overflow: hidden;
-        cursor: pointer;
-        transition:
-            box-shadow 0.2s,
-            transform 0.2s;
-    }
-    .product-card:hover {
-        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.09);
-        transform: translateY(-2px);
-    }
-
-    .product-img {
-        width: 100%;
-        aspect-ratio: 1;
-        background: #f5f6fa;
-        position: relative;
-        overflow: hidden;
-    }
-    .product-img img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-
-    .hot-badge {
-        position: absolute;
-        top: 8px;
-        left: 8px;
-        background: #ee4d2d;
-        color: #fff;
-        font-size: 11px;
-        font-weight: 700;
-        padding: 3px 8px;
-        border-radius: 4px;
-    }
-
-    .product-info {
-        padding: 12px;
-    }
-    .product-name {
-        font-size: 13px;
-        color: #1a1a2e;
-        font-weight: 500;
-        line-height: 1.4;
-        display: -webkit-box;
-        -webkit-line-clamp: 2;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-        margin-bottom: 8px;
-        min-height: 36px;
-    }
-    .product-price {
-        font-size: 15px;
-        font-weight: 700;
-        color: #ee4d2d;
-        margin-bottom: 6px;
-    }
-    .commission-rate {
-        font-size: 12px;
-        font-weight: 600;
-        color: #10b981;
-    }
-
-    .product-footer {
-        padding: 10px 12px;
-        border-top: 1px solid #f5f6fa;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-    }
-    .sold-count {
-        font-size: 11px;
+    /* Empty state */
+    .empty-state {
+        text-align: center;
+        padding: 64px 0;
         color: #9ca3af;
     }
-    .btn-promote {
-        font-size: 12px;
-        font-weight: 600;
+    .empty-state a {
+        display: inline-block;
+        margin-top: 12px;
         color: #ee4d2d;
-        background: #fff4f2;
-        border: 1px solid #fecdc7;
-        border-radius: 6px;
-        padding: 5px 12px;
-        cursor: pointer;
-        transition: background 0.15s;
+        font-weight: 600;
+        text-decoration: none;
     }
-    .btn-promote:hover {
-        background: #fee2dd;
-    }
+    .empty-state a:hover { text-decoration: underline; }
 </style>
-
-<script>
-    document
-        .getElementById("tabs")
-        ?.querySelectorAll(".tab")
-        .forEach((tab) => {
-            tab.addEventListener("click", () => {
-                document
-                    .querySelectorAll(".tab")
-                    .forEach((t) => t.classList.remove("active"));
-                tab.classList.add("active");
-            });
-        });
-</script>
