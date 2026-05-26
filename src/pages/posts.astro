@@ -1,71 +1,495 @@
 ---
-// Lấy đối tượng database từ môi trường Cloudflare
-const db = Astro.locals.runtime.env.DB;
-
-// Truy vấn tất cả bài viết, sắp xếp bài mới nhất lên đầu
-const { results } = await db
-    .prepare("SELECT * FROM posts ORDER BY created_at DESC")
-    .all();
 ---
-
+<!DOCTYPE html>
 <html lang="vi">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Bài viết</title>
-        <style>
-            body {
-                font-family: sans-serif;
-                max-width: 700px;
-                margin: 40px auto;
-                padding: 0 20px;
-                background: #f9fafb;
-                color: #1f2937;
-            }
-            h1 {
-                color: #4f46e5;
-            }
-            article {
-                background: white;
-                padding: 20px;
-                margin-bottom: 16px;
-                border-radius: 8px;
-                box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-            }
-            article h2 {
-                margin-top: 0;
-                color: #1e40af;
-            }
-            article p {
-                color: #4b5563;
-                line-height: 1.6;
-            }
-            .meta {
-                font-size: 0.85rem;
-                color: #9ca3af;
-            }
-        </style>
-    </head>
-    <body>
-        <h1>📝 Bài viết</h1>
-        <p>Danh sách bài viết từ D1 Database:</p>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hoa hồng Sản phẩm</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-        {
-            results.map((post: any) => (
-                <article>
-                    <h2>{post.title}</h2>
-                    <p>{post.content}</p>
-                    <span class="meta">🕐 {post.created_at}</span>
-                </article>
-            ))
-        }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #f5f6fa;
+      color: #1a1a2e;
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
 
-        {
-            results.length === 0 && (
-                <p>Chưa có bài viết nào. Hãy thêm dữ liệu vào database!</p>
-            )
-        }
+    /* ── SIDEBAR ── */
+    .sidebar {
+      width: 240px;
+      min-width: 240px;
+      background: #fff;
+      border-right: 1px solid #e8eaf0;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      overflow-y: auto;
+    }
 
-        <p><a href="/">← Về trang chủ</a></p>
-    </body>
+    .sidebar-logo {
+      padding: 20px 20px 16px;
+      border-bottom: 1px solid #e8eaf0;
+    }
+
+    .sidebar-logo span {
+      font-size: 20px;
+      font-weight: 700;
+      color: #ee4d2d;
+      letter-spacing: -0.5px;
+    }
+
+    .sidebar-logo span em {
+      color: #1a1a2e;
+      font-style: normal;
+    }
+
+    nav { flex: 1; padding: 12px 0; }
+
+    .nav-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 20px;
+      font-size: 14px;
+      color: #6b7280;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+      text-decoration: none;
+      user-select: none;
+    }
+
+    .nav-item:hover { background: #f5f6fa; color: #1a1a2e; }
+
+    .nav-item.section-label {
+      font-size: 11px;
+      font-weight: 600;
+      color: #9ca3af;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      padding: 16px 20px 6px;
+      cursor: default;
+    }
+    .nav-item.section-label:hover { background: none; }
+
+    .nav-item.active {
+      background: #fff4f2;
+      color: #ee4d2d;
+      font-weight: 600;
+      border-right: 3px solid #ee4d2d;
+    }
+
+    .nav-item .icon { font-size: 16px; width: 20px; text-align: center; flex-shrink: 0; }
+
+    .nav-sub {
+      padding-left: 50px;
+      font-size: 13px;
+    }
+
+    .nav-sub:hover { background: #f5f6fa; color: #1a1a2e; }
+    .nav-sub.active { background: #fff4f2; color: #ee4d2d; font-weight: 600; border-right: 3px solid #ee4d2d; }
+
+    /* ── MAIN AREA ── */
+    .main-area {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* ── TOPNAV ── */
+    .topnav {
+      height: 60px;
+      background: #fff;
+      border-bottom: 1px solid #e8eaf0;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      padding: 0 28px;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .topnav-btn {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      border-radius: 8px;
+      border: 1px solid #e8eaf0;
+      background: #fff;
+      font-size: 13px;
+      color: #374151;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .topnav-btn:hover { background: #f5f6fa; }
+
+    .topnav-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      border: 1px solid #e8eaf0;
+      background: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background 0.15s;
+      position: relative;
+    }
+    .topnav-icon:hover { background: #f5f6fa; }
+
+    .badge {
+      position: absolute;
+      top: -4px;
+      right: -4px;
+      background: #ee4d2d;
+      color: #fff;
+      font-size: 10px;
+      font-weight: 700;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .avatar {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #ee4d2d, #ff8c42);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+    }
+
+    .divider { width: 1px; height: 28px; background: #e8eaf0; margin: 0 4px; }
+
+    /* ── CONTENT ── */
+    .content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 28px 32px;
+    }
+
+    .page-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+    }
+
+    .page-title {
+      font-size: 22px;
+      font-weight: 700;
+      color: #1a1a2e;
+    }
+
+    /* ── SEARCH ── */
+    .search-wrap {
+      position: relative;
+      margin-bottom: 20px;
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #9ca3af;
+      font-size: 16px;
+      pointer-events: none;
+    }
+
+    .search-input {
+      width: 100%;
+      height: 44px;
+      padding: 0 16px 0 42px;
+      border: 1px solid #e8eaf0;
+      border-radius: 10px;
+      background: #fff;
+      font-size: 14px;
+      color: #1a1a2e;
+      outline: none;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+    .search-input:focus {
+      border-color: #ee4d2d;
+      box-shadow: 0 0 0 3px rgba(238, 77, 45, 0.08);
+    }
+    .search-input::placeholder { color: #9ca3af; }
+
+    /* ── TABS ── */
+    .tabs {
+      display: flex;
+      gap: 4px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+      margin-bottom: 24px;
+      scrollbar-width: none;
+    }
+    .tabs::-webkit-scrollbar { display: none; }
+
+    .tab {
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 500;
+      color: #6b7280;
+      cursor: pointer;
+      white-space: nowrap;
+      border: 1px solid transparent;
+      background: #fff;
+      transition: all 0.15s;
+    }
+    .tab:hover { border-color: #e8eaf0; color: #1a1a2e; }
+    .tab.active {
+      background: #ee4d2d;
+      color: #fff;
+      border-color: #ee4d2d;
+    }
+
+    /* ── PRODUCT GRID ── */
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 16px;
+    }
+
+    @media (max-width: 1400px) { .product-grid { grid-template-columns: repeat(4, 1fr); } }
+    @media (max-width: 1100px) { .product-grid { grid-template-columns: repeat(3, 1fr); } }
+
+    .product-card {
+      background: #fff;
+      border-radius: 12px;
+      border: 1px solid #e8eaf0;
+      overflow: hidden;
+      cursor: pointer;
+      transition: box-shadow 0.2s, transform 0.2s;
+    }
+    .product-card:hover {
+      box-shadow: 0 8px 24px rgba(0,0,0,0.09);
+      transform: translateY(-2px);
+    }
+
+    .product-img {
+      width: 100%;
+      aspect-ratio: 1;
+      background: #f5f6fa;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .product-img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .commission-badge {
+      position: absolute;
+      top: 8px;
+      left: 8px;
+      background: #ee4d2d;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 4px;
+    }
+
+    .product-info { padding: 12px; }
+
+    .product-name {
+      font-size: 13px;
+      color: #1a1a2e;
+      font-weight: 500;
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin-bottom: 8px;
+      min-height: 36px;
+    }
+
+    .product-price {
+      font-size: 15px;
+      font-weight: 700;
+      color: #ee4d2d;
+      margin-bottom: 6px;
+    }
+
+    .product-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 12px;
+      color: #9ca3af;
+    }
+
+    .commission-rate {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      color: #10b981;
+    }
+
+    .product-footer {
+      padding: 10px 12px;
+      border-top: 1px solid #f5f6fa;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .btn-promote {
+      font-size: 12px;
+      font-weight: 600;
+      color: #ee4d2d;
+      background: #fff4f2;
+      border: 1px solid #fecdc7;
+      border-radius: 6px;
+      padding: 5px 12px;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .btn-promote:hover { background: #fee2dd; }
+
+    .sold-count { font-size: 11px; color: #9ca3af; }
+  </style>
+</head>
+<body>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sidebar-logo">
+      <span>Shopee<em>Affiliate</em></span>
+    </div>
+    <nav>
+      <a class="nav-item" href="#">
+        <span class="icon">🏠</span> Dashboard
+      </a>
+
+      <div class="nav-item section-label">Affiliate</div>
+
+      <a class="nav-item" href="#">
+        <span class="icon">💰</span> Hoa hồng
+      </a>
+      <a class="nav-item nav-sub" href="#">Shopee</a>
+      <a class="nav-item nav-sub" href="#">Xtra</a>
+      <a class="nav-item nav-sub active" href="#">Product commission</a>
+
+      <a class="nav-item" href="#">
+        <span class="icon">📢</span> Campaign
+      </a>
+      <a class="nav-item" href="#">
+        <span class="icon">🎨</span> Creative
+      </a>
+      <a class="nav-item" href="#">
+        <span class="icon">📊</span> Reports
+      </a>
+    </nav>
+  </aside>
+
+  <!-- MAIN AREA -->
+  <div class="main-area">
+
+    <!-- TOPNAV -->
+    <header class="topnav">
+      <button class="topnav-btn">
+        🌐 Tiếng Việt <span>▾</span>
+      </button>
+      <div class="divider"></div>
+      <div class="topnav-icon">
+        🔔
+        <span class="badge">3</span>
+      </div>
+      <div class="avatar">JD</div>
+    </header>
+
+    <!-- CONTENT -->
+    <main class="content">
+      <div class="page-header">
+        <h1 class="page-title">Hoa hồng Sản phẩm</h1>
+      </div>
+
+      <!-- SEARCH -->
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input class="search-input" type="text" placeholder="Tìm kiếm sản phẩm Shopee..." />
+      </div>
+
+      <!-- TABS -->
+      <div class="tabs">
+        <div class="tab active">Tất cả</div>
+        <div class="tab">Hoa hồng Xtra</div>
+        <div class="tab">Bán chạy nhất</div>
+        <div class="tab">Mẹ &amp; Bé</div>
+        <div class="tab">Bách Hóa Online</div>
+        <div class="tab">Thời Trang Nam</div>
+        <div class="tab">Nhà Cửa &amp; Đời Sống</div>
+      </div>
+
+      <!-- PRODUCT GRID -->
+      <div class="product-grid">
+
+        {[
+          { name: "Kem chống nắng Anessa Perfect UV Sunscreen SPF50+ PA++++", price: "₫320.000", commission: "8%", sold: "2.1k đã bán", img: "https://placehold.co/300x300/fff4f2/ee4d2d?text=SP1" },
+          { name: "Tai nghe Bluetooth TWS không dây chống ồn ANC Pro", price: "₫189.000", commission: "12%", sold: "5.4k đã bán", img: "https://placehold.co/300x300/f0f9ff/3b82f6?text=SP2" },
+          { name: "Nồi chiên không dầu 5L Philips HD9270 đen bóng cao cấp", price: "₫1.490.000", commission: "6%", sold: "890 đã bán", img: "https://placehold.co/300x300/f0fdf4/22c55e?text=SP3" },
+          { name: "Bộ dưỡng da Sulwhasoo Concentrated Ginseng Renewing Basic Kit", price: "₫850.000", commission: "10%", sold: "3.2k đã bán", img: "https://placehold.co/300x300/fdf4ff/a855f7?text=SP4" },
+          { name: "Máy lọc không khí Xiaomi Air Purifier 4 Lite chính hãng", price: "₫2.190.000", commission: "7%", sold: "1.7k đã bán", img: "https://placehold.co/300x300/fffbeb/f59e0b?text=SP5" },
+          { name: "Giày thể thao nam Nike Air Max 270 chạy bộ tập gym", price: "₫1.250.000", commission: "9%", sold: "4.1k đã bán", img: "https://placehold.co/300x300/fff4f2/ee4d2d?text=SP6" },
+          { name: "Tã quần Huggies Dry Pants XXL34 miếng thấm hút tốt", price: "₫95.000", commission: "5%", sold: "12k đã bán", img: "https://placehold.co/300x300/f0f9ff/3b82f6?text=SP7" },
+          { name: "Đèn bàn học chống cận LED Baseus thông minh điều chỉnh sáng", price: "₫245.000", commission: "11%", sold: "678 đã bán", img: "https://placehold.co/300x300/f0fdf4/22c55e?text=SP8" },
+          { name: "Vitamin C 1000mg Now Foods hộp 250 viên nhập khẩu Mỹ", price: "₫280.000", commission: "15%", sold: "9.3k đã bán", img: "https://placehold.co/300x300/fdf4ff/a855f7?text=SP9" },
+          { name: "Robot hút bụi Dreame D10 Plus tự đổ rác thông minh", price: "₫4.590.000", commission: "8%", sold: "542 đã bán", img: "https://placehold.co/300x300/fffbeb/f59e0b?text=SP10" },
+        ].map(p => (
+          <div class="product-card">
+            <div class="product-img">
+              <img src={p.img} alt={p.name} loading="lazy" />
+              <span class="commission-badge">HOT</span>
+            </div>
+            <div class="product-info">
+              <div class="product-name">{p.name}</div>
+              <div class="product-price">{p.price}</div>
+              <div class="product-meta">
+                <span class="commission-rate">💚 Hoa hồng {p.commission}</span>
+              </div>
+            </div>
+            <div class="product-footer">
+              <span class="sold-count">{p.sold}</span>
+              <button class="btn-promote">Quảng bá</button>
+            </div>
+          </div>
+        ))}
+
+      </div>
+    </main>
+  </div>
+
+  <script>
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+      });
+    });
+  </script>
+
+</body>
 </html>
