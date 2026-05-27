@@ -11,9 +11,9 @@ const currentPath = new URL(Astro.request.url).pathname;
 // Define navigation links
 const navLinks = [
     { href: "/", label: "🏠 Trang chủ", path: "/" },
-    { href: "/about", label: "👨‍💻 Về tôi", path: "/about" },
-    { href: "/contact", label: "📧 Liên hệ", path: "/contact" },
-    { href: "/posts", label: "📧 Posts", path: "/posts" },
+    //{ href: "/about", label: "👨‍💻 Về tôi", path: "/about" },
+    //{ href: "/contact", label: "📧 Liên hệ", path: "/contact" },
+    { href: "/posts", label: "👨‍💻 Posts", path: "/posts" },
 ];
 
 // Check if link is active
@@ -40,7 +40,7 @@ const isActive = (href: string) => {
         <nav class="navbar">
             <div class="navbar-container">
                 <div class="navbar-brand">
-                    <a href="/" class="brand-link">🚀 My Web App</a>
+                    <a href="/" class="brand-link">🚀 JoJeep</a>
                 </div>
 
                 <button
