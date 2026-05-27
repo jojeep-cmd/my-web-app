@@ -1,60 +1,88 @@
 <script>
-  let count = 0;
+    import { onMount } from "svelte";
 
-  function increase() {
-    count += 1;
-  }
+    let currentTime = "";
 
-  function decrease() {
-    count -= 1;
-  }
+    function updateTime() {
+        const now = new Date();
+        const options = {
+            weekday: "long",
+            year: "numeric",
+            month: "long",
+            day: "numeric",
+            hour: "2-digit",
+            minute: "2-digit",
+            second: "2-digit",
+        };
+        currentTime = now.toLocaleDateString("vi-VN", options);
+    }
+
+    onMount(() => {
+        updateTime();
+        const interval = setInterval(updateTime, 1000);
+        return () => clearInterval(interval);
+    });
 </script>
 
-<div class="counter">
-  <h2>🔢 Bộ đếm</h2>
-  <p class="count">{count}</p>
-  <div class="buttons">
-    <button on:click={decrease}>➖ Giảm</button>
-    <button on:click={increase}>➕ Tăng</button>
-  </div>
+<div class="container">
+    <div class="product-offer-item">
+        <p id="gold-time">{currentTime}</p>
+
+        <table class="gold-table">
+            <thead>
+                <tr>
+                    <th>LOẠI</th>
+                    <th>MUA</th>
+                    <th>BÁN</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Thế Giới</td>
+                    <td colspan="2" id="world-gold">4,828.25 USD</td>
+                </tr>
+                <tr><td>999</td><td>15.690.000</td><td>16.030.000</td></tr>
+                <tr><td>990</td><td>15.640.000</td><td>15.980.000</td></tr>
+                <tr><td>985</td><td>15.280.000</td><td>15.730.000</td></tr>
+                <tr><td>980</td><td>14.960.000</td><td>15.570.000</td></tr>
+                <tr><td>710</td><td>11.050.000</td><td>11.750.000</td></tr>
+                <tr><td>610</td><td>9.330.000</td><td>10.200.000</td></tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
 <style>
-  .counter {
-    text-align: center;
-    padding: 2rem;
-    border: 2px solid #e0e0e0;
-    border-radius: 12px;
-    max-width: 300px;
-    margin: 2rem auto;
-    background: #f9f9f9;
-  }
+    .container {
+        position: relative;
+        width: 100%; /* fix theo tag cha */
+        overflow: hidden; /* tránh tràn ra ngoài */
+    }
 
-  .count {
-    font-size: 3rem;
-    font-weight: bold;
-    color: #333;
-    margin: 1rem 0;
-  }
+    .product-offer-item {
+        background-color: black; /* nền đen */
+        color: gold; /* chữ vàng */
+        padding: 1px;
+        border-radius: 1px;
+        width: 100%; /* co theo cha */
+        box-sizing: border-box;
+    }
 
-  .buttons {
-    display: flex;
-    gap: 1rem;
-    justify-content: center;
-  }
+    #gold-time {
+        color: red; /* thời gian màu đỏ */
+        font-weight: bold;
+        margin-bottom: 1px;
+    }
 
-  button {
-    padding: 0.75rem 1.5rem;
-    font-size: 1.1rem;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    background: #4f46e5;
-    color: white;
-    transition: background 0.2s;
-  }
+    .gold-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
 
-  button:hover {
-    background: #3730a3;
-  }
+    .gold-table th,
+    .gold-table td {
+        border: 1px solid gold;
+        padding: 1px;
+        text-align: center;
+    }
 </style>
