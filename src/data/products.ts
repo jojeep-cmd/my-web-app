@@ -1,5 +1,10 @@
 import { products as products1 } from "./banchay.js";
-import { products as products2 } from "./tatca.js";
+import { products as products2 } from "./mevabe.js";
+import { products as products3 } from "./bachhoa.js";
+import { products as products4 } from "./thoitrangnam.js";
+import { products as products5 } from "./nhacuadoisong.js";
+import { products as products6 } from "./thethaodulich.js";
+
 export interface Product {
     id: string;
     name: string;
@@ -18,7 +23,14 @@ export interface Category {
     count: number;
 }
 
-export const ALL_PRODUCTS: Product[] = [...products2, ...products1];
+export const ALL_PRODUCTS: Product[] = [
+    ...products1,
+    ...products2,
+    ...products3,
+    ...products4,
+    ...products5,
+    ...products6,
+];
 
 export const CATEGORIES: Category[] = [
     ...Array.from(new Set(ALL_PRODUCTS.map((p) => p.category))).map((cat) => ({

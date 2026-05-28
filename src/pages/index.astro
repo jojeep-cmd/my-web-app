@@ -16,9 +16,9 @@ const products = searchQuery
     : getProducts(categoryParam || null);
 ---
 
-<Layout title="Hoa hồng Sản phẩm">
+<Layout title="Sản phẩm">
     <div class="page-header">
-        <h1 class="page-title">Hoa hồng Sản phẩm</h1>
+        <h1 class="page-title">Sản phẩm</h1>
         <p class="page-subtitle">
             {products.length} sản phẩm
             {categoryParam && !searchQuery ? `· ${categoryParam}` : ""}
