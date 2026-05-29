@@ -8,7 +8,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWVnS8Aa",
     },
     {
         id: "24116209885",
@@ -19,7 +19,7 @@ export const products = [
         commissionRate: "20%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96JUSlVZ",
     },
     {
         id: "20275642280",
@@ -30,7 +30,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MuPQrUg",
     },
     {
         id: "40218350150",
@@ -41,7 +41,7 @@ export const products = [
         commissionRate: "7%",
         sold: "34 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwi6RUpf",
     },
     {
         id: "24676329852",
@@ -52,7 +52,7 @@ export const products = [
         commissionRate: "22%",
         sold: "",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDJ1Paom",
     },
     {
         id: "27232904222",
@@ -63,7 +63,7 @@ export const products = [
         commissionRate: "8%",
         sold: "430 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On6iQE9l",
     },
     {
         id: "27936383918",
@@ -74,7 +74,7 @@ export const products = [
         commissionRate: "8%",
         sold: "289 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3hdOK8s",
     },
     {
         id: "55002755554",
@@ -85,7 +85,7 @@ export const products = [
         commissionRate: "2%",
         sold: "215 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dVKOxTr",
     },
     {
         id: "26259736683",
@@ -96,7 +96,7 @@ export const products = [
         commissionRate: "6%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu6FN3Sy",
     },
     {
         id: "24541621222",
@@ -107,7 +107,7 @@ export const products = [
         commissionRate: "7%",
         sold: "610 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTtwNgnx",
     },
     {
         id: "18591723306",
@@ -118,7 +118,7 @@ export const products = [
         commissionRate: "8%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakUrLmn4",
     },
     {
         id: "29836563154",
@@ -129,7 +129,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKIYMQ83",
     },
     {
         id: "51703822500",
@@ -140,7 +140,7 @@ export const products = [
         commissionRate: "6%",
         sold: "486 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDatTKW7A",
     },
     {
         id: "48610897111",
@@ -151,7 +151,7 @@ export const products = [
         commissionRate: "5%",
         sold: "108 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAhAL9S9",
     },
     {
         id: "22439739107",
@@ -162,7 +162,7 @@ export const products = [
         commissionRate: "4%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRI5JFRG",
     },
     {
         id: "53908289071",
@@ -173,7 +173,7 @@ export const products = [
         commissionRate: "6%",
         sold: "283 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX15mJsmF",
     },
     {
         id: "28128568174",
@@ -184,7 +184,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHghHylM",
     },
     {
         id: "29627415435",
@@ -195,7 +195,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rUOIc6L",
     },
     {
         id: "28679046089",
@@ -206,7 +206,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V685JGi5S",
     },
     {
         id: "24784036787",
@@ -217,7 +217,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmht0HLQR",
     },
     {
         id: "20291344278",
@@ -228,7 +228,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyTvFRPY",
     },
     {
         id: "55851128010",
@@ -239,7 +239,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYHcG4kX",
     },
     {
         id: "26308862116",
@@ -250,7 +250,7 @@ export const products = [
         commissionRate: "7%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALosXEAje",
     },
     {
         id: "10817709925",
@@ -261,7 +261,7 @@ export const products = [
         commissionRate: "3%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OgEEo4d",
     },
     {
         id: "16252792154",
@@ -272,7 +272,7 @@ export const products = [
         commissionRate: "4%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfH9Cu3k",
     },
     {
         id: "46603224560",
@@ -283,7 +283,7 @@ export const products = [
         commissionRate: "9%",
         sold: "264 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF4qDXOj",
     },
     {
         id: "22957340267",
@@ -294,7 +294,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVflBdNq",
     },
     {
         id: "49157123833",
@@ -305,7 +305,7 @@ export const products = [
         commissionRate: "7%",
         sold: "789 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5TSCGip",
     },
     {
         id: "41100457456",
@@ -316,7 +316,7 @@ export const products = [
         commissionRate: "7%",
         sold: "91 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM4NAMhw",
     },
     {
         id: "22058806086",
@@ -327,7 +327,7 @@ export const products = [
         commissionRate: "9%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvs4B02v",
     },
     {
         id: "43910349705",
@@ -338,7 +338,7 @@ export const products = [
         commissionRate: "7%",
         sold: "402 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCSz9622",
     },
     {
         id: "25155899233",
@@ -349,7 +349,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmGg9jN1",
     },
     {
         id: "44314802338",
@@ -360,7 +360,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR09zmR04",
     },
     {
         id: "24436591140",
@@ -371,7 +371,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zxgn4L3",
     },
     {
         id: "23981637809",
@@ -382,7 +382,7 @@ export const products = [
         commissionRate: "3%",
         sold: "971 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qYblAKA",
     },
     {
         id: "26566227959",
@@ -393,7 +393,7 @@ export const products = [
         commissionRate: "4%",
         sold: "142 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQMIlnf9",
     },
     {
         id: "28907676067",
@@ -404,7 +404,7 @@ export const products = [
         commissionRate: "6%",
         sold: "66 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggxDjteG",
     },
     {
         id: "24634239611",
@@ -415,7 +415,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGkukWzF",
     },
     {
         id: "27354480055",
@@ -426,7 +426,7 @@ export const products = [
         commissionRate: "5%",
         sold: "7k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXLpicyM",
     },
     {
         id: "23048465072",
@@ -437,7 +437,7 @@ export const products = [
         commissionRate: "7%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11079WjGJL",
     },
     {
         id: "20894691036",
@@ -448,7 +448,7 @@ export const products = [
         commissionRate: "9%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNkRhMIS",
     },
     {
         id: "28026710691",
@@ -459,7 +459,7 @@ export const products = [
         commissionRate: "7%",
         sold: "109 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxY8hzdR",
     },
     {
         id: "29161646367",
@@ -470,7 +470,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE93g5cY",
     },
     {
         id: "29209835457",
@@ -481,7 +481,7 @@ export const products = [
         commissionRate: "6%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnwkgixX",
     },
     {
         id: "28657885709",
@@ -492,7 +492,7 @@ export const products = [
         commissionRate: "9%",
         sold: "600 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4Xfeowe",
     },
     {
         id: "21189742533",
@@ -503,7 +503,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seLMfSHd",
     },
     {
         id: "25070726767",
@@ -514,7 +514,7 @@ export const products = [
         commissionRate: "5%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouwHdYGk",
     },
     {
         id: "20476435507",
@@ -525,7 +525,7 @@ export const products = [
         commissionRate: "4%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUjyeBbj",
     },
     {
         id: "21481475139",
@@ -536,7 +536,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlKtcHaq",
     },
     {
         id: "53702043704",
@@ -547,7 +547,7 @@ export const products = [
         commissionRate: "12%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L8acuvp",
     },
     {
         id: "27962253948",
@@ -558,7 +558,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bjVb0uw",
     },
     {
         id: "41705847604",
@@ -569,7 +569,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBXCbeFv",
     },
     {
         id: "25189065109",
@@ -580,7 +580,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS87ZkF2",
     },
     {
         id: "27676711247",
@@ -591,7 +591,7 @@ export const products = [
         commissionRate: "8%",
         sold: "278 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1voaNa1",
     },
     {
         id: "18977855352",
@@ -602,7 +602,7 @@ export const products = [
         commissionRate: "4%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIWjYTZ8",
     },
     {
         id: "23063892716",
@@ -613,7 +613,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sKQZ6u7",
     },
     {
         id: "26323822501",
@@ -624,7 +624,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8vLXCtE",
     },
     {
         id: "11299805412",
@@ -635,7 +635,7 @@ export const products = [
         commissionRate: "2%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dij2XqED",
     },
     {
         id: "27872734802",
@@ -646,7 +646,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzJxVwDK",
     },
     {
         id: "53108482056",
@@ -657,7 +657,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ7eWZYJ",
     },
     {
         id: "28657635079",
@@ -668,7 +668,7 @@ export const products = [
         commissionRate: "6%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpiZUfXQ",
     },
     {
         id: "28476670418",
@@ -679,7 +679,7 @@ export const products = [
         commissionRate: "7%",
         sold: "31 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPWGVIsP",
     },
     {
         id: "45607959208",
@@ -690,7 +690,7 @@ export const products = [
         commissionRate: "5%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg7BTOrW",
     },
     {
         id: "25934675380",
@@ -701,7 +701,7 @@ export const products = [
         commissionRate: "4%",
         sold: "481 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFusU2CV",
     },
     {
         id: "26319252965",
@@ -712,7 +712,7 @@ export const products = [
         commissionRate: "14%",
         sold: "548 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96JUSlWa",
     },
     {
         id: "29251446204",
@@ -723,7 +723,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWVnS8Bd",
     },
     {
         id: "28459665254",
@@ -734,7 +734,7 @@ export const products = [
         commissionRate: "6%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwi6RUqg",
     },
     {
         id: "24046263683",
@@ -745,7 +745,7 @@ export const products = [
         commissionRate: "5%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MuPQrVj",
     },
     {
         id: "28882049687",
@@ -756,7 +756,7 @@ export const products = [
         commissionRate: "6%",
         sold: "652 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On6iQEAm",
     },
     {
         id: "28176649934",
@@ -767,7 +767,7 @@ export const products = [
         commissionRate: "7%",
         sold: "590 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDJ1Papp",
     },
     {
         id: "54950968623",
@@ -778,7 +778,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dVKOxUs",
     },
     {
         id: "53651907162",
@@ -789,7 +789,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3hdOK9v",
     },
     {
         id: "24834638648",
@@ -800,7 +800,7 @@ export const products = [
         commissionRate: "6%",
         sold: "300 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTtwNgoy",
     },
     {
         id: "27371196338",
@@ -811,7 +811,7 @@ export const products = [
         commissionRate: "8%",
         sold: "561 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu6FN3U1",
     },
     {
         id: "44403577644",
@@ -822,7 +822,7 @@ export const products = [
         commissionRate: "3%",
         sold: "328 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKIYMQ94",
     },
     {
         id: "24076240143",
@@ -833,7 +833,7 @@ export const products = [
         commissionRate: "7%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakUrLmo7",
     },
     {
         id: "22036142992",
@@ -844,7 +844,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAhAL9TA",
     },
     {
         id: "26580892729",
@@ -855,7 +855,7 @@ export const products = [
         commissionRate: "5%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDatTKW8D",
     },
     {
         id: "2132147813",
@@ -866,7 +866,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX15mJsnG",
     },
     {
         id: "44502217924",
@@ -877,7 +877,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRI5JFSJ",
     },
     {
         id: "43210302627",
@@ -888,7 +888,7 @@ export const products = [
         commissionRate: "6%",
         sold: "51 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rUOIc7M",
     },
     {
         id: "40729747457",
@@ -899,7 +899,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHghHymP",
     },
     {
         id: "20985277367",
@@ -910,7 +910,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmht0HLRS",
     },
     {
         id: "28466513376",
@@ -921,7 +921,7 @@ export const products = [
         commissionRate: "14%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V685JGi6V",
     },
     {
         id: "19337823228",
@@ -932,7 +932,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYHcG4lY",
     },
     {
         id: "12694467884",
@@ -943,7 +943,7 @@ export const products = [
         commissionRate: "32%",
         sold: "979 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyTvFRQb",
     },
     {
         id: "29533034786",
@@ -954,7 +954,7 @@ export const products = [
         commissionRate: "3%",
         sold: "455 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OgEEo5e",
     },
     {
         id: "43162628296",
@@ -965,7 +965,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALosXEAkh",
     },
     {
         id: "21034775793",
@@ -976,7 +976,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF4qDXPk",
     },
     {
         id: "28561066896",
@@ -987,7 +987,7 @@ export const products = [
         commissionRate: "4%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfH9Cu4n",
     },
     {
         id: "26855260734",
@@ -998,7 +998,7 @@ export const products = [
         commissionRate: "4%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5TSCGjq",
     },
     {
         id: "14190247695",
@@ -1009,7 +1009,7 @@ export const products = [
         commissionRate: "4%",
         sold: "60k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVflBdOt",
     },
     {
         id: "25934640763",
@@ -1020,7 +1020,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvs4B03w",
     },
     {
         id: "26813129207",
@@ -1031,7 +1031,7 @@ export const products = [
         commissionRate: "4%",
         sold: "500k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM4NAMiz",
     },
     {
         id: "29807844451",
@@ -1042,7 +1042,7 @@ export const products = [
         commissionRate: "12%",
         sold: "800k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmGg9jO2",
     },
     {
         id: "15235777416",
@@ -1053,7 +1053,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCSz9635",
     },
     {
         id: "44904939916",
@@ -1064,7 +1064,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zxgn4M4",
     },
     {
         id: "53255664115",
@@ -1075,7 +1075,7 @@ export const products = [
         commissionRate: "7%",
         sold: "623 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR09zmR17",
     },
     {
         id: "24785798327",
@@ -1086,7 +1086,7 @@ export const products = [
         commissionRate: "8%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQMIlngA",
     },
     {
         id: "40257024606",
@@ -1097,7 +1097,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qYblALD",
     },
     {
         id: "17694218503",
@@ -1108,7 +1108,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MuR4Onr",
     },
     {
         id: "28311001545",
@@ -1119,7 +1119,7 @@ export const products = [
         commissionRate: "5%",
         sold: "245 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On6k3lSu",
     },
     {
         id: "29539169128",
@@ -1130,7 +1130,7 @@ export const products = [
         commissionRate: "7%",
         sold: "453 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDJ3387x",
     },
     {
         id: "25330435185",
@@ -1141,7 +1141,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dVM2Un0",
     },
     {
         id: "40826655603",
@@ -1152,7 +1152,7 @@ export const products = [
         commissionRate: "4%",
         sold: "313 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3hf1rS3",
     },
     {
         id: "18822603411",
@@ -1163,7 +1163,7 @@ export const products = [
         commissionRate: "2%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTty1E76",
     },
     {
         id: "27362193799",
@@ -1174,7 +1174,7 @@ export const products = [
         commissionRate: "5%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu6H0am9",
     },
     {
         id: "28355889566",
@@ -1185,7 +1185,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKIZzxRC",
     },
     {
         id: "27911971099",
@@ -1196,7 +1196,7 @@ export const products = [
         commissionRate: "2%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakUszK6F",
     },
     {
         id: "55852053122",
@@ -1207,7 +1207,7 @@ export const products = [
         commissionRate: "12%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAhByglI",
     },
     {
         id: "22454193977",
@@ -1218,7 +1218,7 @@ export const products = [
         commissionRate: "3%",
         sold: "700k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDatUy3QL",
     },
     {
         id: "27462996835",
@@ -1229,7 +1229,7 @@ export const products = [
         commissionRate: "9%",
         sold: "358 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX15nxQ5O",
     },
     {
         id: "23390277189",
@@ -1240,7 +1240,7 @@ export const products = [
         commissionRate: "5%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRI6wmkR",
     },
     {
         id: "21585559898",
@@ -1251,7 +1251,7 @@ export const products = [
         commissionRate: "9%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rUPw9PU",
     },
     {
         id: "25633823824",
@@ -1262,7 +1262,7 @@ export const products = [
         commissionRate: "6%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHgivW4X",
     },
     {
         id: "22020166994",
@@ -1273,7 +1273,7 @@ export const products = [
         commissionRate: "4%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmht1usja",
     },
     {
         id: "27558715169",
@@ -1284,7 +1284,7 @@ export const products = [
         commissionRate: "4%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V685KuFOd",
     },
     {
         id: "40851963327",
@@ -1295,7 +1295,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYHdtc3g",
     },
     {
         id: "27816517924",
@@ -1306,7 +1306,7 @@ export const products = [
         commissionRate: "14%",
         sold: "66 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyTwsyij",
     },
     {
         id: "29581887926",
@@ -1317,7 +1317,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OgFsLNm",
     },
     {
         id: "23273434599",
@@ -1328,7 +1328,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALosYri2p",
     },
     {
         id: "46754637218",
@@ -1339,7 +1339,7 @@ export const products = [
         commissionRate: "13%",
         sold: "266 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF4rr4hs",
     },
     {
         id: "28460623721",
@@ -1350,7 +1350,7 @@ export const products = [
         commissionRate: "8%",
         sold: "504 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfHAqRMv",
     },
     {
         id: "26828734769",
@@ -1361,7 +1361,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5TTpo1y",
     },
     {
         id: "15798085715",
@@ -1372,7 +1372,7 @@ export const products = [
         commissionRate: "3%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVfmpAh1",
     },
     {
         id: "24864409989",
@@ -1383,7 +1383,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvs5oXM4",
     },
     {
         id: "25952254225",
@@ -1394,7 +1394,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM4Onu17",
     },
     {
         id: "27761975196",
@@ -1405,7 +1405,7 @@ export const products = [
         commissionRate: "2%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmGhnGgA",
     },
     {
         id: "21193910354",
@@ -1416,7 +1416,7 @@ export const products = [
         commissionRate: "6%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCT0mdLD",
     },
     {
         id: "26380471027",
@@ -1427,7 +1427,7 @@ export const products = [
         commissionRate: "12%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZxiQbeC",
     },
     {
         id: "14751982710",
@@ -1438,7 +1438,7 @@ export const products = [
         commissionRate: "3%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0A1PyJF",
     },
     {
         id: "17097096357",
@@ -1449,7 +1449,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQMKPKyI",
     },
     {
         id: "26903414722",
@@ -1460,7 +1460,7 @@ export const products = [
         commissionRate: "8%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qYdOhdL",
     },
     {
         id: "26507148496",
@@ -1471,7 +1471,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGkwO4IO",
     },
     {
         id: "24916686380",
@@ -1482,7 +1482,7 @@ export const products = [
         commissionRate: "7%",
         sold: "8k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggxFNQxR",
     },
     {
         id: "45709633178",
@@ -1493,7 +1493,7 @@ export const products = [
         commissionRate: "2%",
         sold: "539 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11079YMncU",
     },
     {
         id: "27293494854",
@@ -1504,7 +1504,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXLrMAHX",
     },
     {
         id: "2036795185",
@@ -1515,7 +1515,7 @@ export const products = [
         commissionRate: "2%",
         sold: "40k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxYALWwa",
     },
     {
         id: "26305223898",
@@ -1526,7 +1526,7 @@ export const products = [
         commissionRate: "9%",
         sold: "453 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNkTKtbd",
     },
     {
         id: "44607459735",
@@ -1537,7 +1537,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnwmKGGg",
     },
     {
         id: "26263528648",
@@ -1548,7 +1548,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE95Jcvj",
     },
     {
         id: "18294575602",
@@ -1559,7 +1559,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seLOIzam",
     },
     {
         id: "12722222965",
@@ -1570,7 +1570,7 @@ export const products = [
         commissionRate: "5%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4XhIMFp",
     },
     {
         id: "27704950003",
@@ -1581,7 +1581,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUk0Hius",
     },
     {
         id: "40460748454",
@@ -1592,7 +1592,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouwJH5Zv",
     },
     {
         id: "5141872652",
@@ -1603,7 +1603,7 @@ export const products = [
         commissionRate: "5%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L8cGSEy",
     },
     {
         id: "26231126850",
@@ -1614,7 +1614,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlKvFou1",
     },
     {
         id: "20552192335",
@@ -1625,7 +1625,7 @@ export const products = [
         commissionRate: "3%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBXEFBZ4",
     },
     {
         id: "45257761964",
@@ -1636,7 +1636,7 @@ export const products = [
         commissionRate: "2%",
         sold: "958 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bjXEYE7",
     },
     {
         id: "28560385464",
@@ -1647,7 +1647,7 @@ export const products = [
         commissionRate: "9%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1vqDutA",
     },
     {
         id: "58001790458",
@@ -1658,7 +1658,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS89DHYD",
     },
     {
         id: "29944087100",
@@ -1669,7 +1669,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sKSCeDG",
     },
     {
         id: "22183344512",
@@ -1680,7 +1680,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIWlC0sJ",
     },
     {
         id: "41772951971",
@@ -1691,7 +1691,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dij4BNXM",
     },
     {
         id: "26279320390",
@@ -1702,7 +1702,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8vNAkCP",
     },
     {
         id: "14526067733",
@@ -1713,7 +1713,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ7gA6rS",
     },
     {
         id: "52202131526",
@@ -1724,7 +1724,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzJz9TWV",
     },
     {
         id: "40629741073",
@@ -1735,7 +1735,7 @@ export const products = [
         commissionRate: "12%",
         sold: "401 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPWI8qBY",
     },
     {
         id: "24268467520",
@@ -1746,7 +1746,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpib8Cqb",
     },
     {
         id: "16088420741",
@@ -1757,7 +1757,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFuu7ZVe",
     },
     {
         id: "27706372446",
@@ -1768,7 +1768,7 @@ export const products = [
         commissionRate: "6%",
         sold: "60k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg7D6wAh",
     },
     {
         id: "26750909340",
@@ -1779,7 +1779,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWVp5fUm",
     },
     {
         id: "28155225944",
@@ -1790,7 +1790,7 @@ export const products = [
         commissionRate: "9%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96JW6Ipl",
     },
     {
         id: "4142565986",
@@ -1801,7 +1801,7 @@ export const products = [
         commissionRate: "2%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MuR4Oos",
     },
     {
         id: "14611444221",
@@ -1812,7 +1812,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwi8529r",
     },
     {
         id: "26322251945",
@@ -1823,7 +1823,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDJ3388y",
     },
     {
         id: "27802860752",
@@ -1834,7 +1834,7 @@ export const products = [
         commissionRate: "14%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On6k3lTx",
     },
     {
         id: "15299582672",
@@ -1845,7 +1845,7 @@ export const products = [
         commissionRate: "2%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3hf1rT4",
     },
     {
         id: "24122572454",
@@ -1856,7 +1856,7 @@ export const products = [
         commissionRate: "3%",
         sold: "399 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dVM2Uo3",
     },
     {
         id: "51602057396",
@@ -1867,7 +1867,7 @@ export const products = [
         commissionRate: "12%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu6H0anA",
     },
     {
         id: "53809299646",
@@ -1878,7 +1878,7 @@ export const products = [
         commissionRate: "5%",
         sold: "216 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTty1E89",
     },
     {
         id: "4537242491",
@@ -1889,7 +1889,7 @@ export const products = [
         commissionRate: "9%",
         sold: "7k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakUszK7G",
     },
     {
         id: "15527434560",
@@ -1900,7 +1900,7 @@ export const products = [
         commissionRate: "3%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKIZzxSF",
     },
     {
         id: "26355610410",
@@ -1911,7 +1911,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDatUy3RM",
     },
     {
         id: "11138852121",
@@ -1922,7 +1922,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAhBygmL",
     },
     {
         id: "50505240537",
@@ -1933,7 +1933,7 @@ export const products = [
         commissionRate: "197%",
         sold: "27 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRI6wmlS",
     },
     {
         id: "16172298849",
@@ -1944,7 +1944,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX15nxQ6R",
     },
     {
         id: "27426440231",
@@ -1955,7 +1955,7 @@ export const products = [
         commissionRate: "12%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHgivW5Y",
     },
     {
         id: "28851374103",
@@ -1966,7 +1966,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rUPw9QX",
     },
     {
         id: "51556309184",
@@ -1977,7 +1977,7 @@ export const products = [
         commissionRate: "3%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V685KuFPe",
     },
     {
         id: "17832244113",
@@ -1988,7 +1988,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmht1uskd",
     },
     {
         id: "26477451880",
@@ -1999,7 +1999,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyTwsyjk",
     },
     {
         id: "3654877474",
@@ -2010,7 +2010,7 @@ export const products = [
         commissionRate: "4%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYHdtc4j",
     },
     {
         id: "24824295748",
@@ -2021,7 +2021,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALosYri3q",
     },
     {
         id: "19984001389",
@@ -2032,7 +2032,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OgFsLOp",
     },
     {
         id: "2010392802",
@@ -2043,7 +2043,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfHAqRNw",
     },
     {
         id: "23484995232",
@@ -2054,7 +2054,7 @@ export const products = [
         commissionRate: "4%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF4rr4iv",
     },
     {
         id: "41501035415",
@@ -2065,7 +2065,7 @@ export const products = [
         commissionRate: "42%",
         sold: "1 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVfmpAi2",
     },
     {
         id: "27850643773",
@@ -2076,7 +2076,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5TTpo31",
     },
     {
         id: "27319278287",
@@ -2087,7 +2087,7 @@ export const products = [
         commissionRate: "4%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM4Onu28",
     },
     {
         id: "4534938255",
@@ -2098,7 +2098,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvs5oXN7",
     },
     {
         id: "27969531677",
@@ -2109,7 +2109,7 @@ export const products = [
         commissionRate: "4%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCT0mdME",
     },
     {
         id: "23030765469",
@@ -2120,7 +2120,7 @@ export const products = [
         commissionRate: "5%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmGhnGhD",
     },
     {
         id: "27726706905",
@@ -2131,7 +2131,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0A1PyKG",
     },
     {
         id: "24354293226",
@@ -2142,7 +2142,7 @@ export const products = [
         commissionRate: "9%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZxiQbfF",
     },
     {
         id: "24013260671",
@@ -2153,7 +2153,7 @@ export const products = [
         commissionRate: "2%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qYdOheM",
     },
     {
         id: "26616521404",
@@ -2164,7 +2164,7 @@ export const products = [
         commissionRate: "14%",
         sold: "133 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQMKPKzL",
     },
     {
         id: "27205520345",
@@ -2175,7 +2175,7 @@ export const products = [
         commissionRate: "6%",
         sold: "255 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggxFNQyS",
     },
     {
         id: "9125188028",
@@ -2186,7 +2186,7 @@ export const products = [
         commissionRate: "3%",
         sold: "700k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGkwO4JR",
     },
     {
         id: "9454561860",
@@ -2197,7 +2197,7 @@ export const products = [
         commissionRate: "9%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXLrMAIY",
     },
     {
         id: "27408625296",
@@ -2208,7 +2208,7 @@ export const products = [
         commissionRate: "6%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3hhIVy5",
     },
     {
         id: "21042780082",
@@ -2219,7 +2219,7 @@ export const products = [
         commissionRate: "3%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On6mKPz0",
     },
     {
         id: "46601138389",
@@ -2230,7 +2230,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDJ5Jme3",
     },
     {
         id: "18481234965",
@@ -2241,7 +2241,7 @@ export const products = [
         commissionRate: "3%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwiALgey",
     },
     {
         id: "24600170412",
@@ -2252,7 +2252,7 @@ export const products = [
         commissionRate: "2%",
         sold: "600k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MuTL3K1",
     },
     {
         id: "9737969571",
@@ -2263,7 +2263,7 @@ export const products = [
         commissionRate: "12%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96JYMxKw",
     },
     {
         id: "17765036487",
@@ -2274,7 +2274,7 @@ export const products = [
         commissionRate: "7%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/7VDZrUmZ6W",
+        affiliateLink: "https://s.shopee.vn/5VSWVrMJzz",
     },
     {
         id: "8723645907",
@@ -2285,7 +2285,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmGk3vBw",
     },
     {
         id: "22035317318",
@@ -2296,7 +2296,7 @@ export const products = [
         commissionRate: "2%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCT33Hqz",
     },
     {
         id: "46109615860",
@@ -2307,7 +2307,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvs85Bru",
     },
     {
         id: "16867840262",
@@ -2318,7 +2318,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1tr+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM4R4YWx",
     },
     {
         id: "29185798751",
@@ -2329,7 +2329,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5TW6SXs",
     },
     {
         id: "4889430510",
@@ -2340,7 +2340,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVfp5pCv",
     },
     {
         id: "56752005366",
@@ -2351,7 +2351,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF4u7jDq",
     },
     {
         id: "23590285909",
@@ -2362,7 +2362,7 @@ export const products = [
         commissionRate: "5%",
         sold: "8k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfHD75st",
     },
     {
         id: "28511372987",
@@ -2373,7 +2373,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OgI8zto",
     },
     {
         id: "27416508449",
@@ -2384,7 +2384,7 @@ export const products = [
         commissionRate: "14%",
         sold: "211 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALosb8MYr",
     },
     {
         id: "28103180522",
@@ -2395,7 +2395,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYHgAGZm",
     },
     {
         id: "25405673867",
@@ -2406,7 +2406,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyTz9dEp",
     },
     {
         id: "29513597681",
@@ -2417,7 +2417,7 @@ export const products = [
         commissionRate: "3%",
         sold: "50k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmht4BXFk",
     },
     {
         id: "17042082988",
@@ -2428,7 +2428,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V685NAtun",
     },
     {
         id: "28509857450",
@@ -2439,7 +2439,7 @@ export const products = [
         commissionRate: "9%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rUSCnvi",
     },
     {
         id: "23641364570",
@@ -2450,7 +2450,7 @@ export const products = [
         commissionRate: "4%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHglCAal",
     },
     {
         id: "10194421643",
@@ -2461,7 +2461,7 @@ export const products = [
         commissionRate: "4%",
         sold: "887 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUk2YNQe",
     },
     {
         id: "22374441802",
@@ -2472,7 +2472,7 @@ export const products = [
         commissionRate: "3%",
         sold: "70k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/60Om4qBmXn",
+        affiliateLink: "https://s.shopee.vn/2VouwLXk5h",
     },
     {
         id: "24791589109",
@@ -2483,7 +2483,7 @@ export const products = [
         commissionRate: "7%",
         sold: "555 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seLQZe6c",
     },
     {
         id: "22074162283",
@@ -2494,7 +2494,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1tr+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4XjZ0lf",
     },
     {
         id: "23576270966",
@@ -2505,7 +2505,7 @@ export const products = [
         commissionRate: "7%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnwoauma",
     },
     {
         id: "26915802517",
@@ -2516,7 +2516,7 @@ export const products = [
         commissionRate: "3%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE97aHRd",
     },
     {
         id: "21836519137",
@@ -2527,7 +2527,7 @@ export const products = [
         commissionRate: "12%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxYCcBSY",
     },
     {
         id: "50655611321",
@@ -2538,7 +2538,7 @@ export const products = [
         commissionRate: "5%",
         sold: "427 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNkVbY7b",
     },
     {
         id: "27190607940",
@@ -2549,7 +2549,7 @@ export const products = [
         commissionRate: "6%",
         sold: "40k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11079adS8W",
     },
     {
         id: "42430227334",
@@ -2560,7 +2560,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/BQz81ETzp",
+        affiliateLink: "https://s.shopee.vn/1BJXLtconZ",
     },
     {
         id: "11210501258",
@@ -2571,7 +2571,7 @@ export const products = [
         commissionRate: "6%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGkyeioU",
     },
     {
         id: "26718831834",
@@ -2582,7 +2582,7 @@ export const products = [
         commissionRate: "14%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggxHe5TX",
     },
     {
         id: "40201935711",
@@ -2593,7 +2593,7 @@ export const products = [
         commissionRate: "9%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQMMfzUS",
     },
     {
         id: "51650608077",
@@ -2604,7 +2604,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qYffM9V",
     },
     {
         id: "29654481846",
@@ -2615,7 +2615,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZxkhGAQ",
     },
     {
         id: "4418513665",
@@ -2626,7 +2626,7 @@ export const products = [
         commissionRate: "12%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0A3gcpT",
     },
     {
         id: "23758482141",
@@ -2637,7 +2637,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFuwOE1Q",
     },
     {
         id: "9451137316",
@@ -2648,7 +2648,7 @@ export const products = [
         commissionRate: "3%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg7FNagT",
     },
     {
         id: "27357123088",
@@ -2659,7 +2659,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPWKPUhO",
     },
     {
         id: "18786107335",
@@ -2670,7 +2670,7 @@ export const products = [
         commissionRate: "9%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpidOrMR",
     },
     {
         id: "23186748267",
@@ -2681,7 +2681,7 @@ export const products = [
         commissionRate: "5%",
         sold: "232 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ7iQlNM",
     },
     {
         id: "20230516830",
@@ -2692,7 +2692,7 @@ export const products = [
         commissionRate: "4%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzK1Q82P",
     },
     {
         id: "28968605324",
@@ -2703,7 +2703,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dij6S23K",
     },
     {
         id: "45452896545",
@@ -2714,7 +2714,7 @@ export const products = [
         commissionRate: "5%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8vPROiN",
     },
     {
         id: "54256257155",
@@ -2725,7 +2725,7 @@ export const products = [
         commissionRate: "5%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sKUTIjI",
     },
     {
         id: "27628682373",
@@ -2736,7 +2736,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIWnSfOL",
     },
     {
         id: "24522921212",
@@ -2747,7 +2747,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1vsUZPG",
     },
     {
         id: "42004392817",
@@ -2758,7 +2758,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS8BTw4J",
     },
     {
         id: "22364218001",
@@ -2769,7 +2769,7 @@ export const products = [
         commissionRate: "3%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBXGVq5E",
     },
     {
         id: "27425672696",
@@ -2780,7 +2780,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bjZVCkH",
     },
     {
         id: "44002062940",
@@ -2791,7 +2791,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L8eX6lC",
     },
     {
         id: "25272229224",
@@ -2802,7 +2802,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlKxWTQF",
     },
     {
         id: "24135671244",
@@ -2813,7 +2813,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRI9DRHE",
     },
     {
         id: "27554504017",
@@ -2824,7 +2824,7 @@ export const products = [
         commissionRate: "4%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX15qE4cD",
     },
     {
         id: "29779790345",
@@ -2835,7 +2835,7 @@ export const products = [
         commissionRate: "7%",
         sold: "128 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDatXEhxC",
     },
     {
         id: "24570384465",
@@ -2846,7 +2846,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAhEFLIB",
     },
     {
         id: "21486144093",
@@ -2857,7 +2857,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakUvFydA",
     },
     {
         id: "41959996237",
@@ -2868,7 +2868,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKIcGby9",
     },
     {
         id: "9935472791",
@@ -2879,7 +2879,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu6JHFJ8",
     },
     {
         id: "29463664359",
@@ -2890,7 +2890,7 @@ export const products = [
         commissionRate: "3%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTu0Hse7",
     },
     {
         id: "15499574225",
@@ -2901,7 +2901,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3hhIVz6",
     },
     {
         id: "12364426909",
@@ -2912,7 +2912,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dVOJ9K5",
     },
     {
         id: "24991586773",
@@ -2923,7 +2923,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDJ5Jmf4",
     },
     {
         id: "27832900835",
@@ -2934,7 +2934,7 @@ export const products = [
         commissionRate: "2%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On6mKQ03",
     },
     {
         id: "15374774516",
@@ -2945,7 +2945,7 @@ export const products = [
         commissionRate: "6%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MuTL3L2",
     },
     {
         id: "43608660776",
@@ -2956,7 +2956,7 @@ export const products = [
         commissionRate: "9%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwiALgg1",
     },
     {
         id: "26667777858",
@@ -2967,7 +2967,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWVrMK10",
     },
     {
         id: "48751546814",
@@ -2978,7 +2978,7 @@ export const products = [
         commissionRate: "5%",
         sold: "7k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96JYMxLz",
     },
     {
         id: "24519266746",
@@ -2989,7 +2989,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCT33Hs0",
     },
     {
         id: "23180156855",
@@ -3000,7 +3000,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmGk3vCz",
     },
     {
         id: "41374456382",
@@ -3011,7 +3011,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM4R4YXy",
     },
     {
         id: "26674197060",
@@ -3022,7 +3022,7 @@ export const products = [
         commissionRate: "4%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvs85Bsx",
     },
     {
         id: "21689935845",
@@ -3033,7 +3033,7 @@ export const products = [
         commissionRate: "3%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVfp5pDw",
     },
     {
         id: "19775870633",
@@ -3044,7 +3044,7 @@ export const products = [
         commissionRate: "3%",
         sold: "500k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5TW6SYv",
     },
     {
         id: "19655436760",
@@ -3055,7 +3055,7 @@ export const products = [
         commissionRate: "10%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfHD75tu",
     },
     {
         id: "12918796027",
@@ -3066,7 +3066,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF4u7jEt",
     },
     {
         id: "55307979151",
@@ -3077,7 +3077,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALosb8MZs",
     },
     {
         id: "22346118918",
@@ -3088,7 +3088,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OgI8zur",
     },
     {
         id: "24680504940",
@@ -3099,7 +3099,7 @@ export const products = [
         commissionRate: "10%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyTz9dFq",
     },
     {
         id: "16594437775",
@@ -3110,7 +3110,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYHgAGap",
     },
     {
         id: "16142071163",
@@ -3121,7 +3121,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V685NAtvo",
     },
     {
         id: "18137032103",
@@ -3132,7 +3132,7 @@ export const products = [
         commissionRate: "3%",
         sold: "800k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmht4BXGn",
     },
     {
         id: "42126761968",
@@ -3143,7 +3143,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHglCAbm",
     },
     {
         id: "51357476722",
@@ -3154,7 +3154,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rUSCnwl",
     },
     {
         id: "9972118249",
@@ -3165,7 +3165,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouwLXk6i",
     },
     {
         id: "29253945952",
@@ -3176,7 +3176,7 @@ export const products = [
         commissionRate: "7%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUk2YNRh",
     },
     {
         id: "29472128877",
@@ -3187,7 +3187,7 @@ export const products = [
         commissionRate: "2%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4XjZ0mg",
     },
     {
         id: "23660751290",
@@ -3198,7 +3198,7 @@ export const products = [
         commissionRate: "2%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seLQZe7f",
     },
     {
         id: "26829887636",
@@ -3209,7 +3209,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE97aHSe",
     },
     {
         id: "26151888339",
@@ -3220,7 +3220,7 @@ export const products = [
         commissionRate: "6%",
         sold: "128 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnwoaund",
     },
     {
         id: "46859620849",
@@ -3231,7 +3231,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNkVbY8c",
     },
     {
         id: "52409254686",
@@ -3242,7 +3242,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxYCcBTb",
     },
     {
         id: "23632378470",
@@ -3253,7 +3253,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXLtcooa",
     },
     {
         id: "25686422164",
@@ -3264,7 +3264,7 @@ export const products = [
         commissionRate: "31%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11079adS9Z",
     },
     {
         id: "24335706797",
@@ -3275,7 +3275,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggxHe5UY",
     },
     {
         id: "20761482355",
@@ -3286,7 +3286,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGkyeipX",
     },
     {
         id: "23503214505",
@@ -3297,7 +3297,7 @@ export const products = [
         commissionRate: "3%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qYffMAW",
     },
     {
         id: "29265616612",
@@ -3308,7 +3308,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDatZR6CD",
     },
     {
         id: "23400382068",
@@ -3319,7 +3319,7 @@ export const products = [
         commissionRate: "4%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX15sQSrG",
     },
     {
         id: "24858724781",
@@ -3330,7 +3330,7 @@ export const products = [
         commissionRate: "7%",
         sold: "70k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRIBPpWJ",
     },
     {
         id: "54958992634",
@@ -3341,7 +3341,7 @@ export const products = [
         commissionRate: "7%",
         sold: "869 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96JaZLaq",
     },
     {
         id: "388704741",
@@ -3352,7 +3352,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWVtYiFt",
     },
     {
         id: "44267625240",
@@ -3363,7 +3363,7 @@ export const products = [
         commissionRate: "12%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/20sdJQ60YE",
+        affiliateLink: "https://s.shopee.vn/5flwiCY4uw",
     },
     {
         id: "19303144575",
@@ -3374,7 +3374,7 @@ export const products = [
         commissionRate: "5%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MuVXRZz",
     },
     {
         id: "27332839185",
@@ -3385,7 +3385,7 @@ export const products = [
         commissionRate: "3%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On6oWoF2",
     },
     {
         id: "24907434877",
@@ -3396,7 +3396,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDJ7WAu5",
     },
     {
         id: "6682236737",
@@ -3407,7 +3407,7 @@ export const products = [
         commissionRate: "2%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dVQVXZ8",
     },
     {
         id: "19890475439",
@@ -3418,7 +3418,7 @@ export const products = [
         commissionRate: "8%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3hjUuEB",
     },
     {
         id: "29806835355",
@@ -3429,7 +3429,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF4wK7Tk",
     },
     {
         id: "24668688180",
@@ -3440,7 +3440,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfHFJU8n",
     },
     {
         id: "21880639755",
@@ -3451,7 +3451,7 @@ export const products = [
         commissionRate: "5%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5TYIqnq",
     },
     {
         id: "44122409405",
@@ -3462,7 +3462,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVfrIDSt",
     },
     {
         id: "26062518655",
@@ -3473,7 +3473,7 @@ export const products = [
         commissionRate: "3%",
         sold: "921 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvsAHa7w",
     },
     {
         id: "21244386570",
@@ -3484,7 +3484,7 @@ export const products = [
         commissionRate: "9%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM4TGwmz",
     },
     {
         id: "48207343621",
@@ -3495,7 +3495,7 @@ export const products = [
         commissionRate: "12%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmGmGJS2",
     },
     {
         id: "25763973829",
@@ -3506,7 +3506,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCT5Fg75",
     },
     {
         id: "26607629704",
@@ -3517,7 +3517,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rUUPCBc",
     },
     {
         id: "43800467161",
@@ -3528,7 +3528,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHgnOYqf",
     },
     {
         id: "28559024188",
@@ -3539,7 +3539,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmht6NvVi",
     },
     {
         id: "27506597999",
@@ -3550,7 +3550,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V685PNIAl",
     },
     {
         id: "23649227964",
@@ -3561,7 +3561,7 @@ export const products = [
         commissionRate: "3%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYHiMepo",
     },
     {
         id: "11892183198",
@@ -3572,7 +3572,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyU1M1Ur",
     },
     {
         id: "43670888876",
@@ -3583,7 +3583,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/70HJGZoT7X",
+        affiliateLink: "https://s.shopee.vn/902OgKLO9u",
     },
     {
         id: "26911712623",
@@ -3594,7 +3594,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALosdKkox",
     },
     {
         id: "28571803736",
@@ -3605,7 +3605,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxYEoZiS",
     },
     {
         id: "25314110282",
@@ -3616,7 +3616,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNkXnwNV",
     },
     {
         id: "44478262980",
@@ -3627,7 +3627,7 @@ export const products = [
         commissionRate: "12%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnwqnJ2Y",
     },
     {
         id: "43050733874",
@@ -3638,7 +3638,7 @@ export const products = [
         commissionRate: "6%",
         sold: "40k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE99mfhb",
     },
     {
         id: "6751222119",
@@ -3649,7 +3649,7 @@ export const products = [
         commissionRate: "7%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seLSm2Me",
     },
     {
         id: "29363460026",
@@ -3660,7 +3660,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4XllP1h",
     },
     {
         id: "43254028178",
@@ -3671,7 +3671,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUk4klgk",
     },
     {
         id: "17268930988",
@@ -3682,7 +3682,7 @@ export const products = [
         commissionRate: "2%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouwNk8Ln",
     },
     {
         id: "21682638227",
@@ -3693,7 +3693,7 @@ export const products = [
         commissionRate: "3%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZxmteQK",
     },
     {
         id: "42905348139",
@@ -3704,7 +3704,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0A5t15N",
     },
     {
         id: "27602165886",
@@ -3715,7 +3715,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQMOsNkQ",
     },
     {
         id: "24073565551",
@@ -3726,7 +3726,7 @@ export const products = [
         commissionRate: "8%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qYhrkPT",
     },
     {
         id: "25966109834",
@@ -3737,7 +3737,7 @@ export const products = [
         commissionRate: "4%",
         sold: "500k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGl0r74W",
     },
     {
         id: "56410092920",
@@ -3748,7 +3748,7 @@ export const products = [
         commissionRate: "2%",
         sold: "11 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggxJqTjZ",
     },
     {
         id: "46600864491",
@@ -3759,7 +3759,7 @@ export const products = [
         commissionRate: "11%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11079cpqOc",
     },
     {
         id: "24486909671",
@@ -3770,7 +3770,7 @@ export const products = [
         commissionRate: "4%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXLvpD3f",
     },
     {
         id: "10497346712",
@@ -3781,7 +3781,7 @@ export const products = [
         commissionRate: "3%",
         sold: "500k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dij8eQJE",
     },
     {
         id: "29956745670",
@@ -3792,7 +3792,7 @@ export const products = [
         commissionRate: "6%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8vRdmyH",
     },
     {
         id: "28506807774",
@@ -3803,7 +3803,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ7kd9dK",
     },
     {
         id: "23749730657",
@@ -3814,7 +3814,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzK3cWIN",
     },
     {
         id: "9574011850",
@@ -3825,7 +3825,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPWMbsxQ",
     },
     {
         id: "25627527508",
@@ -3836,7 +3836,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpifbFcT",
     },
     {
         id: "23172423485",
@@ -3847,7 +3847,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFuyacHW",
     },
     {
         id: "26701153265",
@@ -3858,7 +3858,7 @@ export const products = [
         commissionRate: "5%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg7HZywZ",
     },
     {
         id: "24427843346",
@@ -3869,7 +3869,7 @@ export const products = [
         commissionRate: "8%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L8gjV16",
     },
     {
         id: "21784384020",
@@ -3880,7 +3880,7 @@ export const products = [
         commissionRate: "5%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlKzirg9",
     },
     {
         id: "13322280773",
@@ -3891,7 +3891,7 @@ export const products = [
         commissionRate: "6%",
         sold: "40k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBXIiELC",
     },
     {
         id: "23627283698",
@@ -3902,7 +3902,7 @@ export const products = [
         commissionRate: "7%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bjbhb0F",
     },
     {
         id: "42000725415",
@@ -3913,7 +3913,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1vugxfI",
     },
     {
         id: "55600273319",
@@ -3924,7 +3924,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/9ALnqc9wb5",
+        affiliateLink: "https://s.shopee.vn/3VhS8DgKKL",
     },
     {
         id: "25100592495",
@@ -3935,7 +3935,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sKWfgzO",
     },
     {
         id: "24644189046",
@@ -3946,7 +3946,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIWpf3eR",
     },
     {
         id: "25519800238",
@@ -3957,7 +3957,7 @@ export const products = [
         commissionRate: "2%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu6LTdZ2",
     },
     {
         id: "22849867460",
@@ -3968,7 +3968,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTu2UGu1",
     },
     {
         id: "27563994439",
@@ -3979,7 +3979,7 @@ export const products = [
         commissionRate: "5%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakUxSMt8",
     },
     {
         id: "12759682119",
@@ -3990,7 +3990,7 @@ export const products = [
         commissionRate: "3%",
         sold: "500k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKIeT0E7",
     },
     {
         id: "27162920554",
@@ -4001,7 +4001,7 @@ export const products = [
         commissionRate: "3%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDatZR6DE",
     },
     {
         id: "29800619141",
@@ -4012,7 +4012,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAhGRjYD",
     },
     {
         id: "27975742723",
@@ -4023,7 +4023,7 @@ export const products = [
         commissionRate: "3%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRIBPpXK",
     },
     {
         id: "28141736730",
@@ -4034,7 +4034,7 @@ export const products = [
         commissionRate: "5%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX15sQSsJ",
     },
     {
         id: "5911456226",
@@ -4045,7 +4045,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWVtYiGu",
     },
     {
         id: "26020787401",
@@ -4056,7 +4056,7 @@ export const products = [
         commissionRate: "5%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96JaZLbt",
     },
     {
         id: "22829444530",
@@ -4067,7 +4067,7 @@ export const products = [
         commissionRate: "9%",
         sold: "8k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MuVXRb0",
     },
     {
         id: "17973964134",
@@ -4078,7 +4078,7 @@ export const products = [
         commissionRate: "7%",
         sold: "50k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwiCY4vz",
     },
     {
         id: "16986044160",
@@ -4089,7 +4089,7 @@ export const products = [
         commissionRate: "3%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDJ7WAv6",
     },
     {
         id: "26751158123",
@@ -4100,7 +4100,7 @@ export const products = [
         commissionRate: "5%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On6oWoG5",
     },
     {
         id: "16159949164",
@@ -4111,7 +4111,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3hjUuFC",
     },
     {
         id: "7851027469",
@@ -4122,7 +4122,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1tr+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dVQVXaB",
     },
     {
         id: "29294007511",
@@ -4133,7 +4133,7 @@ export const products = [
         commissionRate: "4%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfHFJU9o",
     },
     {
         id: "25717095193",
@@ -4144,7 +4144,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF4wK7Un",
     },
     {
         id: "25891616642",
@@ -4155,7 +4155,7 @@ export const products = [
         commissionRate: "7%",
         sold: "755 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVfrIDTu",
     },
     {
         id: "24478366972",
@@ -4166,7 +4166,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5TYIqot",
     },
     {
         id: "23621891346",
@@ -4177,7 +4177,7 @@ export const products = [
         commissionRate: "5%",
         sold: "8k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM4TGwo0",
     },
     {
         id: "16198570057",
@@ -4188,7 +4188,7 @@ export const products = [
         commissionRate: "6%",
         sold: "50k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvsAHa8z",
     },
     {
         id: "17879390902",
@@ -4199,7 +4199,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCT5Fg86",
     },
     {
         id: "21193991734",
@@ -4210,7 +4210,7 @@ export const products = [
         commissionRate: "5%",
         sold: "514 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmGmGJT5",
     },
     {
         id: "3934483670",
@@ -4221,7 +4221,7 @@ export const products = [
         commissionRate: "8%",
         sold: "600k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHgnOYrg",
     },
     {
         id: "22439639377",
@@ -4232,7 +4232,7 @@ export const products = [
         commissionRate: "9%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rUUPCCf",
     },
     {
         id: "47658953300",
@@ -4243,7 +4243,7 @@ export const products = [
         commissionRate: "5%",
         sold: "96 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V685PNIBm",
     },
     {
         id: "26578117877",
@@ -4254,7 +4254,7 @@ export const products = [
         commissionRate: "4%",
         sold: "703 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmht6NvWl",
     },
     {
         id: "41230097959",
@@ -4265,7 +4265,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyU1M1Vs",
     },
     {
         id: "22660075370",
@@ -4276,7 +4276,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYHiMeqr",
     },
     {
         id: "47002714361",
@@ -4287,7 +4287,7 @@ export const products = [
         commissionRate: "12%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALosdKkpy",
     },
     {
         id: "27988762570",
@@ -4298,7 +4298,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OgKLOAx",
     },
     {
         id: "14105557333",
@@ -4309,7 +4309,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNkXnwOW",
     },
     {
         id: "22878905924",
@@ -4320,7 +4320,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxYEoZjV",
     },
     {
         id: "25734092680",
@@ -4331,7 +4331,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE99mfic",
     },
     {
         id: "23890122858",
@@ -4342,7 +4342,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnwqnJ3b",
     },
     {
         id: "24244237322",
@@ -4353,7 +4353,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/8pixRyfzgh",
+        affiliateLink: "https://s.shopee.vn/2BC4XllP2i",
     },
     {
         id: "27071787606",
@@ -4364,7 +4364,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seLSm2Nh",
     },
     {
         id: "56110335808",
@@ -4375,7 +4375,7 @@ export const products = [
         commissionRate: "7%",
         sold: "801 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouwNk8Mo",
     },
     {
         id: "5986816087",
@@ -4386,7 +4386,7 @@ export const products = [
         commissionRate: "7%",
         sold: "700k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUk4klhn",
     },
     {
         id: "23420575180",
@@ -4397,7 +4397,7 @@ export const products = [
         commissionRate: "4%",
         sold: "80k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0A5t16O",
     },
     {
         id: "18087976586",
@@ -4408,7 +4408,7 @@ export const products = [
         commissionRate: "5%",
         sold: "472 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM4aw33R",
     },
     {
         id: "24173275616",
@@ -4419,7 +4419,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmGtvPiU",
     },
     {
         id: "1365139205",
@@ -4430,7 +4430,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1tr+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCTCumNX",
     },
     {
         id: "20873941960",
@@ -4441,7 +4441,7 @@ export const products = [
         commissionRate: "9%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF53zDkK",
     },
     {
         id: "20724618532",
@@ -4452,7 +4452,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfHMyaPN",
     },
     {
         id: "29566799285",
@@ -4463,7 +4463,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5Tfxx4Q",
     },
     {
         id: "29300443002",
@@ -4474,7 +4474,7 @@ export const products = [
         commissionRate: "7%",
         sold: "50k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVfyxJjT",
     },
     {
         id: "29955270323",
@@ -4485,7 +4485,7 @@ export const products = [
         commissionRate: "7%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYHq1l6G",
     },
     {
         id: "13759610050",
@@ -4496,7 +4496,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyU917lJ",
     },
     {
         id: "22509338282",
@@ -4507,7 +4507,7 @@ export const products = [
         commissionRate: "3%",
         sold: "8k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OgS0UQM",
     },
     {
         id: "1927788550",
@@ -4518,7 +4518,7 @@ export const products = [
         commissionRate: "3%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALoskzr5P",
     },
     {
         id: "9723608094",
@@ -4529,7 +4529,7 @@ export const products = [
         commissionRate: "2%",
         sold: "600k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rUc4ISC",
     },
     {
         id: "29504439032",
@@ -4540,7 +4540,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHgv3f7F",
     },
     {
         id: "28053114418",
@@ -4551,7 +4551,7 @@ export const products = [
         commissionRate: "9%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhtE31mI",
     },
     {
         id: "10074087836",
@@ -4562,7 +4562,7 @@ export const products = [
         commissionRate: "2%",
         sold: "1tr+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V685X2ORL",
     },
     {
         id: "23030649012",
@@ -4573,7 +4573,7 @@ export const products = [
         commissionRate: "3%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seLaR8d6",
     },
     {
         id: "26310718590",
@@ -4584,7 +4584,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4XtQVI9",
     },
     {
         id: "28819190019",
@@ -4595,7 +4595,7 @@ export const products = [
         commissionRate: "5%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUkCPrxC",
     },
     {
         id: "27720318530",
@@ -4606,7 +4606,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouwVPEcF",
     },
     {
         id: "42167316601",
@@ -4617,7 +4617,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxYMTfz2",
     },
     {
         id: "25884830679",
@@ -4628,7 +4628,7 @@ export const products = [
         commissionRate: "3%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bjjMhFm",
     },
     {
         id: "15103876329",
@@ -4639,7 +4639,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBXQNKal",
     },
     {
         id: "12622298548",
@@ -4650,7 +4650,7 @@ export const products = [
         commissionRate: "5%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAhO6pnc",
     },
     {
         id: "29393887311",
@@ -4661,7 +4661,7 @@ export const products = [
         commissionRate: "2%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDath6CSf",
     },
     {
         id: "22739489161",
@@ -4672,7 +4672,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX1605Z7i",
     },
     {
         id: "40378076364",
@@ -4683,7 +4683,7 @@ export const products = [
         commissionRate: "13%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRIJ4vml",
     },
     {
         id: "18083349022",
@@ -4694,7 +4694,7 @@ export const products = [
         commissionRate: "9%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTuA9N9Y",
     },
     {
         id: "13882730118",
@@ -4705,7 +4705,7 @@ export const products = [
         commissionRate: "8%",
         sold: "40k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu6T8job",
     },
     {
         id: "22162253299",
@@ -4716,7 +4716,7 @@ export const products = [
         commissionRate: "9%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKIm86Te",
     },
     {
         id: "40276808263",
@@ -4727,7 +4727,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakV57T8h",
     },
     {
         id: "13691635214",
@@ -4738,7 +4738,7 @@ export const products = [
         commissionRate: "7%",
         sold: "700k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/2VotuJ5bG7",
+        affiliateLink: "https://s.shopee.vn/60On6wBuVU",
     },
     {
         id: "27903855083",
@@ -4749,7 +4749,7 @@ export const products = [
         commissionRate: "5%",
         sold: "90k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDJFBHAX",
     },
     {
         id: "26281203438",
@@ -4760,7 +4760,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dVYAdpa",
     },
     {
         id: "48651323120",
@@ -4771,7 +4771,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3hrA0Ud",
     },
     {
         id: "7958918587",
@@ -4782,7 +4782,7 @@ export const products = [
         commissionRate: "8%",
         sold: "900k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96JiERrQ",
     },
     {
         id: "9331775855",
@@ -4793,7 +4793,7 @@ export const products = [
         commissionRate: "2%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWW1DoWT",
     },
     {
         id: "15300336796",
@@ -4804,7 +4804,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwiKDBBW",
     },
     {
         id: "29467840808",
@@ -4815,7 +4815,7 @@ export const products = [
         commissionRate: "32%",
         sold: "40k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MudCXqZ",
     },
     {
         id: "23987645563",
@@ -4826,7 +4826,7 @@ export const products = [
         commissionRate: "6%",
         sold: "634 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvsHwgOO",
     },
     {
         id: "24031861827",
@@ -4837,7 +4837,7 @@ export const products = [
         commissionRate: "3%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXM3UJJ4",
     },
     {
         id: "24031861827",
@@ -4848,7 +4848,7 @@ export const products = [
         commissionRate: "3%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXM3UJJ4",
     },
     {
         id: "26856567165",
@@ -4859,7 +4859,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11079kUwe3",
     },
     {
         id: "8635589231",
@@ -4870,7 +4870,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0ADY7Ku",
     },
     {
         id: "16957441198",
@@ -4881,7 +4881,7 @@ export const products = [
         commissionRate: "3%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZxuYkft",
     },
     {
         id: "20060124266",
@@ -4892,7 +4892,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qYpWqf0",
     },
     {
         id: "28225827419",
@@ -4903,7 +4903,7 @@ export const products = [
         commissionRate: "7%",
         sold: "50k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/6VL2fgosQT",
+        affiliateLink: "https://s.shopee.vn/LkQMWXTzz",
     },
     {
         id: "27878171522",
@@ -4914,7 +4914,7 @@ export const products = [
         commissionRate: "5%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpinGLrs",
     },
     {
         id: "44128316115",
@@ -4925,7 +4925,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPWUGzCr",
     },
     {
         id: "25697444068",
@@ -4936,7 +4936,7 @@ export const products = [
         commissionRate: "9%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg7PF5By",
     },
     {
         id: "42317568907",
@@ -4947,7 +4947,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFv6FiWx",
     },
     {
         id: "10710502786",
@@ -4958,7 +4958,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8vZItDo",
     },
     {
         id: "27692584317",
@@ -4969,7 +4969,7 @@ export const products = [
         commissionRate: "5%",
         sold: "7k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dijGJWYn",
     },
     {
         id: "25723858056",
@@ -4980,7 +4980,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzKBHcXu",
     },
     {
         id: "41214110381",
@@ -4991,7 +4991,7 @@ export const products = [
         commissionRate: "17%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ7sIFst",
     },
     {
         id: "40126567552",
@@ -5002,7 +5002,7 @@ export const products = [
         commissionRate: "4%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS8LLQZk",
     },
     {
         id: "3838899765",
@@ -5013,7 +5013,7 @@ export const products = [
         commissionRate: "3%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1w2M3uj",
     },
     {
         id: "7167929427",
@@ -5024,7 +5024,7 @@ export const products = [
         commissionRate: "7%",
         sold: "600k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIWxK9tq",
     },
     {
         id: "1968973859",
@@ -5035,7 +5035,7 @@ export const products = [
         commissionRate: "4%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sKeKnEp",
     },
     {
         id: "29472976604",
@@ -5046,7 +5046,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlL7Nxvg",
     },
     {
         id: "26719685463",
@@ -5057,7 +5057,7 @@ export const products = [
         commissionRate: "7%",
         sold: "80k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L8oObGf",
     },
     {
         id: "2657129141",
@@ -5068,7 +5068,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVfyxJiQ",
     },
     {
         id: "26087225781",
@@ -5079,7 +5079,7 @@ export const products = [
         commissionRate: "8%",
         sold: "500k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5Tfxx3P",
     },
     {
         id: "28010876171",
@@ -5090,7 +5090,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyU917kG",
     },
     {
         id: "27383431007",
@@ -5101,7 +5101,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYHq1l5F",
     },
     {
         id: "28081012388",
@@ -5112,7 +5112,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALoskzr4M",
     },
     {
         id: "25269257458",
@@ -5123,7 +5123,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OgS0UPL",
     },
     {
         id: "17195362785",
@@ -5134,7 +5134,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHgv3f6C",
     },
     {
         id: "9834791501",
@@ -5145,7 +5145,7 @@ export const products = [
         commissionRate: "3%",
         sold: "600k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rUc4IRB",
     },
     {
         id: "23901504934",
@@ -5156,7 +5156,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V685X2OQI",
     },
     {
         id: "3103546266",
@@ -5167,7 +5167,7 @@ export const products = [
         commissionRate: "2%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhtE31lH",
     },
     {
         id: "25132690222",
@@ -5178,7 +5178,7 @@ export const products = [
         commissionRate: "9%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4XtQVH6",
     },
     {
         id: "18784293625",
@@ -5189,7 +5189,7 @@ export const products = [
         commissionRate: "2%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seLaR8c5",
     },
     {
         id: "24955497370",
@@ -5200,7 +5200,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouwVPEbC",
     },
     {
         id: "54155276566",
@@ -5211,7 +5211,7 @@ export const products = [
         commissionRate: "7%",
         sold: "346 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUkCPrwB",
     },
     {
         id: "13196328887",
@@ -5222,7 +5222,7 @@ export const products = [
         commissionRate: "6%",
         sold: "9k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNkfT2d2",
     },
     {
         id: "5241430071",
@@ -5233,7 +5233,7 @@ export const products = [
         commissionRate: "3%",
         sold: "900k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxYMTfy1",
     },
     {
         id: "21594976791",
@@ -5244,7 +5244,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE9HRlx8",
     },
     {
         id: "28217787910",
@@ -5255,7 +5255,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnwySPI7",
     },
     {
         id: "42802509340",
@@ -5266,7 +5266,7 @@ export const products = [
         commissionRate: "7%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/3VhR691nEf",
+        affiliateLink: "https://s.shopee.vn/qggxRVZyy",
     },
     {
         id: "26686786763",
@@ -5277,7 +5277,7 @@ export const products = [
         commissionRate: "8%",
         sold: "6k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGl8WDJx",
     },
     {
         id: "26906775497",
@@ -5288,7 +5288,7 @@ export const products = [
         commissionRate: "8%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRIJ4vli",
     },
     {
         id: "27681167505",
@@ -5299,7 +5299,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX1605Z6h",
     },
     {
         id: "22680133193",
@@ -5310,7 +5310,7 @@ export const products = [
         commissionRate: "5%",
         sold: "70 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu6T8jnY",
     },
     {
         id: "19831465954",
@@ -5321,7 +5321,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTuA9N8X",
     },
     {
         id: "10850550627",
@@ -5332,7 +5332,7 @@ export const products = [
         commissionRate: "3%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakV57T7e",
     },
     {
         id: "27579816401",
@@ -5343,7 +5343,7 @@ export const products = [
         commissionRate: "3%",
         sold: "400 lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKIm86Sd",
     },
     {
         id: "24685725587",
@@ -5354,7 +5354,7 @@ export const products = [
         commissionRate: "2%",
         sold: "200k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDJFBH9U",
     },
     {
         id: "28506742896",
@@ -5365,7 +5365,7 @@ export const products = [
         commissionRate: "5%",
         sold: "300k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On6wBuUT",
     },
     {
         id: "40769752903",
@@ -5376,7 +5376,7 @@ export const products = [
         commissionRate: "3%",
         sold: "5k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3hrA0Ta",
     },
     {
         id: "12926273179",
@@ -5387,7 +5387,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dVYAdoZ",
     },
     {
         id: "24686356744",
@@ -5398,7 +5398,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "https://s.shopee.vn/7pqQG8jnir",
+        affiliateLink: "https://s.shopee.vn/5VSWW1DoVQ",
     },
     {
         id: "21452007275",
@@ -5409,7 +5409,7 @@ export const products = [
         commissionRate: "2%",
         sold: "500k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96JiERqP",
     },
     {
         id: "41319455963",
@@ -5420,7 +5420,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MudCXpW",
     },
     {
         id: "42623044091",
@@ -5431,7 +5431,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwiKDBAV",
     },
     {
         id: "24522403881",
@@ -5442,7 +5442,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM4aw32O",
     },
     {
         id: "7536391730",
@@ -5453,7 +5453,7 @@ export const products = [
         commissionRate: "3%",
         sold: "400k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvsHwgNN",
     },
     {
         id: "25115269436",
@@ -5464,7 +5464,7 @@ export const products = [
         commissionRate: "9%",
         sold: "4k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCTCumMU",
     },
     {
         id: "18295551819",
@@ -5475,7 +5475,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmGtvPhT",
     },
     {
         id: "25680069418",
@@ -5486,7 +5486,7 @@ export const products = [
         commissionRate: "9%",
         sold: "1k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfHMyaOK",
     },
     {
         id: "28720530692",
@@ -5497,6 +5497,6 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Nhà cửa và Đời sống",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF53zDjJ",
     },
 ];

@@ -8,7 +8,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNmbgzM0",
     },
     {
         id: "27894401045",
@@ -19,7 +19,7 @@ export const products = [
         commissionRate: "8%",
         sold: "850 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxaIhcgz",
     },
     {
         id: "10301077748",
@@ -30,7 +30,7 @@ export const products = [
         commissionRate: "5%",
         sold: "134 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZEBDfig6",
     },
     {
         id: "52102015217",
@@ -41,7 +41,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnyugM15",
     },
     {
         id: "23838462877",
@@ -52,7 +52,7 @@ export const products = [
         commissionRate: "13%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4ZpeS0C",
     },
     {
         id: "41972686550",
@@ -63,7 +63,7 @@ export const products = [
         commissionRate: "12%",
         sold: "557 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seNWf5LB",
     },
     {
         id: "11367572890",
@@ -74,7 +74,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouyRdBKI",
     },
     {
         id: "43802327816",
@@ -85,7 +85,7 @@ export const products = [
         commissionRate: "8%",
         sold: "436 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUm8dofH",
     },
     {
         id: "24184221435",
@@ -96,7 +96,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlN3bueO",
     },
     {
         id: "26609831123",
@@ -107,7 +107,7 @@ export const products = [
         commissionRate: "8%",
         sold: "200k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8LAkcXzN",
     },
     {
         id: "44654054018",
@@ -118,7 +118,7 @@ export const products = [
         commissionRate: "12%",
         sold: "397 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4blfadyU",
     },
     {
         id: "24041239194",
@@ -129,7 +129,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBZMbHJT",
     },
     {
         id: "19775158485",
@@ -140,7 +140,7 @@ export const products = [
         commissionRate: "5%",
         sold: "612 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhSAHZNIa",
     },
     {
         id: "41026570765",
@@ -151,7 +151,7 @@ export const products = [
         commissionRate: "7%",
         sold: "492 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1xya0dZ",
     },
     {
         id: "27630398158",
@@ -162,7 +162,7 @@ export const products = [
         commissionRate: "11%",
         sold: "394 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIYtY6cg",
     },
     {
         id: "26466931449",
@@ -173,7 +173,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sMaYjxf",
     },
     {
         id: "24597487232",
@@ -184,7 +184,7 @@ export const products = [
         commissionRate: "13%",
         sold: "25 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8xVWpwm",
     },
     {
         id: "21448859274",
@@ -195,7 +195,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dilCXTHl",
     },
     {
         id: "26002518197",
@@ -206,7 +206,7 @@ export const products = [
         commissionRate: "8%",
         sold: "596 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzM7VZGs",
     },
     {
         id: "42205967968",
@@ -217,7 +217,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ9oWCbr",
     },
     {
         id: "4134560412",
@@ -228,7 +228,7 @@ export const products = [
         commissionRate: "8%",
         sold: "528 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpkjUIay",
     },
     {
         id: "28001260111",
@@ -239,7 +239,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPYQUvvx",
     },
     {
         id: "48350645422",
@@ -250,7 +250,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg9LT1v4",
     },
     {
         id: "27602407496",
@@ -261,7 +261,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFx2TfG3",
     },
     {
         id: "28232403990",
@@ -272,7 +272,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWXxRlFA",
     },
     {
         id: "27954420240",
@@ -283,7 +283,7 @@ export const products = [
         commissionRate: "7%",
         sold: "949 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96LeSOa9",
     },
     {
         id: "25886754938",
@@ -294,7 +294,7 @@ export const products = [
         commissionRate: "19%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MwZQUZG",
     },
     {
         id: "28252444733",
@@ -305,7 +305,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwkGR7uF",
     },
     {
         id: "45906681098",
@@ -316,7 +316,7 @@ export const products = [
         commissionRate: "7%",
         sold: "691 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDLBPDtM",
     },
     {
         id: "26619185598",
@@ -327,7 +327,7 @@ export const products = [
         commissionRate: "8%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On8sPrEL",
     },
     {
         id: "24643200314",
@@ -338,7 +338,7 @@ export const products = [
         commissionRate: "7%",
         sold: "261 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3jnNxDS",
     },
     {
         id: "24457281011",
@@ -349,7 +349,7 @@ export const products = [
         commissionRate: "7%",
         sold: "797 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dXUOaYR",
     },
     {
         id: "25170948891",
@@ -360,7 +360,7 @@ export const products = [
         commissionRate: "10%",
         sold: "30k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu8PMgXY",
     },
     {
         id: "48607364396",
@@ -371,7 +371,7 @@ export const products = [
         commissionRate: "8%",
         sold: "253 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTw6NJsX",
     },
     {
         id: "28881840674",
@@ -382,7 +382,7 @@ export const products = [
         commissionRate: "8%",
         sold: "70 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakX1LPre",
     },
     {
         id: "18277265544",
@@ -393,7 +393,7 @@ export const products = [
         commissionRate: "7%",
         sold: "9k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKKiM3Cd",
     },
     {
         id: "29918928968",
@@ -404,7 +404,7 @@ export const products = [
         commissionRate: "3%",
         sold: "97 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDavdK9Bk",
     },
     {
         id: "26712306910",
@@ -415,7 +415,7 @@ export const products = [
         commissionRate: "3%",
         sold: "992 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAjKKmWj",
     },
     {
         id: "28020011887",
@@ -426,7 +426,7 @@ export const products = [
         commissionRate: "17%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRKFIsVq",
     },
     {
         id: "2176621104",
@@ -437,7 +437,7 @@ export const products = [
         commissionRate: "11%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX17wJVqp",
     },
     {
         id: "45753146139",
@@ -448,7 +448,7 @@ export const products = [
         commissionRate: "7%",
         sold: "441 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHirHbpw",
     },
     {
         id: "20583390849",
@@ -459,7 +459,7 @@ export const products = [
         commissionRate: "8%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rWYIFAv",
     },
     {
         id: "25384726405",
@@ -470,7 +470,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V687TGLA2",
     },
     {
         id: "20844350536",
@@ -481,7 +481,7 @@ export const products = [
         commissionRate: "8%",
         sold: "8k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhvAGyV1",
     },
     {
         id: "41050197072",
@@ -492,7 +492,7 @@ export const products = [
         commissionRate: "43%",
         sold: "1 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyW5F4U8",
     },
     {
         id: "43054873326",
@@ -503,7 +503,7 @@ export const products = [
         commissionRate: "38%",
         sold: "2 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYJmFhp7",
     },
     {
         id: "28105228909",
@@ -514,7 +514,7 @@ export const products = [
         commissionRate: "17%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALouhDnoE",
     },
     {
         id: "25457280062",
@@ -525,7 +525,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OiOER9D",
     },
     {
         id: "22176346447",
@@ -536,7 +536,7 @@ export const products = [
         commissionRate: "8%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfJJCX8K",
     },
     {
         id: "29301260302",
@@ -547,7 +547,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF70DATJ",
     },
     {
         id: "24981975677",
@@ -558,7 +558,7 @@ export const products = [
         commissionRate: "8%",
         sold: "50 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVhvBGSQ",
     },
     {
         id: "23334074942",
@@ -569,7 +569,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5VcBtnP",
     },
     {
         id: "28218599395",
@@ -580,7 +580,7 @@ export const products = [
         commissionRate: "3%",
         sold: "42 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM6X9zmW",
     },
     {
         id: "28004420554",
@@ -591,7 +591,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvuEAd7V",
     },
     {
         id: "29233564504",
@@ -602,7 +602,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCV98j6c",
     },
     {
         id: "26022568403",
@@ -613,7 +613,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmIq9MRb",
     },
     {
         id: "224822029",
@@ -624,7 +624,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZzqmhPc",
     },
     {
         id: "29450604346",
@@ -635,7 +635,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0C9m44f",
     },
     {
         id: "41879204938",
@@ -646,7 +646,7 @@ export const products = [
         commissionRate: "4%",
         sold: "46 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQOSlQji",
     },
     {
         id: "21034391764",
@@ -657,7 +657,7 @@ export const products = [
         commissionRate: "8%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qalknOl",
     },
     {
         id: "17298108907",
@@ -668,7 +668,7 @@ export const products = [
         commissionRate: "8%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGn4kA3o",
     },
     {
         id: "18278058124",
@@ -679,7 +679,7 @@ export const products = [
         commissionRate: "5%",
         sold: "345 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggzNjWir",
     },
     {
         id: "22889856961",
@@ -690,7 +690,7 @@ export const products = [
         commissionRate: "4%",
         sold: "341 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1107BgitNu",
     },
     {
         id: "20186938284",
@@ -701,7 +701,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXNziG2x",
     },
     {
         id: "52506151394",
@@ -712,7 +712,7 @@ export const products = [
         commissionRate: "7%",
         sold: "104 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxaIhci0",
     },
     {
         id: "26451265318",
@@ -723,7 +723,7 @@ export const products = [
         commissionRate: "6%",
         sold: "7k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNmbgzN3",
     },
     {
         id: "54103385746",
@@ -734,7 +734,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnyugM26",
     },
     {
         id: "20644354501",
@@ -745,7 +745,7 @@ export const products = [
         commissionRate: "8%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZEBDfih9",
     },
     {
         id: "9554740520",
@@ -756,7 +756,7 @@ export const products = [
         commissionRate: "47%",
         sold: "9k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seNWf5MC",
     },
     {
         id: "41667561527",
@@ -767,7 +767,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4ZpeS1F",
     },
     {
         id: "53657804891",
@@ -778,7 +778,7 @@ export const products = [
         commissionRate: "6%",
         sold: "32 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUm8dogI",
     },
     {
         id: "22712863299",
@@ -789,7 +789,7 @@ export const products = [
         commissionRate: "8%",
         sold: "80k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouyRdBLL",
     },
     {
         id: "47353225428",
@@ -800,7 +800,7 @@ export const products = [
         commissionRate: "6%",
         sold: "9k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8LAkcY0O",
     },
     {
         id: "28954420925",
@@ -811,7 +811,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlN3bufR",
     },
     {
         id: "17119125374",
@@ -822,7 +822,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBZMbHKU",
     },
     {
         id: "25905550338",
@@ -833,7 +833,7 @@ export const products = [
         commissionRate: "8%",
         sold: "9k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4blfadzX",
     },
     {
         id: "28472493545",
@@ -844,7 +844,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1xya0ea",
     },
     {
         id: "25480216553",
@@ -855,7 +855,7 @@ export const products = [
         commissionRate: "7%",
         sold: "406 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhSAHZNJd",
     },
     {
         id: "49910200752",
@@ -866,7 +866,7 @@ export const products = [
         commissionRate: "5%",
         sold: "33 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sMaYjyg",
     },
     {
         id: "2850194019",
@@ -877,7 +877,7 @@ export const products = [
         commissionRate: "5%",
         sold: "80k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIYtY6dj",
     },
     {
         id: "1293103435",
@@ -888,7 +888,7 @@ export const products = [
         commissionRate: "47%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dilCXTIm",
     },
     {
         id: "29404420515",
@@ -899,7 +899,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8xVWpxp",
     },
     {
         id: "29294436282",
@@ -910,7 +910,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ9oWCcs",
     },
     {
         id: "2037649468",
@@ -921,7 +921,7 @@ export const products = [
         commissionRate: "3%",
         sold: "50k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzM7VZHv",
     },
     {
         id: "57106342420",
@@ -932,7 +932,7 @@ export const products = [
         commissionRate: "4%",
         sold: "804 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPYQUvwy",
     },
     {
         id: "28613576804",
@@ -943,7 +943,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpkjUIc1",
     },
     {
         id: "40371086508",
@@ -954,7 +954,7 @@ export const products = [
         commissionRate: "9%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFx2TfH4",
     },
     {
         id: "28402858927",
@@ -965,7 +965,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg9LT1w7",
     },
     {
         id: "46610006484",
@@ -976,7 +976,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96LeSObA",
     },
     {
         id: "8199534891",
@@ -987,7 +987,7 @@ export const products = [
         commissionRate: "3%",
         sold: "800k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWXxRlGD",
     },
     {
         id: "5538086378",
@@ -998,7 +998,7 @@ export const products = [
         commissionRate: "11%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwkGR7vG",
     },
     {
         id: "25728641543",
@@ -1009,7 +1009,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MwZQUaJ",
     },
     {
         id: "18493730643",
@@ -1020,7 +1020,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On8sPrFM",
     },
     {
         id: "26763145536",
@@ -1031,7 +1031,7 @@ export const products = [
         commissionRate: "6%",
         sold: "80k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDLBPDuP",
     },
     {
         id: "45708939863",
@@ -1042,7 +1042,7 @@ export const products = [
         commissionRate: "7%",
         sold: "49 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dXUOaZS",
     },
     {
         id: "24005309847",
@@ -1053,7 +1053,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3jnNxEV",
     },
     {
         id: "44202851911",
@@ -1064,7 +1064,7 @@ export const products = [
         commissionRate: "9%",
         sold: "356 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTw6NJtY",
     },
     {
         id: "25406344504",
@@ -1075,7 +1075,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu8PMgYb",
     },
     {
         id: "52006651481",
@@ -1086,7 +1086,7 @@ export const products = [
         commissionRate: "5%",
         sold: "121 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKKiM3De",
     },
     {
         id: "40026305801",
@@ -1097,7 +1097,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakX1LPsh",
     },
     {
         id: "19175894543",
@@ -1108,7 +1108,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBZOVJYX",
     },
     {
         id: "29156928989",
@@ -1119,7 +1119,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlN5VwtW",
     },
     {
         id: "29750632199",
@@ -1130,7 +1130,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8LAmWaEV",
     },
     {
         id: "49257585250",
@@ -1141,7 +1141,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIYvS8rk",
     },
     {
         id: "25285640273",
@@ -1152,7 +1152,7 @@ export const products = [
         commissionRate: "8%",
         sold: "338 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sMcSmCj",
     },
     {
         id: "22740736625",
@@ -1163,7 +1163,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhSAJTPXi",
     },
     {
         id: "44706935486",
@@ -1174,7 +1174,7 @@ export const products = [
         commissionRate: "7%",
         sold: "158 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1y0U2sh",
     },
     {
         id: "40528124079",
@@ -1185,7 +1185,7 @@ export const products = [
         commissionRate: "9%",
         sold: "63 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzM9PbVw",
     },
     {
         id: "23841658200",
@@ -1196,7 +1196,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ9qQEqv",
     },
     {
         id: "24679729442",
@@ -1207,7 +1207,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8xXQsBu",
     },
     {
         id: "49607239833",
@@ -1218,7 +1218,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dilERVWt",
     },
     {
         id: "53607488545",
@@ -1229,7 +1229,7 @@ export const products = [
         commissionRate: "8%",
         sold: "333 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg9NN4A8",
     },
     {
         id: "28903284726",
@@ -1240,7 +1240,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFx4NhV7",
     },
     {
         id: "25983030816",
@@ -1251,7 +1251,7 @@ export const products = [
         commissionRate: "7%",
         sold: "834 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpklOKq6",
     },
     {
         id: "28882995340",
@@ -1262,7 +1262,7 @@ export const products = [
         commissionRate: "7%",
         sold: "154 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPYSOyB5",
     },
     {
         id: "41407899919",
@@ -1273,7 +1273,7 @@ export const products = [
         commissionRate: "8%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MwbKWoK",
     },
     {
         id: "26869744632",
@@ -1284,7 +1284,7 @@ export const products = [
         commissionRate: "10%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwkILA9J",
     },
     {
         id: "25129020241",
@@ -1295,7 +1295,7 @@ export const products = [
         commissionRate: "3%",
         sold: "314 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWXzLnUI",
     },
     {
         id: "41656497320",
@@ -1306,7 +1306,7 @@ export const products = [
         commissionRate: "8%",
         sold: "155 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96LgMQpH",
     },
     {
         id: "28858027344",
@@ -1317,7 +1317,7 @@ export const products = [
         commissionRate: "8%",
         sold: "400k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3jpHzSW",
     },
     {
         id: "26062360882",
@@ -1328,7 +1328,7 @@ export const products = [
         commissionRate: "6%",
         sold: "300k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dXWIcnV",
     },
     {
         id: "25276787585",
@@ -1339,7 +1339,7 @@ export const products = [
         commissionRate: "8%",
         sold: "602 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDLDJG8U",
     },
     {
         id: "19789683265",
@@ -1350,7 +1350,7 @@ export const products = [
         commissionRate: "10%",
         sold: "602 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On8uJtTT",
     },
     {
         id: "42254471094",
@@ -1361,7 +1361,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakX3FS6i",
     },
     {
         id: "24238614271",
@@ -1372,7 +1372,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKKkG5Rh",
     },
     {
         id: "24079252235",
@@ -1383,7 +1383,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu8RGimg",
     },
     {
         id: "27090398937",
@@ -1394,7 +1394,7 @@ export const products = [
         commissionRate: "8%",
         sold: "216 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTw8HM7f",
     },
     {
         id: "50200957014",
@@ -1405,7 +1405,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRKHCuku",
     },
     {
         id: "46006133132",
@@ -1416,7 +1416,7 @@ export const products = [
         commissionRate: "7%",
         sold: "168 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX17yDY5t",
     },
     {
         id: "29856141471",
@@ -1427,7 +1427,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDavfEBQs",
     },
     {
         id: "24232529839",
@@ -1438,7 +1438,7 @@ export const products = [
         commissionRate: "79%",
         sold: "297 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAjMEolr",
     },
     {
         id: "27239522614",
@@ -1449,7 +1449,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V687VANP6",
     },
     {
         id: "28282038476",
@@ -1460,7 +1460,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "https://s.shopee.vn/1BJWJueOol",
+        affiliateLink: "https://s.shopee.vn/8KmhvCB0k5",
     },
     {
         id: "27401302605",
@@ -1471,7 +1471,7 @@ export const products = [
         commissionRate: "3%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHitBe54",
     },
     {
         id: "49307006487",
@@ -1482,7 +1482,7 @@ export const products = [
         commissionRate: "7%",
         sold: "259 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rWaCHQ3",
     },
     {
         id: "6360527009",
@@ -1493,7 +1493,7 @@ export const products = [
         commissionRate: "8%",
         sold: "30k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALouj7q3I",
     },
     {
         id: "26177039433",
@@ -1504,7 +1504,7 @@ export const products = [
         commissionRate: "47%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OiQ8TOH",
     },
     {
         id: "25100393719",
@@ -1515,7 +1515,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyW796jG",
     },
     {
         id: "48810340990",
@@ -1526,7 +1526,7 @@ export const products = [
         commissionRate: "7%",
         sold: "80 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYJo9k4F",
     },
     {
         id: "25626384861",
@@ -1537,7 +1537,7 @@ export const products = [
         commissionRate: "8%",
         sold: "200k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVhx5IhU",
     },
     {
         id: "25829733891",
@@ -1548,7 +1548,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5Ve5w2T",
     },
     {
         id: "28100216250",
@@ -1559,7 +1559,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfJL6ZNS",
     },
     {
         id: "17473298123",
@@ -1570,7 +1570,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF727CiR",
     },
     {
         id: "43109576891",
@@ -1581,7 +1581,7 @@ export const products = [
         commissionRate: "7%",
         sold: "303 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCVB2lLg",
     },
     {
         id: "28030874764",
@@ -1592,7 +1592,7 @@ export const products = [
         commissionRate: "10%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmIs3Ogf",
     },
     {
         id: "25279332470",
@@ -1603,7 +1603,7 @@ export const products = [
         commissionRate: "7%",
         sold: "851 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM6Z421e",
     },
     {
         id: "40957454677",
@@ -1614,7 +1614,7 @@ export const products = [
         commissionRate: "9%",
         sold: "50 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvuG4fMd",
     },
     {
         id: "26707540713",
@@ -1625,7 +1625,7 @@ export const products = [
         commissionRate: "6%",
         sold: "9k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQOUfSym",
     },
     {
         id: "28872032242",
@@ -1636,7 +1636,7 @@ export const products = [
         commissionRate: "3%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qanepdp",
     },
     {
         id: "43705992315",
@@ -1647,7 +1647,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zzsgjek",
     },
     {
         id: "25372150311",
@@ -1658,7 +1658,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0CBg6Jn",
     },
     {
         id: "23134100634",
@@ -1669,7 +1669,7 @@ export const products = [
         commissionRate: "6%",
         sold: "97 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1107Bicvcy",
     },
     {
         id: "43561675991",
@@ -1680,7 +1680,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXO1cII1",
     },
     {
         id: "53652156920",
@@ -1691,7 +1691,7 @@ export const products = [
         commissionRate: "5%",
         sold: "7k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGn6eCIw",
     },
     {
         id: "17172028044",
@@ -1702,7 +1702,7 @@ export const products = [
         commissionRate: "7%",
         sold: "827 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggzPdYxz",
     },
     {
         id: "43624896253",
@@ -1713,7 +1713,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnywaOHA",
     },
     {
         id: "41152289865",
@@ -1724,7 +1724,7 @@ export const products = [
         commissionRate: "7%",
         sold: "569 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZEBFZkwD",
     },
     {
         id: "24330818668",
@@ -1735,7 +1735,7 @@ export const products = [
         commissionRate: "8%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxaKbex8",
     },
     {
         id: "24173138944",
@@ -1746,7 +1746,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNmdb1cB",
     },
     {
         id: "18787582570",
@@ -1757,7 +1757,7 @@ export const products = [
         commissionRate: "10%",
         sold: "53 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUmAXqvM",
     },
     {
         id: "1333688274",
@@ -1768,7 +1768,7 @@ export const products = [
         commissionRate: "47%",
         sold: "9k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouyTXDaP",
     },
     {
         id: "25684918000",
@@ -1779,7 +1779,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seNYZ7bK",
     },
     {
         id: "43311922205",
@@ -1790,7 +1790,7 @@ export const products = [
         commissionRate: "9%",
         sold: "6 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4ZrYUGN",
     },
     {
         id: "44470314084",
@@ -1801,7 +1801,7 @@ export const products = [
         commissionRate: "8%",
         sold: "620 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBZOVJZY",
     },
     {
         id: "22700071921",
@@ -1812,7 +1812,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4blhUgEb",
     },
     {
         id: "22847959130",
@@ -1823,7 +1823,7 @@ export const products = [
         commissionRate: "7%",
         sold: "582 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8LAmWaFW",
     },
     {
         id: "25375916461",
@@ -1834,7 +1834,7 @@ export const products = [
         commissionRate: "5%",
         sold: "879 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlN5VwuZ",
     },
     {
         id: "44111011307",
@@ -1845,7 +1845,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sMcSmDk",
     },
     {
         id: "51000590824",
@@ -1856,7 +1856,7 @@ export const products = [
         commissionRate: "9%",
         sold: "141 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIYvS8sn",
     },
     {
         id: "28704040213",
@@ -1867,7 +1867,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1y0U2ti",
     },
     {
         id: "42613585285",
@@ -1878,7 +1878,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhSAJTPYl",
     },
     {
         id: "24069643692",
@@ -1889,7 +1889,7 @@ export const products = [
         commissionRate: "4%",
         sold: "40k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ9qQErw",
     },
     {
         id: "25832057367",
@@ -1900,7 +1900,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzM9PbWz",
     },
     {
         id: "26401345951",
@@ -1911,7 +1911,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dilERVXu",
     },
     {
         id: "29788765229",
@@ -1922,7 +1922,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8xXQsCx",
     },
     {
         id: "24376228301",
@@ -1933,7 +1933,7 @@ export const products = [
         commissionRate: "8%",
         sold: "200k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFx4NhW8",
     },
     {
         id: "56357747423",
@@ -1944,7 +1944,7 @@ export const products = [
         commissionRate: "7%",
         sold: "394 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg9NN4BB",
     },
     {
         id: "56305401550",
@@ -1955,7 +1955,7 @@ export const products = [
         commissionRate: "11%",
         sold: "58 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPYSOyC6",
     },
     {
         id: "44057522895",
@@ -1966,7 +1966,7 @@ export const products = [
         commissionRate: "8%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpklOKr9",
     },
     {
         id: "23466217974",
@@ -1977,7 +1977,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwkILAAK",
     },
     {
         id: "29800472222",
@@ -1988,7 +1988,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MwbKWpN",
     },
     {
         id: "22665504023",
@@ -1999,7 +1999,7 @@ export const products = [
         commissionRate: "6%",
         sold: "40k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96LgMQqI",
     },
     {
         id: "8143573879",
@@ -2010,7 +2010,7 @@ export const products = [
         commissionRate: "5%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWXzLnVL",
     },
     {
         id: "22354518573",
@@ -2021,7 +2021,7 @@ export const products = [
         commissionRate: "7%",
         sold: "271 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dXWIcoW",
     },
     {
         id: "18766459419",
@@ -2032,7 +2032,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3jpHzTZ",
     },
     {
         id: "25100106669",
@@ -2043,7 +2043,7 @@ export const products = [
         commissionRate: "5%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On8uJtUU",
     },
     {
         id: "43672548486",
@@ -2054,7 +2054,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDLDJG9X",
     },
     {
         id: "27213820859",
@@ -2065,7 +2065,7 @@ export const products = [
         commissionRate: "6%",
         sold: "550 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKKkG5Si",
     },
     {
         id: "28543671619",
@@ -2076,7 +2076,7 @@ export const products = [
         commissionRate: "6%",
         sold: "282 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakX3FS7l",
     },
     {
         id: "26528681723",
@@ -2087,7 +2087,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTw8HM8g",
     },
     {
         id: "46259783101",
@@ -2098,7 +2098,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "https://s.shopee.vn/30lAVIxHF8",
+        affiliateLink: "https://s.shopee.vn/6pxu8RGinj",
     },
     {
         id: "28132822387",
@@ -2109,7 +2109,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX17yDY6u",
     },
     {
         id: "42025469720",
@@ -2120,7 +2120,7 @@ export const products = [
         commissionRate: "6%",
         sold: "9k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRKHCulx",
     },
     {
         id: "15399758240",
@@ -2131,7 +2131,7 @@ export const products = [
         commissionRate: "5%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAjMEoms",
     },
     {
         id: "28632586473",
@@ -2142,7 +2142,7 @@ export const products = [
         commissionRate: "5%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDavfEBRv",
     },
     {
         id: "40378275656",
@@ -2153,7 +2153,7 @@ export const products = [
         commissionRate: "6%",
         sold: "770 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhvCB0l6",
     },
     {
         id: "27635189535",
@@ -2164,7 +2164,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V687VANQ9",
     },
     {
         id: "27563148035",
@@ -2175,7 +2175,7 @@ export const products = [
         commissionRate: "6%",
         sold: "80k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rWaCHR4",
     },
     {
         id: "56606562350",
@@ -2186,7 +2186,7 @@ export const products = [
         commissionRate: "8%",
         sold: "8k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHitBe67",
     },
     {
         id: "5531740878",
@@ -2197,7 +2197,7 @@ export const products = [
         commissionRate: "8%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OiQ8TPI",
     },
     {
         id: "26036434672",
@@ -2208,7 +2208,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXO3OhPN",
     },
     {
         id: "20090846170",
@@ -2219,7 +2219,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGn8QbQI",
     },
     {
         id: "19156011261",
@@ -2230,7 +2230,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggzRPy5L",
     },
     {
         id: "18194722946",
@@ -2241,7 +2241,7 @@ export const products = [
         commissionRate: "10%",
         sold: "30k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQOWRs6G",
     },
     {
         id: "1293103541",
@@ -2252,7 +2252,7 @@ export const products = [
         commissionRate: "47%",
         sold: "60k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qapRElJ",
     },
     {
         id: "29953934266",
@@ -2263,7 +2263,7 @@ export const products = [
         commissionRate: "4%",
         sold: "40k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZzuT8mE",
     },
     {
         id: "43876577495",
@@ -2274,7 +2274,7 @@ export const products = [
         commissionRate: "5%",
         sold: "603 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0CDSVRH",
     },
     {
         id: "40207257283",
@@ -2285,7 +2285,7 @@ export const products = [
         commissionRate: "6%",
         sold: "88 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUmCKG2i",
     },
     {
         id: "18054962824",
@@ -2296,7 +2296,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouyVJchl",
     },
     {
         id: "41979236584",
@@ -2307,7 +2307,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seNaLWig",
     },
     {
         id: "42405337838",
@@ -2318,7 +2318,7 @@ export const products = [
         commissionRate: "7%",
         sold: "417 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4ZtKtNj",
     },
     {
         id: "24329420379",
@@ -2329,7 +2329,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnyyMnOe",
     },
     {
         id: "19844438004",
@@ -2340,7 +2340,7 @@ export const products = [
         commissionRate: "7%",
         sold: "50k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZEBHMA3h",
     },
     {
         id: "25836460926",
@@ -2351,7 +2351,7 @@ export const products = [
         commissionRate: "5%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxaMO44c",
     },
     {
         id: "52607671660",
@@ -2362,7 +2362,7 @@ export const products = [
         commissionRate: "3%",
         sold: "913 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNmfNQjf",
     },
     {
         id: "18088153938",
@@ -2373,7 +2373,7 @@ export const products = [
         commissionRate: "8%",
         sold: "7k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sMeFBL6",
     },
     {
         id: "25005088778",
@@ -2384,7 +2384,7 @@ export const products = [
         commissionRate: "6%",
         sold: "7k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIYxEY09",
     },
     {
         id: "24600106980",
@@ -2395,7 +2395,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1y2GS14",
     },
     {
         id: "42251433484",
@@ -2406,7 +2406,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhSALFog7",
     },
     {
         id: "22582248460",
@@ -2417,7 +2417,7 @@ export const products = [
         commissionRate: "8%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBZQHih2",
     },
     {
         id: "5375020189",
@@ -2428,7 +2428,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bljH5M5",
     },
     {
         id: "22087295032",
@@ -2439,7 +2439,7 @@ export const products = [
         commissionRate: "5%",
         sold: "60k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8LAoIzN0",
     },
     {
         id: "26516154606",
@@ -2450,7 +2450,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlN7IM23",
     },
     {
         id: "24102084279",
@@ -2461,7 +2461,7 @@ export const products = [
         commissionRate: "9%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFx6A6dU",
     },
     {
         id: "26320963565",
@@ -2472,7 +2472,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg9P9TIX",
     },
     {
         id: "24828626238",
@@ -2483,7 +2483,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPYUBNJS",
     },
     {
         id: "27888585607",
@@ -2494,7 +2494,7 @@ export const products = [
         commissionRate: "6%",
         sold: "93 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpknAjyV",
     },
     {
         id: "25521895656",
@@ -2505,7 +2505,7 @@ export const products = [
         commissionRate: "8%",
         sold: "590 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ9sCdzQ",
     },
     {
         id: "27052241748",
@@ -2516,7 +2516,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzMBC0eT",
     },
     {
         id: "24134307288",
@@ -2527,7 +2527,7 @@ export const products = [
         commissionRate: "6%",
         sold: "50k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dilGDufO",
     },
     {
         id: "42056614098",
@@ -2538,7 +2538,7 @@ export const products = [
         commissionRate: "4%",
         sold: "180 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8xZDHKR",
     },
     {
         id: "27414155129",
@@ -2549,7 +2549,7 @@ export const products = [
         commissionRate: "6%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dXY51vs",
     },
     {
         id: "18466052510",
@@ -2560,7 +2560,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3jr4Oav",
     },
     {
         id: "28930230162",
@@ -2571,7 +2571,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On8w6Ibq",
     },
     {
         id: "25218330403",
@@ -2582,7 +2582,7 @@ export const products = [
         commissionRate: "8%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDLF5fGt",
     },
     {
         id: "14704637012",
@@ -2593,7 +2593,7 @@ export const products = [
         commissionRate: "6%",
         sold: "60k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwkK7ZHo",
     },
     {
         id: "57751645344",
@@ -2604,7 +2604,7 @@ export const products = [
         commissionRate: "4%",
         sold: "344 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5Mwd6vwr",
     },
     {
         id: "26650218960",
@@ -2615,7 +2615,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96Li8pxm",
     },
     {
         id: "53157431866",
@@ -2626,7 +2626,7 @@ export const products = [
         commissionRate: "7%",
         sold: "106 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWY18Ccp",
     },
     {
         id: "25626234498",
@@ -2637,7 +2637,7 @@ export const products = [
         commissionRate: "8%",
         sold: "584 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX17zzxEG",
     },
     {
         id: "27713695017",
@@ -2648,7 +2648,7 @@ export const products = [
         commissionRate: "10%",
         sold: "321 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRKIzJtJ",
     },
     {
         id: "16592508130",
@@ -2659,7 +2659,7 @@ export const products = [
         commissionRate: "5%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAjO1DuE",
     },
     {
         id: "41768333327",
@@ -2670,7 +2670,7 @@ export const products = [
         commissionRate: "7%",
         sold: "260 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDavh0aZH",
     },
     {
         id: "27856216565",
@@ -2681,7 +2681,7 @@ export const products = [
         commissionRate: "3%",
         sold: "111 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKKm2UaC",
     },
     {
         id: "23669535150",
@@ -2692,7 +2692,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakX51rFF",
     },
     {
         id: "41619687437",
@@ -2703,7 +2703,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTwA3lGA",
     },
     {
         id: "29836775633",
@@ -2714,7 +2714,7 @@ export const products = [
         commissionRate: "5%",
         sold: "102 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu8T37vD",
     },
     {
         id: "56951654698",
@@ -2725,7 +2725,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OiRusWe",
     },
     {
         id: "2274289966",
@@ -2736,7 +2736,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALoukuFBh",
     },
     {
         id: "29302158463",
@@ -2747,7 +2747,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYJpw9Cc",
     },
     {
         id: "58156607881",
@@ -2758,7 +2758,7 @@ export const products = [
         commissionRate: "4%",
         sold: "73 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyW8vVrf",
     },
     {
         id: "27411372258",
@@ -2769,7 +2769,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhvDxPsa",
     },
     {
         id: "24937882616",
@@ -2780,7 +2780,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V687WwmXd",
     },
     {
         id: "27584534905",
@@ -2791,7 +2791,7 @@ export const products = [
         commissionRate: "4%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rWbygYY",
     },
     {
         id: "42579523864",
@@ -2802,7 +2802,7 @@ export const products = [
         commissionRate: "77%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHiuy3Db",
     },
     {
         id: "28884224161",
@@ -2813,7 +2813,7 @@ export const products = [
         commissionRate: "7%",
         sold: "708 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmItpnp2",
     },
     {
         id: "2330391746",
@@ -2824,7 +2824,7 @@ export const products = [
         commissionRate: "8%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCVCpAU5",
     },
     {
         id: "24542304419",
@@ -2835,7 +2835,7 @@ export const products = [
         commissionRate: "8%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvuHr4V0",
     },
     {
         id: "49208808258",
@@ -2846,7 +2846,7 @@ export const products = [
         commissionRate: "8%",
         sold: "201 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM6aqRA3",
     },
     {
         id: "27010452260",
@@ -2857,7 +2857,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5VfsLAy",
     },
     {
         id: "23654203282",
@@ -2868,7 +2868,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVhyrhq1",
     },
     {
         id: "26063311476",
@@ -2879,7 +2879,7 @@ export const products = [
         commissionRate: "6%",
         sold: "80k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF73tbqw",
     },
     {
         id: "21055355100",
@@ -2890,7 +2890,7 @@ export const products = [
         commissionRate: "4%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfJMsyVz",
     },
     {
         id: "28019576214",
@@ -2901,7 +2901,7 @@ export const products = [
         commissionRate: "7%",
         sold: "258 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXO3OhQO",
     },
     {
         id: "23562022255",
@@ -2912,7 +2912,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1107BkPKlN",
     },
     {
         id: "18984135098",
@@ -2923,7 +2923,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggzRPy6M",
     },
     {
         id: "24470069639",
@@ -2934,7 +2934,7 @@ export const products = [
         commissionRate: "8%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGn8QbRL",
     },
     {
         id: "23979981813",
@@ -2945,7 +2945,7 @@ export const products = [
         commissionRate: "4%",
         sold: "335 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qapREmK",
     },
     {
         id: "27607552644",
@@ -2956,7 +2956,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQOWRs7J",
     },
     {
         id: "44072244155",
@@ -2967,7 +2967,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0CDSVSI",
     },
     {
         id: "46506353654",
@@ -2978,7 +2978,7 @@ export const products = [
         commissionRate: "13%",
         sold: "15 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZzuT8nH",
     },
     {
         id: "24175776801",
@@ -2989,7 +2989,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouyVJcim",
     },
     {
         id: "41850021003",
@@ -3000,7 +3000,7 @@ export const products = [
         commissionRate: "5%",
         sold: "7 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUmCKG3l",
     },
     {
         id: "26300479161",
@@ -3011,7 +3011,7 @@ export const products = [
         commissionRate: "4%",
         sold: "50k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4ZtKtOk",
     },
     {
         id: "27969230018",
@@ -3022,7 +3022,7 @@ export const products = [
         commissionRate: "5%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seNaLWjj",
     },
     {
         id: "26019797540",
@@ -3033,7 +3033,7 @@ export const products = [
         commissionRate: "10%",
         sold: "300k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZEBHMA4i",
     },
     {
         id: "20034383668",
@@ -3044,7 +3044,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnyyMnPh",
     },
     {
         id: "24831878677",
@@ -3055,7 +3055,7 @@ export const products = [
         commissionRate: "4%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNmfNQkg",
     },
     {
         id: "40357469724",
@@ -3066,7 +3066,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxaMO45f",
     },
     {
         id: "28701153117",
@@ -3077,7 +3077,7 @@ export const products = [
         commissionRate: "6%",
         sold: "379 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIYxEY1A",
     },
     {
         id: "50154582991",
@@ -3088,7 +3088,7 @@ export const products = [
         commissionRate: "4%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sMeFBM9",
     },
     {
         id: "24321138418",
@@ -3099,7 +3099,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhSALFoh8",
     },
     {
         id: "56305734377",
@@ -3110,7 +3110,7 @@ export const products = [
         commissionRate: "5%",
         sold: "543 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1y2GS27",
     },
     {
         id: "23108712959",
@@ -3121,7 +3121,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bljH5N6",
     },
     {
         id: "44758494706",
@@ -3132,7 +3132,7 @@ export const products = [
         commissionRate: "6%",
         sold: "252 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBZQHii5",
     },
     {
         id: "25229324717",
@@ -3143,7 +3143,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlN7IM34",
     },
     {
         id: "28436265069",
@@ -3154,7 +3154,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8LAoIzO3",
     },
     {
         id: "24093039854",
@@ -3165,7 +3165,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg9P9TJY",
     },
     {
         id: "13686146083",
@@ -3176,7 +3176,7 @@ export const products = [
         commissionRate: "8%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFx6A6eX",
     },
     {
         id: "25502159172",
@@ -3187,7 +3187,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpknAjzW",
     },
     {
         id: "49455733342",
@@ -3198,7 +3198,7 @@ export const products = [
         commissionRate: "13%",
         sold: "167 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPYUBNKV",
     },
     {
         id: "2195065237",
@@ -3209,7 +3209,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzMBC0fU",
     },
     {
         id: "5231569367",
@@ -3220,7 +3220,7 @@ export const products = [
         commissionRate: "8%",
         sold: "30k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ9sCe0T",
     },
     {
         id: "25350810468",
@@ -3231,7 +3231,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8xZDHLS",
     },
     {
         id: "41260329079",
@@ -3242,7 +3242,7 @@ export const products = [
         commissionRate: "8%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dilGDugR",
     },
     {
         id: "27510635769",
@@ -3253,7 +3253,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3jr4Obw",
     },
     {
         id: "43075630111",
@@ -3264,7 +3264,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "https://s.shopee.vn/W3pWggwAh",
+        affiliateLink: "https://s.shopee.vn/6L1dXY51wv",
     },
     {
         id: "29450991492",
@@ -3275,7 +3275,7 @@ export const products = [
         commissionRate: "3%",
         sold: "780 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDLF5fHu",
     },
     {
         id: "57156364021",
@@ -3286,7 +3286,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On8w6Ict",
     },
     {
         id: "17597939779",
@@ -3297,7 +3297,7 @@ export const products = [
         commissionRate: "3%",
         sold: "782 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5Mwd6vxs",
     },
     {
         id: "18954426385",
@@ -3308,7 +3308,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1107Bm27Ag",
     },
     {
         id: "25929246793",
@@ -3319,7 +3319,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXO51Tpj",
     },
     {
         id: "27387919507",
@@ -3330,7 +3330,7 @@ export const products = [
         commissionRate: "6%",
         sold: "508 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zzw5vCW",
     },
     {
         id: "20317610036",
@@ -3341,7 +3341,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0CF5HrZ",
     },
     {
         id: "24081925576",
@@ -3352,7 +3352,7 @@ export const products = [
         commissionRate: "4%",
         sold: "426 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQOY4eWc",
     },
     {
         id: "26862577420",
@@ -3363,7 +3363,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qar41Bf",
     },
     {
         id: "40706789544",
@@ -3374,7 +3374,7 @@ export const products = [
         commissionRate: "7%",
         sold: "843 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seNbyJ8y",
     },
     {
         id: "27723604940",
@@ -3385,7 +3385,7 @@ export const products = [
         commissionRate: "5%",
         sold: "153 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4Zuxfo1",
     },
     {
         id: "29051883185",
@@ -3396,7 +3396,7 @@ export const products = [
         commissionRate: "8%",
         sold: "186 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUmDx2T4",
     },
     {
         id: "25381601250",
@@ -3407,7 +3407,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouyWwP87",
     },
     {
         id: "19380209016",
@@ -3418,7 +3418,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxaO0qUu",
     },
     {
         id: "9839686934",
@@ -3429,7 +3429,7 @@ export const products = [
         commissionRate: "7%",
         sold: "9k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNmh0D9x",
     },
     {
         id: "2267656614",
@@ -3440,7 +3440,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnyzzZp0",
     },
     {
         id: "22377361461",
@@ -3451,7 +3451,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZEBIywU3",
     },
     {
         id: "26436539183",
@@ -3462,7 +3462,7 @@ export const products = [
         commissionRate: "6%",
         sold: "358 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1y3tERM",
     },
     {
         id: "26610488632",
@@ -3473,7 +3473,7 @@ export const products = [
         commissionRate: "4%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhSAMsb6P",
     },
     {
         id: "23287169096",
@@ -3484,7 +3484,7 @@ export const products = [
         commissionRate: "9%",
         sold: "9k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sMfrxlS",
     },
     {
         id: "4356203848",
@@ -3495,7 +3495,7 @@ export const products = [
         commissionRate: "6%",
         sold: "50k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIYyrKQV",
     },
     {
         id: "44476126626",
@@ -3506,7 +3506,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8LApvlnI",
     },
     {
         id: "24642855560",
@@ -3517,7 +3517,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlN8v8SL",
     },
     {
         id: "24584100892",
@@ -3528,7 +3528,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBZRuV7O",
     },
     {
         id: "23023368661",
@@ -3539,7 +3539,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4blktrmR",
     },
     {
         id: "54353512177",
@@ -3550,7 +3550,7 @@ export const products = [
         commissionRate: "6%",
         sold: "167 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPYVo9jk",
     },
     {
         id: "22936143414",
@@ -3561,7 +3561,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpkonWOn",
     },
     {
         id: "27210159322",
@@ -3572,7 +3572,7 @@ export const products = [
         commissionRate: "7%",
         sold: "400k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFx7mt3q",
     },
     {
         id: "29950736313",
@@ -3583,7 +3583,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg9QmFit",
     },
     {
         id: "55956173226",
@@ -3594,7 +3594,7 @@ export const products = [
         commissionRate: "5%",
         sold: "166 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dilHqh5g",
     },
     {
         id: "5317716848",
@@ -3605,7 +3605,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8xaq3kj",
     },
     {
         id: "17490873368",
@@ -3616,7 +3616,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ9tpQPm",
     },
     {
         id: "42453276983",
@@ -3627,7 +3627,7 @@ export const products = [
         commissionRate: "8%",
         sold: "792 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzMCon4p",
     },
     {
         id: "41200546813",
@@ -3638,7 +3638,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On8xj528",
     },
     {
         id: "28358023115",
@@ -3649,7 +3649,7 @@ export const products = [
         commissionRate: "8%",
         sold: "183 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDLGiRhB",
     },
     {
         id: "24777819187",
@@ -3660,7 +3660,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dXZhoME",
     },
     {
         id: "22156803379",
@@ -3671,7 +3671,7 @@ export const products = [
         commissionRate: "7%",
         sold: "194 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3jshB1H",
     },
     {
         id: "26291461175",
@@ -3682,7 +3682,7 @@ export const products = [
         commissionRate: "8%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96LjlcO4",
     },
     {
         id: "28407466123",
@@ -3693,7 +3693,7 @@ export const products = [
         commissionRate: "4%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWY2kz37",
     },
     {
         id: "22851771858",
@@ -3704,7 +3704,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwkLkLiA",
     },
     {
         id: "28163144735",
@@ -3715,7 +3715,7 @@ export const products = [
         commissionRate: "6%",
         sold: "40k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MwejiND",
     },
     {
         id: "26813713047",
@@ -3726,7 +3726,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAjPe0KW",
     },
     {
         id: "27156199278",
@@ -3737,7 +3737,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDavidMzZ",
     },
     {
         id: "2856455592",
@@ -3748,7 +3748,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX181cjec",
     },
     {
         id: "25228621848",
@@ -3759,7 +3759,7 @@ export const products = [
         commissionRate: "3%",
         sold: "735 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRKKc6Jf",
     },
     {
         id: "23256756745",
@@ -3770,7 +3770,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTwBgXgS",
     },
     {
         id: "51350859848",
@@ -3781,7 +3781,7 @@ export const products = [
         commissionRate: "8%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu8UfuLV",
     },
     {
         id: "26727906688",
@@ -3792,7 +3792,7 @@ export const products = [
         commissionRate: "5%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKKnfH0Y",
     },
     {
         id: "25600393731",
@@ -3803,7 +3803,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakX6edfb",
     },
     {
         id: "54757909986",
@@ -3814,7 +3814,7 @@ export const products = [
         commissionRate: "9%",
         sold: "192 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYJrYvcu",
     },
     {
         id: "24704300906",
@@ -3825,7 +3825,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyWAYIHx",
     },
     {
         id: "42453070742",
@@ -3836,7 +3836,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OiTXex0",
     },
     {
         id: "52855846362",
@@ -3847,7 +3847,7 @@ export const products = [
         commissionRate: "5%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALoumX1c3",
     },
     {
         id: "52809221200",
@@ -3858,7 +3858,7 @@ export const products = [
         commissionRate: "6%",
         sold: "17 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rWdbSyq",
     },
     {
         id: "26854049149",
@@ -3869,7 +3869,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHiwapdt",
     },
     {
         id: "28725926708",
@@ -3880,7 +3880,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhvFaCIw",
     },
     {
         id: "27462325186",
@@ -3891,7 +3891,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V687YZYxz",
     },
     {
         id: "57055904436",
@@ -3902,7 +3902,7 @@ export const products = [
         commissionRate: "4%",
         sold: "227 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvuJTqvI",
     },
     {
         id: "17496791514",
@@ -3913,7 +3913,7 @@ export const products = [
         commissionRate: "5%",
         sold: "316 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM6cTDaL",
     },
     {
         id: "29657057336",
@@ -3924,7 +3924,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmIvSaFO",
     },
     {
         id: "52100101549",
@@ -3935,7 +3935,7 @@ export const products = [
         commissionRate: "6%",
         sold: "7k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCVERwuR",
     },
     {
         id: "25529168830",
@@ -3946,7 +3946,7 @@ export const products = [
         commissionRate: "11%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF75WOHE",
     },
     {
         id: "22762148159",
@@ -3957,7 +3957,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfJOVkwH",
     },
     {
         id: "28011063996",
@@ -3968,7 +3968,7 @@ export const products = [
         commissionRate: "9%",
         sold: "7k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5VhV7bK",
     },
     {
         id: "17498695524",
@@ -3979,7 +3979,7 @@ export const products = [
         commissionRate: "10%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVi0UUGN",
     },
     {
         id: "25661419559",
@@ -3990,7 +3990,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggzT2kWe",
     },
     {
         id: "25504892327",
@@ -4001,7 +4001,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGnA3Nrd",
     },
     {
         id: "25814470785",
@@ -4012,7 +4012,7 @@ export const products = [
         commissionRate: "6%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXO51Tqk",
     },
     {
         id: "27062325195",
@@ -4023,7 +4023,7 @@ export const products = [
         commissionRate: "5%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1107Bm27Bj",
     },
     {
         id: "26958809353",
@@ -4034,7 +4034,7 @@ export const products = [
         commissionRate: "7%",
         sold: "127 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0CF5Hsa",
     },
     {
         id: "28420368667",
@@ -4045,7 +4045,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zzw5vDZ",
     },
     {
         id: "26955669077",
@@ -4056,7 +4056,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qar41Cg",
     },
     {
         id: "28901600200",
@@ -4067,7 +4067,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQOY4eXf",
     },
     {
         id: "24988990129",
@@ -4078,7 +4078,7 @@ export const products = [
         commissionRate: "6%",
         sold: "50k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4Zuxfp2",
     },
     {
         id: "25332938722",
@@ -4089,7 +4089,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seNbyJA1",
     },
     {
         id: "23561674589",
@@ -4100,7 +4100,7 @@ export const products = [
         commissionRate: "9%",
         sold: "9k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouyWwP98",
     },
     {
         id: "29508138520",
@@ -4111,7 +4111,7 @@ export const products = [
         commissionRate: "8%",
         sold: "911 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUmDx2U7",
     },
     {
         id: "47408106640",
@@ -4122,7 +4122,7 @@ export const products = [
         commissionRate: "7%",
         sold: "354 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNmh0DAy",
     },
     {
         id: "19690492708",
@@ -4133,7 +4133,7 @@ export const products = [
         commissionRate: "3%",
         sold: "8k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxaO0qVx",
     },
     {
         id: "2352610767",
@@ -4144,7 +4144,7 @@ export const products = [
         commissionRate: "7%",
         sold: "200k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZEBIywV4",
     },
     {
         id: "28958139402",
@@ -4155,7 +4155,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnyzzZq3",
     },
     {
         id: "24772530555",
@@ -4166,7 +4166,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhSAMsb7Q",
     },
     {
         id: "5329112065",
@@ -4177,7 +4177,7 @@ export const products = [
         commissionRate: "4%",
         sold: "200k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1y3tESP",
     },
     {
         id: "40061923641",
@@ -4188,7 +4188,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIYyrKRW",
     },
     {
         id: "28250154533",
@@ -4199,7 +4199,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sMfrxmV",
     },
     {
         id: "18196103952",
@@ -4210,7 +4210,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlN8v8TM",
     },
     {
         id: "28425109115",
@@ -4221,7 +4221,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8LApvloL",
     },
     {
         id: "26721304022",
@@ -4232,7 +4232,7 @@ export const products = [
         commissionRate: "11%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4blktrnS",
     },
     {
         id: "24928626408",
@@ -4243,7 +4243,7 @@ export const products = [
         commissionRate: "3%",
         sold: "566 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBZRuV8R",
     },
     {
         id: "41501977196",
@@ -4254,7 +4254,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpkonWPo",
     },
     {
         id: "27301481783",
@@ -4265,7 +4265,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPYVo9kn",
     },
     {
         id: "28907671943",
@@ -4276,7 +4276,7 @@ export const products = [
         commissionRate: "8%",
         sold: "86 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg9QmFju",
     },
     {
         id: "29051532346",
@@ -4287,7 +4287,7 @@ export const products = [
         commissionRate: "4%",
         sold: "79 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFx7mt4t",
     },
     {
         id: "24038307584",
@@ -4298,7 +4298,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8xaq3lk",
     },
     {
         id: "22962912848",
@@ -4309,7 +4309,7 @@ export const products = [
         commissionRate: "3%",
         sold: "210 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dilHqh6j",
     },
     {
         id: "24833727974",
@@ -4320,7 +4320,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzMCon5q",
     },
     {
         id: "6189797669",
@@ -4331,7 +4331,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ9tpQQp",
     },
     {
         id: "19684957868",
@@ -4342,7 +4342,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDLGiRiC",
     },
     {
         id: "18949635121",
@@ -4353,7 +4353,7 @@ export const products = [
         commissionRate: "6%",
         sold: "300k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On8xj53B",
     },
     {
         id: "25164715878",
@@ -4364,7 +4364,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3jshB2I",
     },
     {
         id: "29153236227",
@@ -4375,7 +4375,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dXZhoNH",
     },
     {
         id: "50558284819",
@@ -4386,7 +4386,7 @@ export const products = [
         commissionRate: "7%",
         sold: "540 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWY2kz48",
     },
     {
         id: "25451890292",
@@ -4397,7 +4397,7 @@ export const products = [
         commissionRate: "5%",
         sold: "297 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96LjlcP7",
     },
     {
         id: "40711103986",
@@ -4408,7 +4408,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sMhVdaz",
     },
     {
         id: "26509101720",
@@ -4419,7 +4419,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhSAOWGvy",
     },
     {
         id: "49857115067",
@@ -4430,7 +4430,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1y5WuGx",
     },
     {
         id: "9147427874",
@@ -4441,7 +4441,7 @@ export const products = [
         commissionRate: "4%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4blmXXbw",
     },
     {
         id: "24219759310",
@@ -4452,7 +4452,7 @@ export const products = [
         commissionRate: "8%",
         sold: "300k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBZTYAwv",
     },
     {
         id: "24528626479",
@@ -4463,7 +4463,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlNAYoHu",
     },
     {
         id: "29926405497",
@@ -4474,7 +4474,7 @@ export const products = [
         commissionRate: "8%",
         sold: "3k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8LArZRct",
     },
     {
         id: "8675458482",
@@ -4485,7 +4485,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouyYa4xs",
     },
     {
         id: "16099607109",
@@ -4496,7 +4496,7 @@ export const products = [
         commissionRate: "9%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUmFaiIr",
     },
     {
         id: "24206349655",
@@ -4507,7 +4507,7 @@ export const products = [
         commissionRate: "6%",
         sold: "6k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4ZwbLdq",
     },
     {
         id: "43261571736",
@@ -4518,7 +4518,7 @@ export const products = [
         commissionRate: "6%",
         sold: "495 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seNdbyyp",
     },
     {
         id: "24732801972",
@@ -4529,7 +4529,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZEBKccJo",
     },
     {
         id: "18786542617",
@@ -4540,7 +4540,7 @@ export const products = [
         commissionRate: "5%",
         sold: "719 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnz1dFen",
     },
     {
         id: "25156334341",
@@ -4551,7 +4551,7 @@ export const products = [
         commissionRate: "4%",
         sold: "30k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNmidszm",
     },
     {
         id: "19557937297",
@@ -4562,7 +4562,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxaPeWKl",
     },
     {
         id: "5089048750",
@@ -4573,7 +4573,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXO6f9fk",
     },
     {
         id: "4834903747",
@@ -4584,7 +4584,7 @@ export const products = [
         commissionRate: "4%",
         sold: "300k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1107Bnfn0j",
     },
     {
         id: "27200327482",
@@ -4595,7 +4595,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggzUgQLi",
     },
     {
         id: "51209811267",
@@ -4606,7 +4606,7 @@ export const products = [
         commissionRate: "57%",
         sold: "61 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGnBh3gh",
     },
     {
         id: "24204437515",
@@ -4617,7 +4617,7 @@ export const products = [
         commissionRate: "7%",
         sold: "311 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qashh1g",
     },
     {
         id: "24378581618",
@@ -4628,7 +4628,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQOZiKMf",
     },
     {
         id: "6838870200",
@@ -4639,7 +4639,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0CGixhe",
     },
     {
         id: "24668955739",
@@ -4650,7 +4650,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zzxjb2d",
     },
     {
         id: "23888605093",
@@ -4661,7 +4661,7 @@ export const products = [
         commissionRate: "6%",
         sold: "90k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCVG5cjg",
     },
     {
         id: "15919767970",
@@ -4672,7 +4672,7 @@ export const products = [
         commissionRate: "7%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmIx6G4f",
     },
     {
         id: "28686563875",
@@ -4683,7 +4683,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM6e6tPe",
     },
     {
         id: "29455161737",
@@ -4694,7 +4694,7 @@ export const products = [
         commissionRate: "8%",
         sold: "4k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvuL7Wkd",
     },
     {
         id: "24731394715",
@@ -4705,7 +4705,7 @@ export const products = [
         commissionRate: "6%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVi28A5c",
     },
     {
         id: "27003776476",
@@ -4716,7 +4716,7 @@ export const products = [
         commissionRate: "6%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5Vj8nQb",
     },
     {
         id: "24579424690",
@@ -4727,7 +4727,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfJQ9Qla",
     },
     {
         id: "41507933063",
@@ -4738,7 +4738,7 @@ export const products = [
         commissionRate: "8%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF77A46Z",
     },
     {
         id: "9378722283",
@@ -4749,7 +4749,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALouoAhRY",
     },
     {
         id: "7563376397",
@@ -4760,7 +4760,7 @@ export const products = [
         commissionRate: "4%",
         sold: "500k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OiVBKmX",
     },
     {
         id: "28662403590",
@@ -4771,7 +4771,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyWCBy7W",
     },
     {
         id: "20449712143",
@@ -4782,7 +4782,7 @@ export const products = [
         commissionRate: "8%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYJtCbSV",
     },
     {
         id: "20637640258",
@@ -4793,7 +4793,7 @@ export const products = [
         commissionRate: "3%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V687aDEnU",
     },
     {
         id: "3365583525",
@@ -4804,7 +4804,7 @@ export const products = [
         commissionRate: "8%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhvHDs8T",
     },
     {
         id: "24736430783",
@@ -4815,7 +4815,7 @@ export const products = [
         commissionRate: "5%",
         sold: "60k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHiyEVTS",
     },
     {
         id: "49957592823",
@@ -4826,7 +4826,7 @@ export const products = [
         commissionRate: "8%",
         sold: "75 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rWfF8oR",
     },
     {
         id: "13732543908",
@@ -4837,7 +4837,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRKMFm9Q",
     },
     {
         id: "24684188675",
@@ -4848,7 +4848,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX183GPUP",
     },
     {
         id: "25669796882",
@@ -4859,7 +4859,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDavkH2pO",
     },
     {
         id: "25084775266",
@@ -4870,7 +4870,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAjRHgAN",
     },
     {
         id: "24829866692",
@@ -4881,7 +4881,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakX8IJVM",
     },
     {
         id: "5153199467",
@@ -4892,7 +4892,7 @@ export const products = [
         commissionRate: "5%",
         sold: "80k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKKpIwqL",
     },
     {
         id: "23580183247",
@@ -4903,7 +4903,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu8WJaBK",
     },
     {
         id: "28750845516",
@@ -4914,7 +4914,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTwDKDWJ",
     },
     {
         id: "11598373276",
@@ -4925,7 +4925,7 @@ export const products = [
         commissionRate: "4%",
         sold: "40k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3juKqrI",
     },
     {
         id: "25426012493",
@@ -4936,7 +4936,7 @@ export const products = [
         commissionRate: "4%",
         sold: "472 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dXbLUCH",
     },
     {
         id: "25171045245",
@@ -4947,7 +4947,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDLIM7XG",
     },
     {
         id: "12289180357",
@@ -4958,7 +4958,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On8zMksF",
     },
     {
         id: "8347270310",
@@ -4969,7 +4969,7 @@ export const products = [
         commissionRate: "5%",
         sold: "200k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MwgNODE",
     },
     {
         id: "11055530031",
@@ -4980,7 +4980,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwkNO1YD",
     },
     {
         id: "26153582788",
@@ -4991,7 +4991,7 @@ export const products = [
         commissionRate: "6%",
         sold: "8k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWY4OetC",
     },
     {
         id: "22523437317",
@@ -5002,7 +5002,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96LlPIEB",
     },
     {
         id: "15800830018",
@@ -5013,7 +5013,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFx9QYu8",
     },
     {
         id: "16913531701",
@@ -5024,7 +5024,7 @@ export const products = [
         commissionRate: "6%",
         sold: "90k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg9SPvZB",
     },
     {
         id: "27550226718",
@@ -5035,7 +5035,7 @@ export const products = [
         commissionRate: "3%",
         sold: "362 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPYXRpa6",
     },
     {
         id: "25041822224",
@@ -5046,7 +5046,7 @@ export const products = [
         commissionRate: "5%",
         sold: "750 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpkqRCF9",
     },
     {
         id: "16099659034",
@@ -5057,7 +5057,7 @@ export const products = [
         commissionRate: "7%",
         sold: "277 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ9vT6G4",
     },
     {
         id: "2894821099",
@@ -5068,7 +5068,7 @@ export const products = [
         commissionRate: "6%",
         sold: "90k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzMESSv7",
     },
     {
         id: "27502930313",
@@ -5079,7 +5079,7 @@ export const products = [
         commissionRate: "9%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dilJUMw2",
     },
     {
         id: "41680716105",
@@ -5090,7 +5090,7 @@ export const products = [
         commissionRate: "6%",
         sold: "50 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8xcTjb5",
     },
     {
         id: "24228047323",
@@ -5101,7 +5101,7 @@ export const products = [
         commissionRate: "8%",
         sold: "30k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sMhVdc0",
     },
     {
         id: "20154414758",
@@ -5112,7 +5112,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIZ0V0H3",
     },
     {
         id: "27703934503",
@@ -5123,7 +5123,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1y5WuHy",
     },
     {
         id: "51908082415",
@@ -5134,7 +5134,7 @@ export const products = [
         commissionRate: "8%",
         sold: "158 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhSAOWGx1",
     },
     {
         id: "19183272869",
@@ -5145,7 +5145,7 @@ export const products = [
         commissionRate: "6%",
         sold: "79 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBZTYAxw",
     },
     {
         id: "22466792366",
@@ -5156,7 +5156,7 @@ export const products = [
         commissionRate: "4%",
         sold: "60k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4blmXXcz",
     },
     {
         id: "27411975966",
@@ -5167,7 +5167,7 @@ export const products = [
         commissionRate: "3%",
         sold: "18 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8LArZRdu",
     },
     {
         id: "26468881813",
@@ -5178,7 +5178,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlNAYoIx",
     },
     {
         id: "2234788645",
@@ -5189,7 +5189,7 @@ export const products = [
         commissionRate: "8%",
         sold: "50k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUmFaiJs",
     },
     {
         id: "17196220589",
@@ -5200,7 +5200,7 @@ export const products = [
         commissionRate: "5%",
         sold: "60k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouyYa4yv",
     },
     {
         id: "25028626318",
@@ -5211,7 +5211,7 @@ export const products = [
         commissionRate: "3%",
         sold: "671 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seNdbyzq",
     },
     {
         id: "48557583785",
@@ -5222,7 +5222,7 @@ export const products = [
         commissionRate: "5%",
         sold: "468 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4ZwbLet",
     },
     {
         id: "28931900506",
@@ -5233,7 +5233,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnz1dFfo",
     },
     {
         id: "26705721583",
@@ -5244,7 +5244,7 @@ export const products = [
         commissionRate: "6%",
         sold: "348 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZEBKccKr",
     },
     {
         id: "23439656752",
@@ -5255,7 +5255,7 @@ export const products = [
         commissionRate: "11%",
         sold: "50k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxaPeWLm",
     },
     {
         id: "55458191671",
@@ -5266,7 +5266,7 @@ export const products = [
         commissionRate: "6%",
         sold: "463 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNmidt0p",
     },
     {
         id: "1522129333",
@@ -5277,7 +5277,7 @@ export const products = [
         commissionRate: "8%",
         sold: "90k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1107Bnfn1k",
     },
     {
         id: "24170704482",
@@ -5288,7 +5288,7 @@ export const products = [
         commissionRate: "6%",
         sold: "122 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXO6f9gn",
     },
     {
         id: "15806688140",
@@ -5299,7 +5299,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGnBh3hi",
     },
     {
         id: "42303137226",
@@ -5310,7 +5310,7 @@ export const products = [
         commissionRate: "4%",
         sold: "924 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggzUgQMl",
     },
     {
         id: "28752872511",
@@ -5321,7 +5321,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQOZiKNg",
     },
     {
         id: "4458803718",
@@ -5332,7 +5332,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qashh2j",
     },
     {
         id: "26056736628",
@@ -5343,7 +5343,7 @@ export const products = [
         commissionRate: "8%",
         sold: "90k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zzxjb3e",
     },
     {
         id: "40407783858",
@@ -5354,7 +5354,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR0CGixih",
     },
     {
         id: "2978314192",
@@ -5365,7 +5365,7 @@ export const products = [
         commissionRate: "4%",
         sold: "70k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmIx6G5g",
     },
     {
         id: "9964698408",
@@ -5376,7 +5376,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCVG5ckj",
     },
     {
         id: "25429215508",
@@ -5387,7 +5387,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvuL7Wle",
     },
     {
         id: "27234689775",
@@ -5398,7 +5398,7 @@ export const products = [
         commissionRate: "6%",
         sold: "8k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM6e6tQh",
     },
     {
         id: "3800651981",
@@ -5409,7 +5409,7 @@ export const products = [
         commissionRate: "7%",
         sold: "80k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5Vj8nRc",
     },
     {
         id: "23066966161",
@@ -5420,7 +5420,7 @@ export const products = [
         commissionRate: "5%",
         sold: "80k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVi28A6f",
     },
     {
         id: "42511102719",
@@ -5431,7 +5431,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF77A47a",
     },
     {
         id: "26250369389",
@@ -5442,7 +5442,7 @@ export const products = [
         commissionRate: "8%",
         sold: "5k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfJQ9Qmd",
     },
     {
         id: "11862131811",
@@ -5453,7 +5453,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OiVBKnY",
     },
     {
         id: "7535514039",
@@ -5464,7 +5464,7 @@ export const products = [
         commissionRate: "8%",
         sold: "90k+ lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALouoAhSb",
     },
     {
         id: "25656548439",
@@ -5475,7 +5475,7 @@ export const products = [
         commissionRate: "5%",
         sold: "293 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYJtCbTW",
     },
     {
         id: "44408962505",
@@ -5486,7 +5486,7 @@ export const products = [
         commissionRate: "6%",
         sold: "626 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyWCBy8Z",
     },
     {
         id: "13025772908",
@@ -5497,6 +5497,6 @@ export const products = [
         commissionRate: "3%",
         sold: "41 lượt bán",
         category: "Thể thao và Du lịch",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhvHDs9U",
     },
 ];

@@ -8,7 +8,7 @@ export const products = [
         commissionRate: "3%",
         sold: "132 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrBbrOWkm",
     },
     {
         id: "25996810589",
@@ -19,7 +19,7 @@ export const products = [
         commissionRate: "5%",
         sold: "181 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXlPYPA5l",
     },
     {
         id: "26991266509",
@@ -30,7 +30,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAELDFPnQk",
     },
     {
         id: "28602127493",
@@ -41,7 +41,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuv0wQQlj",
     },
     {
         id: "29581867962",
@@ -52,7 +52,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V67EBW8oS",
     },
     {
         id: "18884076994",
@@ -63,7 +63,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmh1sWm9R",
     },
     {
         id: "41470099312",
@@ -74,7 +74,7 @@ export const products = [
         commissionRate: "7%",
         sold: "148 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATGpZXPUQ",
     },
     {
         id: "44016714102",
@@ -85,7 +85,7 @@ export const products = [
         commissionRate: "8%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809qdGY2pP",
     },
     {
         id: "27712068241",
@@ -96,7 +96,7 @@ export const products = [
         commissionRate: "4%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALo1PTbSe",
     },
     {
         id: "22274168886",
@@ -107,7 +107,7 @@ export const products = [
         commissionRate: "5%",
         sold: "362 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902Np6UEnd",
     },
     {
         id: "53954087529",
@@ -118,7 +118,7 @@ export const products = [
         commissionRate: "42%",
         sold: "",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8pixcnUs8c",
     },
     {
         id: "40418674939",
@@ -129,7 +129,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPXQUVVTb",
     },
     {
         id: "29043940356",
@@ -140,7 +140,7 @@ export const products = [
         commissionRate: "42%",
         sold: "",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AajdjbDWK",
     },
     {
         id: "24377139662",
@@ -151,7 +151,7 @@ export const products = [
         commissionRate: "3%",
         sold: "124 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HJRQbqrJ",
     },
     {
         id: "24258079167",
@@ -162,7 +162,7 @@ export const products = [
         commissionRate: "27%",
         sold: "224 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxtF7cUCI",
     },
     {
         id: "22482419681",
@@ -173,7 +173,7 @@ export const products = [
         commissionRate: "27%",
         sold: "325 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feT2od7XH",
     },
     {
         id: "26332980376",
@@ -184,7 +184,7 @@ export const products = [
         commissionRate: "5%",
         sold: "915 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqQQxYgAW",
     },
     {
         id: "28629885069",
@@ -195,7 +195,7 @@ export const products = [
         commissionRate: "9%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX0EeZJVV",
     },
     {
         id: "19184967235",
@@ -206,7 +206,7 @@ export const products = [
         commissionRate: "27%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDa2LZwqU",
     },
     {
         id: "27617073519",
@@ -217,7 +217,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7Ku9q2aaBT",
     },
     {
         id: "29804565068",
@@ -228,7 +228,7 @@ export const products = [
         commissionRate: "5%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5M3HgIEC",
     },
     {
         id: "41304408491",
@@ -239,7 +239,7 @@ export const products = [
         commissionRate: "5%",
         sold: "341 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flvqygvZB",
     },
     {
         id: "24252890495",
@@ -250,7 +250,7 @@ export const products = [
         commissionRate: "27%",
         sold: "360 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSVefhYuA",
     },
     {
         id: "29221195939",
@@ -261,7 +261,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L95SMiCF9",
     },
     {
         id: "27443098983",
@@ -272,7 +272,7 @@ export const products = [
         commissionRate: "14%",
         sold: "91 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL2qVdksO",
     },
     {
         id: "47260189410",
@@ -283,7 +283,7 @@ export const products = [
         commissionRate: "7%",
         sold: "256 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1ceCeODN",
     },
     {
         id: "51954083577",
@@ -294,7 +294,7 @@ export const products = [
         commissionRate: "42%",
         sold: "",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiCRtf1YM",
     },
     {
         id: "22480047077",
@@ -305,7 +305,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60OmFafetL",
     },
     {
         id: "23854549847",
@@ -316,7 +316,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZySplMw4",
     },
     {
         id: "44201430250",
@@ -327,7 +327,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGYGWm0H3",
     },
     {
         id: "52051417348",
@@ -338,7 +338,7 @@ export const products = [
         commissionRate: "7%",
         sold: "279 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax84Dmdc2",
     },
     {
         id: "28257863720",
@@ -349,7 +349,7 @@ export const products = [
         commissionRate: "9%",
         sold: "573 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dhrunGx1",
     },
     {
         id: "42324908176",
@@ -360,7 +360,7 @@ export const products = [
         commissionRate: "3%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5ApfG3ipaG",
     },
     {
         id: "29633653149",
@@ -371,7 +371,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WF3kjSvF",
     },
     {
         id: "43270124908",
@@ -382,7 +382,7 @@ export const products = [
         commissionRate: "7%",
         sold: "142 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCorRk6GE",
     },
     {
         id: "41259704099",
@@ -393,7 +393,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftOf8kjbD",
     },
     {
         id: "42477838140",
@@ -404,7 +404,7 @@ export const products = [
         commissionRate: "4%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4asNqRdw",
     },
     {
         id: "24931321264",
@@ -415,7 +415,7 @@ export const products = [
         commissionRate: "9%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lAg4r4yv",
     },
     {
         id: "24619119987",
@@ -426,7 +426,7 @@ export const products = [
         commissionRate: "3%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRkTlriJu",
     },
     {
         id: "27384164201",
@@ -437,7 +437,7 @@ export const products = [
         commissionRate: "7%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8KHSsLet",
     },
     {
         id: "5919767460",
@@ -448,7 +448,7 @@ export const products = [
         commissionRate: "5%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKHfbnuI8",
     },
     {
         id: "24657036065",
@@ -459,7 +459,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0rTIoXd7",
     },
     {
         id: "46756697455",
@@ -470,7 +470,7 @@ export const products = [
         commissionRate: "5%",
         sold: "648 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhRGzpAy6",
     },
     {
         id: "44471928567",
@@ -481,7 +481,7 @@ export const products = [
         commissionRate: "7%",
         sold: "155 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO14gpoJ5",
     },
     {
         id: "42568546799",
@@ -492,7 +492,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZDHvvWLo",
     },
     {
         id: "24630538603",
@@ -503,7 +503,7 @@ export const products = [
         commissionRate: "3%",
         sold: "108 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFn5cw9gn",
     },
     {
         id: "29712070555",
@@ -514,7 +514,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwMtJwn1m",
     },
     {
         id: "49104102857",
@@ -525,7 +525,7 @@ export const products = [
         commissionRate: "42%",
         sold: "",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1Lcwh0xQMl",
     },
     {
         id: "24876268549",
@@ -536,7 +536,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2Vou59sz00",
     },
     {
         id: "27339763602",
@@ -547,7 +547,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVTsqtcKz",
     },
     {
         id: "19092171373",
@@ -558,7 +558,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC3gXuFfy",
     },
     {
         id: "28966362112",
@@ -569,7 +569,7 @@ export const products = [
         commissionRate: "2%",
         sold: "9k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20sdUEut0x",
     },
     {
         id: "42521663902",
@@ -580,7 +580,7 @@ export const products = [
         commissionRate: "3%",
         sold: "57 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3phU0b3g",
     },
     {
         id: "29351532406",
@@ -591,7 +591,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkPVB1EOf",
     },
     {
         id: "40728973893",
@@ -602,7 +602,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BQzIs1rje",
     },
     {
         id: "17698089651",
@@ -613,7 +613,7 @@ export const products = [
         commissionRate: "4%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Z6Z2V4d",
     },
     {
         id: "53708748456",
@@ -624,7 +624,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJWUhy3hs",
     },
     {
         id: "21289797632",
@@ -635,7 +635,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1106IOyh2r",
     },
     {
         id: "18090681423",
@@ -646,7 +646,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qgg65zKNq",
     },
     {
         id: "26757857252",
@@ -657,7 +657,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNFtmzxip",
     },
     {
         id: "19782736680",
@@ -668,7 +668,7 @@ export const products = [
         commissionRate: "6%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI4cKRhSa",
     },
     {
         id: "20876836635",
@@ -679,7 +679,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbUodR47d",
     },
     {
         id: "18984085518",
@@ -690,7 +690,7 @@ export const products = [
         commissionRate: "2%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfEDiSy8Y",
     },
     {
         id: "28217719890",
@@ -701,7 +701,7 @@ export const products = [
         commissionRate: "9%",
         sold: "9k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyeQ1SKnb",
     },
     {
         id: "27916173948",
@@ -712,7 +712,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXlPYPA6m",
     },
     {
         id: "20917279717",
@@ -723,7 +723,7 @@ export const products = [
         commissionRate: "9%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrBbrOWlp",
     },
     {
         id: "4165579594",
@@ -734,7 +734,7 @@ export const products = [
         commissionRate: "2%",
         sold: "9k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuv0wQQmk",
     },
     {
         id: "26380505702",
@@ -745,7 +745,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAELDFPnRn",
     },
     {
         id: "27912942535",
@@ -756,7 +756,7 @@ export const products = [
         commissionRate: "4%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmh1sWmAS",
     },
     {
         id: "19195671621",
@@ -767,7 +767,7 @@ export const products = [
         commissionRate: "6%",
         sold: "916 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V67EBW8pV",
     },
     {
         id: "24726508272",
@@ -778,7 +778,7 @@ export const products = [
         commissionRate: "2%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809qdGY2qQ",
     },
     {
         id: "25263666312",
@@ -789,7 +789,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATGpZXPVT",
     },
     {
         id: "26185299672",
@@ -800,7 +800,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902Np6UEoe",
     },
     {
         id: "22464264066",
@@ -811,7 +811,7 @@ export const products = [
         commissionRate: "6%",
         sold: "582 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALo1PTbTh",
     },
     {
         id: "41805274940",
@@ -822,7 +822,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPXQUVVUc",
     },
     {
         id: "15464669982",
@@ -833,7 +833,7 @@ export const products = [
         commissionRate: "4%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8pixcnUs9f",
     },
     {
         id: "41221928228",
@@ -844,7 +844,7 @@ export const products = [
         commissionRate: "7%",
         sold: "257 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HJRQbqsK",
     },
     {
         id: "19229831813",
@@ -855,7 +855,7 @@ export const products = [
         commissionRate: "4%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AajdjbDXN",
     },
     {
         id: "10351496548",
@@ -866,7 +866,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feT2od7YI",
     },
     {
         id: "26400385659",
@@ -877,7 +877,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxtF7cUDL",
     },
     {
         id: "12950933667",
@@ -888,7 +888,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX0EeZJWW",
     },
     {
         id: "7881261275",
@@ -899,7 +899,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqQQxYgBZ",
     },
     {
         id: "26657060516",
@@ -910,7 +910,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7Ku9q2aaCU",
     },
     {
         id: "29971748591",
@@ -921,7 +921,7 @@ export const products = [
         commissionRate: "5%",
         sold: "9k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDa2LZwrX",
     },
     {
         id: "28708978353",
@@ -932,7 +932,7 @@ export const products = [
         commissionRate: "4%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flvqygvaC",
     },
     {
         id: "29480787736",
@@ -943,7 +943,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5M3HgIFF",
     },
     {
         id: "27823346137",
@@ -954,7 +954,7 @@ export const products = [
         commissionRate: "2%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L95SMiCGA",
     },
     {
         id: "24686243900",
@@ -965,7 +965,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSVefhYvD",
     },
     {
         id: "16194811157",
@@ -976,7 +976,7 @@ export const products = [
         commissionRate: "4%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1ceCeOEO",
     },
     {
         id: "11374260967",
@@ -987,7 +987,7 @@ export const products = [
         commissionRate: "8%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL2qVdktR",
     },
     {
         id: "28311932536",
@@ -998,7 +998,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60OmFafeuM",
     },
     {
         id: "23264655907",
@@ -1009,7 +1009,7 @@ export const products = [
         commissionRate: "3%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiCRtf1ZP",
     },
     {
         id: "26263590656",
@@ -1020,7 +1020,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGYGWm0I4",
     },
     {
         id: "24671787625",
@@ -1031,7 +1031,7 @@ export const products = [
         commissionRate: "3%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZySplMx7",
     },
     {
         id: "48557060099",
@@ -1042,7 +1042,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dhrunGy2",
     },
     {
         id: "40167631627",
@@ -1053,7 +1053,7 @@ export const products = [
         commissionRate: "9%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax84Dmdd5",
     },
     {
         id: "22071548583",
@@ -1064,7 +1064,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WF3kjSwG",
     },
     {
         id: "29603779522",
@@ -1075,7 +1075,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5ApfG3ipbJ",
     },
     {
         id: "27601657103",
@@ -1086,7 +1086,7 @@ export const products = [
         commissionRate: "7%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftOf8kjcE",
     },
     {
         id: "25800248732",
@@ -1097,7 +1097,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCorRk6HH",
     },
     {
         id: "54054334307",
@@ -1108,7 +1108,7 @@ export const products = [
         commissionRate: "8%",
         sold: "928 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809qdIl3TE",
     },
     {
         id: "22783400999",
@@ -1119,7 +1119,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATGpbkQ8H",
     },
     {
         id: "24237217009",
@@ -1130,7 +1130,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmh1ujmnK",
     },
     {
         id: "20387539754",
@@ -1141,7 +1141,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V67EDj9SN",
     },
     {
         id: "26314614199",
@@ -1152,7 +1152,7 @@ export const products = [
         commissionRate: "4%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPXQWiW7Q",
     },
     {
         id: "24825577069",
@@ -1163,7 +1163,7 @@ export const products = [
         commissionRate: "7%",
         sold: "645 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8pixcphsmT",
     },
     {
         id: "24911855845",
@@ -1174,7 +1174,7 @@ export const products = [
         commissionRate: "4%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902Np8hFRW",
     },
     {
         id: "29925044092",
@@ -1185,7 +1185,7 @@ export const products = [
         commissionRate: "6%",
         sold: "9k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALo1Rgc6Z",
     },
     {
         id: "22259515682",
@@ -1196,7 +1196,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feT2qq8B6",
     },
     {
         id: "24621779959",
@@ -1207,7 +1207,7 @@ export const products = [
         commissionRate: "3%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxtF9pUq9",
     },
     {
         id: "29504963005",
@@ -1218,7 +1218,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HJRSorVC",
     },
     {
         id: "12077693010",
@@ -1229,7 +1229,7 @@ export const products = [
         commissionRate: "6%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AajdloEAF",
     },
     {
         id: "6718248412",
@@ -1240,7 +1240,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7Ku9q4napI",
     },
     {
         id: "29573088635",
@@ -1251,7 +1251,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDa2NmxUL",
     },
     {
         id: "40551364982",
@@ -1262,7 +1262,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX0EgmK9O",
     },
     {
         id: "41550516654",
@@ -1273,7 +1273,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqQQzlgoR",
     },
     {
         id: "43056782932",
@@ -1284,7 +1284,7 @@ export const products = [
         commissionRate: "4%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L95SOvCsy",
     },
     {
         id: "24456808646",
@@ -1295,7 +1295,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSVehuZY1",
     },
     {
         id: "4472787773",
@@ -1306,7 +1306,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flvr0twD4",
     },
     {
         id: "27567763703",
@@ -1317,7 +1317,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5M3JtIs7",
     },
     {
         id: "25116364200",
@@ -1328,7 +1328,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60OmFcsfXA",
     },
     {
         id: "25044617343",
@@ -1339,7 +1339,7 @@ export const products = [
         commissionRate: "6%",
         sold: "746 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiCRvs2CD",
     },
     {
         id: "42360229049",
@@ -1350,7 +1350,7 @@ export const products = [
         commissionRate: "9%",
         sold: "399 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1ceErOrG",
     },
     {
         id: "24173579145",
@@ -1361,7 +1361,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL2qXqlWJ",
     },
     {
         id: "23258204997",
@@ -1372,7 +1372,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZySryNZw",
     },
     {
         id: "24215424671",
@@ -1383,7 +1383,7 @@ export const products = [
         commissionRate: "4%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGYGYz0uv",
     },
     {
         id: "42820912033",
@@ -1394,7 +1394,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax84FzeFu",
     },
     {
         id: "25480202835",
@@ -1405,7 +1405,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dhrx0Hat",
     },
     {
         id: "42001386290",
@@ -1416,7 +1416,7 @@ export const products = [
         commissionRate: "5%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5ApfG5vqE8",
     },
     {
         id: "24704270589",
@@ -1427,7 +1427,7 @@ export const products = [
         commissionRate: "2%",
         sold: "318 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WF3mwTZ7",
     },
     {
         id: "25440314539",
@@ -1438,7 +1438,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCorTx6u6",
     },
     {
         id: "19030513255",
@@ -1449,7 +1449,7 @@ export const products = [
         commissionRate: "4%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftOfAxkF5",
     },
     {
         id: "9591198384",
@@ -1460,7 +1460,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4asQ3SHo",
     },
     {
         id: "22445028916",
@@ -1471,7 +1471,7 @@ export const products = [
         commissionRate: "2%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lAg745cn",
     },
     {
         id: "25297310330",
@@ -1482,7 +1482,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRkTo4ixm",
     },
     {
         id: "22542997709",
@@ -1493,7 +1493,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8KHV5MIl",
     },
     {
         id: "4763554517",
@@ -1504,7 +1504,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKHfe0uw0",
     },
     {
         id: "24350810833",
@@ -1515,7 +1515,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0rTL1YGz",
     },
     {
         id: "40607546207",
@@ -1526,7 +1526,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhRH22Bby",
     },
     {
         id: "12161485775",
@@ -1537,7 +1537,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO14j2owx",
     },
     {
         id: "26785874896",
@@ -1548,7 +1548,7 @@ export const products = [
         commissionRate: "4%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZDHy8Wzg",
     },
     {
         id: "25651853985",
@@ -1559,7 +1559,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFn5f9AKf",
     },
     {
         id: "24991398275",
@@ -1570,7 +1570,7 @@ export const products = [
         commissionRate: "2%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwMtM9nfe",
     },
     {
         id: "23562208921",
@@ -1581,7 +1581,7 @@ export const products = [
         commissionRate: "4%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1Lcwh3AR0d",
     },
     {
         id: "25744280380",
@@ -1592,7 +1592,7 @@ export const products = [
         commissionRate: "4%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2Vou5C5zds",
     },
     {
         id: "42079704494",
@@ -1603,7 +1603,7 @@ export const products = [
         commissionRate: "5%",
         sold: "878 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVTst6cyr",
     },
     {
         id: "26317771873",
@@ -1614,7 +1614,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC3ga7GJq",
     },
     {
         id: "24961825526",
@@ -1625,7 +1625,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20sdUH7tep",
     },
     {
         id: "25164652991",
@@ -1636,7 +1636,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3phWDbhY",
     },
     {
         id: "24456803648",
@@ -1647,7 +1647,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkPVDEF2X",
     },
     {
         id: "21075666660",
@@ -1658,7 +1658,7 @@ export const products = [
         commissionRate: "350%",
         sold: "783 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BQzIuEsNW",
     },
     {
         id: "15664668135",
@@ -1669,7 +1669,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Z6bFViV",
     },
     {
         id: "16693951925",
@@ -1680,7 +1680,7 @@ export const products = [
         commissionRate: "3%",
         sold: "9k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJWUkB4Lk",
     },
     {
         id: "27954062743",
@@ -1691,7 +1691,7 @@ export const products = [
         commissionRate: "3%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1106IRBhgj",
     },
     {
         id: "17531143951",
@@ -1702,7 +1702,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qgg68CL1i",
     },
     {
         id: "21563171068",
@@ -1713,7 +1713,7 @@ export const products = [
         commissionRate: "10%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNFtpCyMh",
     },
     {
         id: "3067995243",
@@ -1724,7 +1724,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbUofe4lU",
     },
     {
         id: "29301296011",
@@ -1735,7 +1735,7 @@ export const products = [
         commissionRate: "5%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI4cMei6T",
     },
     {
         id: "27560379542",
@@ -1746,7 +1746,7 @@ export const products = [
         commissionRate: "10%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyeQ3fLRS",
     },
     {
         id: "26502298929",
@@ -1757,7 +1757,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfEDkfymR",
     },
     {
         id: "22522558613",
@@ -1768,7 +1768,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrBbtbXPg",
     },
     {
         id: "24642052961",
@@ -1779,7 +1779,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXlPacAkf",
     },
     {
         id: "29209015519",
@@ -1790,7 +1790,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAELDHco5e",
     },
     {
         id: "25573516861",
@@ -1801,7 +1801,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuv0ydRQd",
     },
     {
         id: "28083839465",
@@ -1812,7 +1812,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V67EDj9TM",
     },
     {
         id: "23561375702",
@@ -1823,7 +1823,7 @@ export const products = [
         commissionRate: "2%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmh1ujmoL",
     },
     {
         id: "55956713107",
@@ -1834,7 +1834,7 @@ export const products = [
         commissionRate: "7%",
         sold: "526 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATGpbkQ9K",
     },
     {
         id: "24430894358",
@@ -1845,7 +1845,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809qdIl3UJ",
     },
     {
         id: "24424426058",
@@ -1856,7 +1856,7 @@ export const products = [
         commissionRate: "5%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALo1Rgc7Y",
     },
     {
         id: "25496023544",
@@ -1867,7 +1867,7 @@ export const products = [
         commissionRate: "9%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902Np8hFSX",
     },
     {
         id: "25534443523",
@@ -1878,7 +1878,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8pixcphsnW",
     },
     {
         id: "51057562537",
@@ -1889,7 +1889,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPXQWiW8V",
     },
     {
         id: "2728769971",
@@ -1900,7 +1900,7 @@ export const products = [
         commissionRate: "10%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AajdloEBE",
     },
     {
         id: "25432849358",
@@ -1911,7 +1911,7 @@ export const products = [
         commissionRate: "3%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HJRSorWD",
     },
     {
         id: "28294114107",
@@ -1922,7 +1922,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxtF9pUrC",
     },
     {
         id: "26808540550",
@@ -1933,7 +1933,7 @@ export const products = [
         commissionRate: "2%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feT2qq8CB",
     },
     {
         id: "2763382691",
@@ -1944,7 +1944,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqQQzlgpQ",
     },
     {
         id: "26134276677",
@@ -1955,7 +1955,7 @@ export const products = [
         commissionRate: "5%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX0EgmKAP",
     },
     {
         id: "3340731928",
@@ -1966,7 +1966,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDa2NmxVO",
     },
     {
         id: "19372435129",
@@ -1977,7 +1977,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7Ku9q4naqN",
     },
     {
         id: "20300919760",
@@ -1988,7 +1988,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5M3JtIt6",
     },
     {
         id: "50308402646",
@@ -1999,7 +1999,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "https://s.shopee.vn/4qCogeQROa",
+        affiliateLink: "https://s.shopee.vn/5flvr0twE5",
     },
     {
         id: "26428140462",
@@ -2010,7 +2010,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSVehuZZ4",
     },
     {
         id: "1370125312",
@@ -2021,7 +2021,7 @@ export const products = [
         commissionRate: "2%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L95SOvCu3",
     },
     {
         id: "28773355769",
@@ -2032,7 +2032,7 @@ export const products = [
         commissionRate: "2%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL2qXqlXI",
     },
     {
         id: "57053309728",
@@ -2043,7 +2043,7 @@ export const products = [
         commissionRate: "5%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1ceErOsH",
     },
     {
         id: "17195789898",
@@ -2054,7 +2054,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiCRvs2DG",
     },
     {
         id: "25355144567",
@@ -2065,7 +2065,7 @@ export const products = [
         commissionRate: "4%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60OmFcsfYF",
     },
     {
         id: "18506209199",
@@ -2076,7 +2076,7 @@ export const products = [
         commissionRate: "3%",
         sold: "791 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGYGYz0vw",
     },
     {
         id: "23570209836",
@@ -2087,7 +2087,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZySryNaz",
     },
     {
         id: "21779437449",
@@ -2098,7 +2098,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dhrx0Hbu",
     },
     {
         id: "26734029304",
@@ -2109,7 +2109,7 @@ export const products = [
         commissionRate: "2%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax84FzeGx",
     },
     {
         id: "18087551972",
@@ -2120,7 +2120,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WF3mwTa8",
     },
     {
         id: "25765004035",
@@ -2131,7 +2131,7 @@ export const products = [
         commissionRate: "3%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5ApfG5vqFB",
     },
     {
         id: "55604797885",
@@ -2142,7 +2142,7 @@ export const products = [
         commissionRate: "4%",
         sold: "9k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftOfAxkG6",
     },
     {
         id: "22546318106",
@@ -2153,7 +2153,7 @@ export const products = [
         commissionRate: "3%",
         sold: "9k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCorTx6v9",
     },
     {
         id: "28651046671",
@@ -2164,7 +2164,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lAg745do",
     },
     {
         id: "40328952440",
@@ -2175,7 +2175,7 @@ export const products = [
         commissionRate: "5%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4asQ3SIr",
     },
     {
         id: "25166598023",
@@ -2186,7 +2186,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8KHV5MJm",
     },
     {
         id: "40655767116",
@@ -2197,7 +2197,7 @@ export const products = [
         commissionRate: "3%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRkTo4iyp",
     },
     {
         id: "25983537196",
@@ -2208,7 +2208,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0rTNQBAf",
     },
     {
         id: "21787480236",
@@ -2219,7 +2219,7 @@ export const products = [
         commissionRate: "3%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhRH4QoVe",
     },
     {
         id: "29963494975",
@@ -2230,7 +2230,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO14lRRqd",
     },
     {
         id: "18291964248",
@@ -2241,7 +2241,7 @@ export const products = [
         commissionRate: "4%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4asSS5Bc",
     },
     {
         id: "40326035986",
@@ -2252,7 +2252,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lAg9SiWb",
     },
     {
         id: "13568761488",
@@ -2263,7 +2263,7 @@ export const products = [
         commissionRate: "5%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRkTqTLra",
     },
     {
         id: "8969828533",
@@ -2274,7 +2274,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8KHXTzCZ",
     },
     {
         id: "26204965388",
@@ -2285,7 +2285,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5ApfG8KT84",
     },
     {
         id: "17363903623",
@@ -2296,7 +2296,7 @@ export const products = [
         commissionRate: "3%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WF3pL6T3",
     },
     {
         id: "24332838618",
@@ -2307,7 +2307,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCorWLjo2",
     },
     {
         id: "18882998585",
@@ -2318,7 +2318,7 @@ export const products = [
         commissionRate: "4%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftOfDMN91",
     },
     {
         id: "15249632041",
@@ -2329,7 +2329,7 @@ export const products = [
         commissionRate: "4%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZySuN0U0",
     },
     {
         id: "9380979748",
@@ -2340,7 +2340,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGYGbNdoz",
     },
     {
         id: "25164632240",
@@ -2351,7 +2351,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax84IOH9y",
     },
     {
         id: "26966819187",
@@ -2362,7 +2362,7 @@ export const products = [
         commissionRate: "6%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dhrzOuUx",
     },
     {
         id: "9852739081",
@@ -2373,7 +2373,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJWUmZhFQ",
     },
     {
         id: "42310598706",
@@ -2384,7 +2384,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1106ITaKaP",
     },
     {
         id: "25928111503",
@@ -2395,7 +2395,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qgg6AaxvO",
     },
     {
         id: "27763759821",
@@ -2406,7 +2406,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNFtrbbGN",
     },
     {
         id: "17659499144",
@@ -2417,7 +2417,7 @@ export const products = [
         commissionRate: "10%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3phYcEbM",
     },
     {
         id: "27975853277",
@@ -2428,7 +2428,7 @@ export const products = [
         commissionRate: "12%",
         sold: "56 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkPVFcrwL",
     },
     {
         id: "18929483952",
@@ -2439,7 +2439,7 @@ export const products = [
         commissionRate: "4%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BQzIwdVHK",
     },
     {
         id: "43451626561",
@@ -2450,7 +2450,7 @@ export const products = [
         commissionRate: "3%",
         sold: "365 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Z6de8cJ",
     },
     {
         id: "57702913994",
@@ -2461,7 +2461,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2Vou5EUcXo",
     },
     {
         id: "25341050427",
@@ -2472,7 +2472,7 @@ export const products = [
         commissionRate: "450%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVTsvVFsn",
     },
     {
         id: "42108327070",
@@ -2483,7 +2483,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC3gcVtDm",
     },
     {
         id: "43502631040",
@@ -2494,7 +2494,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20sdUJWWYl",
     },
     {
         id: "10208377029",
@@ -2505,7 +2505,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZDI0X9tk",
     },
     {
         id: "57909290533",
@@ -2516,7 +2516,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFn5hXnEj",
     },
     {
         id: "29964084389",
@@ -2527,7 +2527,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwMtOYQZi",
     },
     {
         id: "18586890359",
@@ -2538,7 +2538,7 @@ export const products = [
         commissionRate: "5%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1Lcwh5Z3uh",
     },
     {
         id: "24292769725",
@@ -2549,7 +2549,7 @@ export const products = [
         commissionRate: "6%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALo1U5F1E",
     },
     {
         id: "1798204298",
@@ -2560,7 +2560,7 @@ export const products = [
         commissionRate: "2%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902NpB5sMD",
     },
     {
         id: "23841481859",
@@ -2571,7 +2571,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8pixcs6VhC",
     },
     {
         id: "26356564885",
@@ -2582,7 +2582,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPXQZ792B",
     },
     {
         id: "25786689745",
@@ -2593,7 +2593,7 @@ export const products = [
         commissionRate: "5%",
         sold: "119 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V67EG7mNA",
     },
     {
         id: "26882679049",
@@ -2604,7 +2604,7 @@ export const products = [
         commissionRate: "5%",
         sold: "724 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmh1x8Pi9",
     },
     {
         id: "9255449897",
@@ -2615,7 +2615,7 @@ export const products = [
         commissionRate: "7%",
         sold: "614 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATGpe9338",
     },
     {
         id: "28486201116",
@@ -2626,7 +2626,7 @@ export const products = [
         commissionRate: "9%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809qdL9gO7",
     },
     {
         id: "56904121764",
@@ -2637,7 +2637,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrBbw0AJc",
     },
     {
         id: "13486240242",
@@ -2648,7 +2648,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXlPd0neb",
     },
     {
         id: "25320033353",
@@ -2659,7 +2659,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAELDK1Qza",
     },
     {
         id: "8535594733",
@@ -2670,7 +2670,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuv1124KZ",
     },
     {
         id: "49104104981",
@@ -2681,7 +2681,7 @@ export const products = [
         commissionRate: "42%",
         sold: "",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbUoi2hfY",
     },
     {
         id: "23264420356",
@@ -2692,7 +2692,7 @@ export const products = [
         commissionRate: "3%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI4cP3L0X",
     },
     {
         id: "21978288072",
@@ -2703,7 +2703,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyeQ63yLW",
     },
     {
         id: "22558334713",
@@ -2714,7 +2714,7 @@ export const products = [
         commissionRate: "5%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfEDn4bgV",
     },
     {
         id: "24813958765",
@@ -2725,7 +2725,7 @@ export const products = [
         commissionRate: "2%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL2qaFOQy",
     },
     {
         id: "24265196916",
@@ -2736,7 +2736,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1ceHG1lx",
     },
     {
         id: "22968453218",
@@ -2747,7 +2747,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiCRyGf6w",
     },
     {
         id: "26779177928",
@@ -2758,7 +2758,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60OmFfHIRv",
     },
     {
         id: "28435614094",
@@ -2769,7 +2769,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5M3MHvmu",
     },
     {
         id: "25565199444",
@@ -2780,7 +2780,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flvr3IZ7t",
     },
     {
         id: "22436561367",
@@ -2791,7 +2791,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSVekJCSs",
     },
     {
         id: "40551700226",
@@ -2802,7 +2802,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L95SRJpnr",
     },
     {
         id: "20513553109",
@@ -2813,7 +2813,7 @@ export const products = [
         commissionRate: "10%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqQR2AJjM",
     },
     {
         id: "26105775322",
@@ -2824,7 +2824,7 @@ export const products = [
         commissionRate: "2%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX0EjAx4L",
     },
     {
         id: "25411147997",
@@ -2835,7 +2835,7 @@ export const products = [
         commissionRate: "7%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDa2QBaPK",
     },
     {
         id: "28086665458",
@@ -2846,7 +2846,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7Ku9q7CDkJ",
     },
     {
         id: "26107443448",
@@ -2857,7 +2857,7 @@ export const products = [
         commissionRate: "4%",
         sold: "653 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AajdoCr5I",
     },
     {
         id: "27722451265",
@@ -2868,7 +2868,7 @@ export const products = [
         commissionRate: "6%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HJRVDUQH",
     },
     {
         id: "54356728274",
@@ -2879,7 +2879,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxtFCE7lG",
     },
     {
         id: "22462878693",
@@ -2890,7 +2890,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feT2tEl6F",
     },
     {
         id: "19804404722",
@@ -2901,7 +2901,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0rTNQBBg",
     },
     {
         id: "12121375005",
@@ -2912,7 +2912,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKHfgPXqj",
     },
     {
         id: "27103934172",
@@ -2923,7 +2923,7 @@ export const products = [
         commissionRate: "3%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO14lRRre",
     },
     {
         id: "8437694911",
@@ -2934,7 +2934,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhRH4QoWh",
     },
     {
         id: "43018887381",
@@ -2945,7 +2945,7 @@ export const products = [
         commissionRate: "3%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lAg9SiXc",
     },
     {
         id: "53001106802",
@@ -2956,7 +2956,7 @@ export const products = [
         commissionRate: "10%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4asSS5Cf",
     },
     {
         id: "19288834591",
@@ -2967,7 +2967,7 @@ export const products = [
         commissionRate: "2%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8KHXTzDa",
     },
     {
         id: "24267531281",
@@ -2978,7 +2978,7 @@ export const products = [
         commissionRate: "6%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRkTqTLsd",
     },
     {
         id: "2041420599",
@@ -2989,7 +2989,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WF3pL6U4",
     },
     {
         id: "25481313376",
@@ -3000,7 +3000,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5ApfG8KT97",
     },
     {
         id: "23557897057",
@@ -3011,7 +3011,7 @@ export const products = [
         commissionRate: "2%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftOfDMNA2",
     },
     {
         id: "41055564902",
@@ -3022,7 +3022,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCorWLjp5",
     },
     {
         id: "27024951505",
@@ -3033,7 +3033,7 @@ export const products = [
         commissionRate: "9%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "https://s.shopee.vn/6feSrxpjoS",
+        affiliateLink: "https://s.shopee.vn/4LGYGbNdq0",
     },
     {
         id: "29452399356",
@@ -3044,7 +3044,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZySuN0V3",
     },
     {
         id: "22345029516",
@@ -3055,7 +3055,7 @@ export const products = [
         commissionRate: "2%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dhrzOuVy",
     },
     {
         id: "19791824587",
@@ -3066,7 +3066,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax84IOHB1",
     },
     {
         id: "42527939807",
@@ -3077,7 +3077,7 @@ export const products = [
         commissionRate: "4%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1106ITaKbQ",
     },
     {
         id: "13311543217",
@@ -3088,7 +3088,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJWUmZhGT",
     },
     {
         id: "24919820642",
@@ -3099,7 +3099,7 @@ export const products = [
         commissionRate: "2%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNFtrbbHO",
     },
     {
         id: "28830939299",
@@ -3110,7 +3110,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qgg6AaxwR",
     },
     {
         id: "17252212134",
@@ -3121,7 +3121,7 @@ export const products = [
         commissionRate: "4%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkPVFcrxM",
     },
     {
         id: "24146192964",
@@ -3132,7 +3132,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3phYcEcP",
     },
     {
         id: "28155942013",
@@ -3143,7 +3143,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Z6de8dK",
     },
     {
         id: "16090120427",
@@ -3154,7 +3154,7 @@ export const products = [
         commissionRate: "10%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BQzIwdVIN",
     },
     {
         id: "16994071834",
@@ -3165,7 +3165,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVTsvVFto",
     },
     {
         id: "23537609684",
@@ -3176,7 +3176,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2Vou5EUcYr",
     },
     {
         id: "29031563948",
@@ -3187,7 +3187,7 @@ export const products = [
         commissionRate: "5%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20sdUJWWZm",
     },
     {
         id: "29864853074",
@@ -3198,7 +3198,7 @@ export const products = [
         commissionRate: "12%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC3gcVtEp",
     },
     {
         id: "27923350839",
@@ -3209,7 +3209,7 @@ export const products = [
         commissionRate: "2%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFn5hXnFk",
     },
     {
         id: "42828196010",
@@ -3220,7 +3220,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZDI0X9un",
     },
     {
         id: "26123266667",
@@ -3231,7 +3231,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1Lcwh5Z3vi",
     },
     {
         id: "28459365706",
@@ -3242,7 +3242,7 @@ export const products = [
         commissionRate: "4%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwMtOYQal",
     },
     {
         id: "53157579095",
@@ -3253,7 +3253,7 @@ export const products = [
         commissionRate: "2%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902NpB5sNE",
     },
     {
         id: "26811445154",
@@ -3264,7 +3264,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALo1U5F2H",
     },
     {
         id: "18860245153",
@@ -3275,7 +3275,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPXQZ793C",
     },
     {
         id: "4036461502",
@@ -3286,7 +3286,7 @@ export const products = [
         commissionRate: "12%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8pixcs6ViF",
     },
     {
         id: "22566400008",
@@ -3297,7 +3297,7 @@ export const products = [
         commissionRate: "350%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmh1x8PjA",
     },
     {
         id: "29000538198",
@@ -3308,7 +3308,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax84OvsIS",
     },
     {
         id: "11526582452",
@@ -3319,7 +3319,7 @@ export const products = [
         commissionRate: "4%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dhs5wVdR",
     },
     {
         id: "29606630363",
@@ -3330,7 +3330,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZyT0ubcY",
     },
     {
         id: "26877630951",
@@ -3341,7 +3341,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGYGhvExX",
     },
     {
         id: "41261407193",
@@ -3352,7 +3352,7 @@ export const products = [
         commissionRate: "6%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCorctKwe",
     },
     {
         id: "26957297580",
@@ -3363,7 +3363,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftOfJtyHd",
     },
     {
         id: "4190941802",
@@ -3374,7 +3374,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5ApfGEs4Gk",
     },
     {
         id: "3212023496",
@@ -3385,7 +3385,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WF3vshbj",
     },
     {
         id: "18492254224",
@@ -3396,7 +3396,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BQzJ3B6Po",
     },
     {
         id: "21533243274",
@@ -3407,7 +3407,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Z6kBjkn",
     },
     {
         id: "29664861346",
@@ -3418,7 +3418,7 @@ export const products = [
         commissionRate: "12%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3phf9pju",
     },
     {
         id: "21972656737",
@@ -3429,7 +3429,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkPVMAT4t",
     },
     {
         id: "27220282133",
@@ -3440,7 +3440,7 @@ export const products = [
         commissionRate: "10%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qgg6H8Z40",
     },
     {
         id: "22239486947",
@@ -3451,7 +3451,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNFty9COz",
     },
     {
         id: "26150648942",
@@ -3473,7 +3473,7 @@ export const products = [
         commissionRate: "3%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJWUt7IO6",
     },
     {
         id: "26813595109",
@@ -3484,7 +3484,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1106Ia7vj5",
     },
     {
         id: "25016617840",
@@ -3495,7 +3495,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcwhC6f3B",
     },
     {
         id: "53707824645",
@@ -3506,7 +3506,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwMtV61iC",
     },
     {
         id: "1592494061",
@@ -3517,7 +3517,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZDI74l2I",
     },
     {
         id: "14815545042",
@@ -3528,7 +3528,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFn5o5ONH",
     },
     {
         id: "25575632337",
@@ -3539,7 +3539,7 @@ export const products = [
         commissionRate: "2%",
         sold: "286 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20sdUQ47hN",
     },
     {
         id: "29604199566",
@@ -3550,7 +3550,7 @@ export const products = [
         commissionRate: "6%",
         sold: "249 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC3gj3UMO",
     },
     {
         id: "27530493225",
@@ -3561,7 +3561,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2Vou5L2DgU",
     },
     {
         id: "27182274768",
@@ -3572,7 +3572,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVTt22r1T",
     },
     {
         id: "13084307440",
@@ -3583,7 +3583,7 @@ export const products = [
         commissionRate: "3%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809qdRhHWb",
     },
     {
         id: "28213908553",
@@ -3594,7 +3594,7 @@ export const products = [
         commissionRate: "3%",
         sold: "893 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATGpkgeBc",
     },
     {
         id: "24728914143",
@@ -3605,7 +3605,7 @@ export const products = [
         commissionRate: "8%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V67EMfNVi",
     },
     {
         id: "20890178807",
@@ -3616,7 +3616,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmh23g0qh",
     },
     {
         id: "24457200719",
@@ -3627,7 +3627,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPXQfekAn",
     },
     {
         id: "8615877397",
@@ -3638,7 +3638,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8pixcye6po",
     },
     {
         id: "2911838971",
@@ -3649,7 +3649,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALo1acq9u",
     },
     {
         id: "26011490927",
@@ -3660,7 +3660,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902NpHdTUt",
     },
     {
         id: "3061850967",
@@ -3671,7 +3671,7 @@ export const products = [
         commissionRate: "2%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfEDtcCoz",
     },
     {
         id: "43672974451",
@@ -3682,7 +3682,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyeQCbZU0",
     },
     {
         id: "24215196507",
@@ -3693,7 +3693,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbUooaIo6",
     },
     {
         id: "22076276139",
@@ -3704,7 +3704,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI4cVaw95",
     },
     {
         id: "25257683747",
@@ -3715,7 +3715,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuv17ZfTB",
     },
     {
         id: "1512099908",
@@ -3726,7 +3726,7 @@ export const products = [
         commissionRate: "4%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAELDQZ28C",
     },
     {
         id: "27518202723",
@@ -3737,7 +3737,7 @@ export const products = [
         commissionRate: "10%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrBc2XlSI",
     },
     {
         id: "42015613048",
@@ -3748,7 +3748,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXlPjYOnH",
     },
     {
         id: "23588264966",
@@ -3759,7 +3759,7 @@ export const products = [
         commissionRate: "2%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L95SXrQwL",
     },
     {
         id: "26180314251",
@@ -3770,7 +3770,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSVeqqnbM",
     },
     {
         id: "26432553079",
@@ -3781,7 +3781,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5M3SpWvS",
     },
     {
         id: "43775492401",
@@ -3792,7 +3792,7 @@ export const products = [
         commissionRate: "8%",
         sold: "191 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flvr9qAGR",
     },
     {
         id: "25261146743",
@@ -3803,7 +3803,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60OmFlotaX",
     },
     {
         id: "24110537767",
@@ -3814,7 +3814,7 @@ export const products = [
         commissionRate: "6%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiCS4oGFY",
     },
     {
         id: "19111575934",
@@ -3825,7 +3825,7 @@ export const products = [
         commissionRate: "2%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL2qgmzZe",
     },
     {
         id: "24100932153",
@@ -3836,7 +3836,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1ceNncud",
     },
     {
         id: "25563700451",
@@ -3847,7 +3847,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feT2zmMEj",
     },
     {
         id: "13118859173",
@@ -3858,7 +3858,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxtFIlitk",
     },
     {
         id: "19112248656",
@@ -3869,7 +3869,7 @@ export const products = [
         commissionRate: "30%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AajdukSDq",
     },
     {
         id: "19740192804",
@@ -3880,7 +3880,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HJRbl5Yp",
     },
     {
         id: "27967156743",
@@ -3891,7 +3891,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7Ku9qDjosv",
     },
     {
         id: "1417402230",
@@ -3902,7 +3902,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDa2WjBXw",
     },
     {
         id: "1747712634",
@@ -3913,7 +3913,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqQR8hus2",
     },
     {
         id: "24436859883",
@@ -3924,7 +3924,7 @@ export const products = [
         commissionRate: "7%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX0EpiYD1",
     },
     {
         id: "28951067672",
@@ -3935,7 +3935,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRkTx0x17",
     },
     {
         id: "24084706349",
@@ -3946,7 +3946,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8KHe1aM4",
     },
     {
         id: "18511494796",
@@ -3957,7 +3957,7 @@ export const products = [
         commissionRate: "3%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lAgG0JgA",
     },
     {
         id: "2936870491",
@@ -3968,7 +3968,7 @@ export const products = [
         commissionRate: "6%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4asYzgLD",
     },
     {
         id: "52957562972",
@@ -3979,7 +3979,7 @@ export const products = [
         commissionRate: "6%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhRHAyPfJ",
     },
     {
         id: "23475708816",
@@ -3990,7 +3990,7 @@ export const products = [
         commissionRate: "5%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO14rz30G",
     },
     {
         id: "23385980185",
@@ -4001,7 +4001,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0rTTxmKM",
     },
     {
         id: "25456294901",
@@ -4012,7 +4012,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKHfmx8zP",
     },
     {
         id: "17098897478",
@@ -4023,7 +4023,7 @@ export const products = [
         commissionRate: "3%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax84OvsJV",
     },
     {
         id: "27628476515",
@@ -4034,7 +4034,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dhs5wVeS",
     },
     {
         id: "29726650670",
@@ -4056,7 +4056,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGYGhvEyY",
     },
     {
         id: "22643811085",
@@ -4067,7 +4067,7 @@ export const products = [
         commissionRate: "2%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCorctKxh",
     },
     {
         id: "23844549812",
@@ -4078,7 +4078,7 @@ export const products = [
         commissionRate: "4%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZyT0ubdb",
     },
     {
         id: "26957233742",
@@ -4089,7 +4089,7 @@ export const products = [
         commissionRate: "7%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftOfJtyIe",
     },
     {
         id: "27523360603",
@@ -4100,7 +4100,7 @@ export const products = [
         commissionRate: "2%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WF3vshck",
     },
     {
         id: "25681288069",
@@ -4111,7 +4111,7 @@ export const products = [
         commissionRate: "2%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BQzJ3B6Qr",
     },
     {
         id: "51105979378",
@@ -4122,7 +4122,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5ApfGEs4Hn",
     },
     {
         id: "22734740870",
@@ -4133,7 +4133,7 @@ export const products = [
         commissionRate: "6%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Z6kBjlo",
     },
     {
         id: "23274350527",
@@ -4144,7 +4144,7 @@ export const products = [
         commissionRate: "9%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkPVMAT5u",
     },
     {
         id: "20586338684",
@@ -4155,7 +4155,7 @@ export const products = [
         commissionRate: "2%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qgg6H8Z53",
     },
     {
         id: "29452294621",
@@ -4166,7 +4166,7 @@ export const products = [
         commissionRate: "2%",
         sold: "9k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3phf9pkx",
     },
     {
         id: "3116844862",
@@ -4177,7 +4177,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNFty9CQ0",
     },
     {
         id: "24225161826",
@@ -4188,7 +4188,7 @@ export const products = [
         commissionRate: "3%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1106Ia7vk6",
     },
     {
         id: "16798830610",
@@ -4199,7 +4199,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwMtV61jF",
     },
     {
         id: "21276222202",
@@ -4210,7 +4210,7 @@ export const products = [
         commissionRate: "6%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJWUt7IP9",
     },
     {
         id: "21486650111",
@@ -4221,7 +4221,7 @@ export const products = [
         commissionRate: "2%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcwhC6f4C",
     },
     {
         id: "19091440085",
@@ -4232,7 +4232,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFn5o5OOI",
     },
     {
         id: "25539844616",
@@ -4243,7 +4243,7 @@ export const products = [
         commissionRate: "2%",
         sold: "27 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC3gj3UNR",
     },
     {
         id: "55502053067",
@@ -4254,7 +4254,7 @@ export const products = [
         commissionRate: "12%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZDI74l3L",
     },
     {
         id: "25436929166",
@@ -4265,7 +4265,7 @@ export const products = [
         commissionRate: "3%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20sdUQ47iO",
     },
     {
         id: "26823464053",
@@ -4276,7 +4276,7 @@ export const products = [
         commissionRate: "5%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVTt22r2U",
     },
     {
         id: "9546751609",
@@ -4287,7 +4287,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATGpkgeCf",
     },
     {
         id: "19880842070",
@@ -4298,7 +4298,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2Vou5L2DhX",
     },
     {
         id: "24931144094",
@@ -4309,7 +4309,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809qdRhHXc",
     },
     {
         id: "49407006581",
@@ -4320,7 +4320,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmh23g0ri",
     },
     {
         id: "43451395684",
@@ -4331,7 +4331,7 @@ export const products = [
         commissionRate: "4%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8pixcye6qr",
     },
     {
         id: "2679124861",
@@ -4342,7 +4342,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V67EMfNWl",
     },
     {
         id: "4048327327",
@@ -4353,7 +4353,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPXQfekBo",
     },
     {
         id: "24559342191",
@@ -4364,7 +4364,7 @@ export const products = [
         commissionRate: "4%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902NpHdTVu",
     },
     {
         id: "6224806312",
@@ -4375,7 +4375,7 @@ export const products = [
         commissionRate: "3%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyeQCbZV3",
     },
     {
         id: "23313029796",
@@ -4386,7 +4386,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALo1acqAx",
     },
     {
         id: "24758522444",
@@ -4397,7 +4397,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfEDtcCq0",
     },
     {
         id: "26252860753",
@@ -4408,7 +4408,7 @@ export const products = [
         commissionRate: "3%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI4cVawA6",
     },
     {
         id: "394895175",
@@ -4419,7 +4419,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC3gkv39r",
     },
     {
         id: "25708513283",
@@ -4430,7 +4430,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbUooaIp9",
     },
     {
         id: "25121933877",
@@ -4441,7 +4441,7 @@ export const products = [
         commissionRate: "2%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20sdURvgUo",
     },
     {
         id: "19247327342",
@@ -4452,7 +4452,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkPVO21sW",
     },
     {
         id: "19790110716",
@@ -4463,7 +4463,7 @@ export const products = [
         commissionRate: "3%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BQzJ52fDX",
     },
     {
         id: "7132241128",
@@ -4474,7 +4474,7 @@ export const products = [
         commissionRate: "3%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3phh1OXZ",
     },
     {
         id: "18131643466",
@@ -4485,7 +4485,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Z6m3IYU",
     },
     {
         id: "4352502942",
@@ -4496,7 +4496,7 @@ export const products = [
         commissionRate: "8%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1106IbzUWi",
     },
     {
         id: "3834322377",
@@ -4507,7 +4507,7 @@ export const products = [
         commissionRate: "4%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qgg6J07rj",
     },
     {
         id: "51055749643",
@@ -4518,7 +4518,7 @@ export const products = [
         commissionRate: "12%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJWUuyrBl",
     },
     {
         id: "18484832449",
@@ -4529,7 +4529,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNFu00lCg",
     },
     {
         id: "27779420342",
@@ -4540,7 +4540,7 @@ export const products = [
         commissionRate: "2%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGYGjmnlQ",
     },
     {
         id: "26710744421",
@@ -4551,7 +4551,7 @@ export const products = [
         commissionRate: "3%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax84QnR6R",
     },
     {
         id: "18786667754",
@@ -4562,7 +4562,7 @@ export const products = [
         commissionRate: "2%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZyT2mAQT",
     },
     {
         id: "2674629711",
@@ -4573,7 +4573,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dhs7o4RO",
     },
     {
         id: "42625108527",
@@ -4584,7 +4584,7 @@ export const products = [
         commissionRate: "9%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WF3xkGPc",
     },
     {
         id: "25369822318",
@@ -4595,7 +4595,7 @@ export const products = [
         commissionRate: "2%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCorektkd",
     },
     {
         id: "24072495378",
@@ -4606,7 +4606,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5ApfGGjd4f",
     },
     {
         id: "18825128627",
@@ -4617,7 +4617,7 @@ export const products = [
         commissionRate: "3%",
         sold: "6k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftOfLlX5a",
     },
     {
         id: "55805275700",
@@ -4628,7 +4628,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lAgHrsTI",
     },
     {
         id: "26157217930",
@@ -4639,7 +4639,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRkTysVoJ",
     },
     {
         id: "4278006422",
@@ -4650,7 +4650,7 @@ export const products = [
         commissionRate: "3%",
         sold: "300k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4asarF8L",
     },
     {
         id: "27801341187",
@@ -4661,7 +4661,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8KHft99G",
     },
     {
         id: "22383806325",
@@ -4672,7 +4672,7 @@ export const products = [
         commissionRate: "5%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0rTVpL7U",
     },
     {
         id: "3544490457",
@@ -4683,7 +4683,7 @@ export const products = [
         commissionRate: "3%",
         sold: "8k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhRHCpySV",
     },
     {
         id: "3440072314",
@@ -4694,7 +4694,7 @@ export const products = [
         commissionRate: "2%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKHfoohmX",
     },
     {
         id: "24784674412",
@@ -4705,7 +4705,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO14tqbnS",
     },
     {
         id: "24628189804",
@@ -4716,7 +4716,7 @@ export const products = [
         commissionRate: "3%",
         sold: "864 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HJRdceMC",
     },
     {
         id: "25258298780",
@@ -4727,7 +4727,7 @@ export const products = [
         commissionRate: "2%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxtFKdHhD",
     },
     {
         id: "24641429263",
@@ -4738,7 +4738,7 @@ export const products = [
         commissionRate: "4%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7Aajdwc11F",
     },
     {
         id: "20611899864",
@@ -4749,7 +4749,7 @@ export const products = [
         commissionRate: "9%",
         sold: "300k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feT31dv2A",
     },
     {
         id: "28907760108",
@@ -4760,7 +4760,7 @@ export const products = [
         commissionRate: "5%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX0Era70O",
     },
     {
         id: "26935978759",
@@ -4771,7 +4771,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDa2YakLP",
     },
     {
         id: "14977771812",
@@ -4782,7 +4782,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqQRAZTfR",
     },
     {
         id: "24983678983",
@@ -4793,7 +4793,7 @@ export const products = [
         commissionRate: "10%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7Ku9qFbNgM",
     },
     {
         id: "10693689335",
@@ -4804,7 +4804,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flvrBhj44",
     },
     {
         id: "14149626041",
@@ -4815,7 +4815,7 @@ export const products = [
         commissionRate: "2%",
         sold: "200k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSVesiMP5",
     },
     {
         id: "25319333581",
@@ -4826,7 +4826,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5M3Uh5j7",
     },
     {
         id: "47005752473",
@@ -4837,7 +4837,7 @@ export const products = [
         commissionRate: "12%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L95SZizk2",
     },
     {
         id: "42755377131",
@@ -4848,7 +4848,7 @@ export const products = [
         commissionRate: "5%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1cePfBiG",
     },
     {
         id: "22576655840",
@@ -4859,7 +4859,7 @@ export const products = [
         commissionRate: "8%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiCS6fp3H",
     },
     {
         id: "24826643748",
@@ -4870,7 +4870,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL2qieYNJ",
     },
     {
         id: "40763863840",
@@ -4881,7 +4881,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60OmFngSOE",
     },
     {
         id: "28457759111",
@@ -4892,7 +4892,7 @@ export const products = [
         commissionRate: "5%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI4cXSUwy",
     },
     {
         id: "19888267522",
@@ -4903,7 +4903,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyeQET8Hz",
     },
     {
         id: "6008439219",
@@ -4914,7 +4914,7 @@ export const products = [
         commissionRate: "8%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbUoqRrc1",
     },
     {
         id: "21581351905",
@@ -4925,7 +4925,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfEDvTlcw",
     },
     {
         id: "23740240358",
@@ -4936,7 +4936,7 @@ export const products = [
         commissionRate: "7%",
         sold: "90k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXlPlPxbA",
     },
     {
         id: "25851610733",
@@ -4947,7 +4947,7 @@ export const products = [
         commissionRate: "2%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAELDSQawB",
     },
     {
         id: "49354295377",
@@ -4958,7 +4958,7 @@ export const products = [
         commissionRate: "14%",
         sold: "2k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrBc4PKGD",
     },
     {
         id: "24861143618",
@@ -4969,7 +4969,7 @@ export const products = [
         commissionRate: "8%",
         sold: "4k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuv19REH8",
     },
     {
         id: "25158541907",
@@ -4980,7 +4980,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8Kmh25XZeq",
     },
     {
         id: "24169591907",
@@ -4991,7 +4991,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATGpmYCzr",
     },
     {
         id: "50859404522",
@@ -5002,7 +5002,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V67EOWwJt",
     },
     {
         id: "10864671062",
@@ -5013,7 +5013,7 @@ export const products = [
         commissionRate: "9%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809qdTYqKo",
     },
     {
         id: "14667007042",
@@ -5024,7 +5024,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902NpJV2J2",
     },
     {
         id: "24167013616",
@@ -5035,7 +5035,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8pixd0Vfe3",
     },
     {
         id: "26276887629",
@@ -5046,7 +5046,7 @@ export const products = [
         commissionRate: "10%",
         sold: "7k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALo1cUOy5",
     },
     {
         id: "28619006682",
@@ -5057,7 +5057,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPXQhWIz0",
     },
     {
         id: "2112988285",
@@ -5068,7 +5068,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZDI8wJqi",
     },
     {
         id: "6842081704",
@@ -5079,7 +5079,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcwhDyDrf",
     },
     {
         id: "17168285399",
@@ -5090,7 +5090,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFn5pwxBh",
     },
     {
         id: "5004623388",
@@ -5101,7 +5101,7 @@ export const products = [
         commissionRate: "2%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwMtWxaWg",
     },
     {
         id: "14935340516",
@@ -5112,7 +5112,7 @@ export const products = [
         commissionRate: "3%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2Vou5MtmUu",
     },
     {
         id: "28323350953",
@@ -5123,7 +5123,7 @@ export const products = [
         commissionRate: "2%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20sdURvgVr",
     },
     {
         id: "17364649534",
@@ -5134,7 +5134,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVTt3uPpt",
     },
     {
         id: "5338176878",
@@ -5145,7 +5145,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC3gkv3As",
     },
     {
         id: "12163053965",
@@ -5156,7 +5156,7 @@ export const products = [
         commissionRate: "3%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3phh1OYa",
     },
     {
         id: "23825511844",
@@ -5167,7 +5167,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Z6m3IZX",
     },
     {
         id: "23369895742",
@@ -5178,7 +5178,7 @@ export const products = [
         commissionRate: "4%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkPVO21tZ",
     },
     {
         id: "124394136",
@@ -5189,7 +5189,7 @@ export const products = [
         commissionRate: "4%",
         sold: "400k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BQzJ52fEY",
     },
     {
         id: "27156131646",
@@ -5200,7 +5200,7 @@ export const products = [
         commissionRate: "4%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJWUuyrCm",
     },
     {
         id: "23276552933",
@@ -5211,7 +5211,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNFu00lDj",
     },
     {
         id: "16197627221",
@@ -5222,7 +5222,7 @@ export const products = [
         commissionRate: "4%",
         sold: "30k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1106IbzUXl",
     },
     {
         id: "42106469282",
@@ -5233,7 +5233,7 @@ export const products = [
         commissionRate: "2%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qgg6J07sk",
     },
     {
         id: "28660447611",
@@ -5244,7 +5244,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZyT2mARU",
     },
     {
         id: "18867451526",
@@ -5255,7 +5255,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40dhs7o4SR",
     },
     {
         id: "25084419783",
@@ -5266,7 +5266,7 @@ export const products = [
         commissionRate: "6%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGYGjmnmT",
     },
     {
         id: "22779918507",
@@ -5277,7 +5277,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax84QnR7S",
     },
     {
         id: "18101869894",
@@ -5288,7 +5288,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5ApfGGjd5g",
     },
     {
         id: "23984427100",
@@ -5299,7 +5299,7 @@ export const products = [
         commissionRate: "3%",
         sold: "264 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftOfLlX6d",
     },
     {
         id: "7017554593",
@@ -5310,7 +5310,7 @@ export const products = [
         commissionRate: "2%",
         sold: "300k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WF3xkGQf",
     },
     {
         id: "14490725266",
@@ -5321,7 +5321,7 @@ export const products = [
         commissionRate: "4%",
         sold: "70k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCorektle",
     },
     {
         id: "21087967408",
@@ -5332,7 +5332,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4asarF9M",
     },
     {
         id: "16313293465",
@@ -5343,7 +5343,7 @@ export const products = [
         commissionRate: "3%",
         sold: "400k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8KHft9AJ",
     },
     {
         id: "27370619782",
@@ -5354,7 +5354,7 @@ export const products = [
         commissionRate: "4%",
         sold: "568 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lAgHrsUL",
     },
     {
         id: "29605384042",
@@ -5365,7 +5365,7 @@ export const products = [
         commissionRate: "4%",
         sold: "40k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRkTysVpK",
     },
     {
         id: "1401053164",
@@ -5376,7 +5376,7 @@ export const products = [
         commissionRate: "2%",
         sold: "50k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKHfoohnY",
     },
     {
         id: "27980126410",
@@ -5387,7 +5387,7 @@ export const products = [
         commissionRate: "8%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO14tqboV",
     },
     {
         id: "44557597138",
@@ -5398,7 +5398,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0rTVpL8X",
     },
     {
         id: "23988069136",
@@ -5409,7 +5409,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhRHCpyTW",
     },
     {
         id: "52152057334",
@@ -5420,7 +5420,7 @@ export const products = [
         commissionRate: "12%",
         sold: "10k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7Aajdwc12G",
     },
     {
         id: "20179015987",
@@ -5431,7 +5431,7 @@ export const products = [
         commissionRate: "6%",
         sold: "50 lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feT31dv3D",
     },
     {
         id: "9517063856",
@@ -5442,7 +5442,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HJRdceNF",
     },
     {
         id: "2834186367",
@@ -5453,7 +5453,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxtFKdHiE",
     },
     {
         id: "13118788200",
@@ -5464,7 +5464,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqQRAZTgS",
     },
     {
         id: "24584097238",
@@ -5475,7 +5475,7 @@ export const products = [
         commissionRate: "2%",
         sold: "60k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7Ku9qFbNhP",
     },
     {
         id: "6700297169",
@@ -5486,7 +5486,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX0Era71R",
     },
     {
         id: "21493502653",
@@ -5497,6 +5497,6 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Mẹ và Bé",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDa2YakMQ",
     },
 ];

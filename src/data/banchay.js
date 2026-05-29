@@ -7,7 +7,7 @@ export const products = [
         originalPrice: "141.001",
         commissionRate: "6%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/17YviF7Jl",
     },
     {
@@ -18,7 +18,7 @@ export const products = [
         originalPrice: "312.040",
         commissionRate: "7%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/W3pWdDDIs",
     },
     {
@@ -29,7 +29,7 @@ export const products = [
         originalPrice: "52.850",
         commissionRate: "7%",
         sold: "900k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/LkPKKDqdr",
     },
     {
@@ -40,7 +40,7 @@ export const products = [
         originalPrice: "310.800",
         commissionRate: "5%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4qCogawiVk",
     },
     {
@@ -51,7 +51,7 @@ export const products = [
         originalPrice: "87.751",
         commissionRate: "7%",
         sold: "2tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4ftOUHxLqj",
     },
     {
@@ -62,7 +62,7 @@ export const products = [
         originalPrice: "287.830",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5Apf5CvRpq",
     },
     {
@@ -73,7 +73,7 @@ export const products = [
         originalPrice: "196.000",
         commissionRate: "6%",
         sold: "800k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/50WEstw5Ap",
     },
     {
@@ -84,7 +84,7 @@ export const products = [
         originalPrice: "769.600",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4Ax7tMzFrg",
     },
     {
@@ -95,7 +95,7 @@ export const products = [
         originalPrice: "255.760",
         commissionRate: "7%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/40dhh3ztCf",
     },
     {
@@ -106,7 +106,7 @@ export const products = [
         originalPrice: "129.560",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4VZyHyxzBm",
     },
     {
@@ -117,7 +117,7 @@ export const products = [
         originalPrice: "143.550",
         commissionRate: "4%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4LGY5fycWl",
     },
     {
@@ -128,7 +128,7 @@ export const products = [
         originalPrice: "67.500",
         commissionRate: "8%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3VhR691nDc",
     },
     {
@@ -139,7 +139,7 @@ export const products = [
         originalPrice: "93.841",
         commissionRate: "7%",
         sold: "600k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3LO0tq2QYb",
     },
     {
@@ -150,7 +150,7 @@ export const products = [
         originalPrice: "60.300",
         commissionRate: "5%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3qKHUl0WXi",
     },
     {
@@ -161,7 +161,7 @@ export const products = [
         originalPrice: "447.480",
         commissionRate: "2%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3g0rIS19sh",
     },
     {
@@ -172,7 +172,7 @@ export const products = [
         originalPrice: "172.889",
         commissionRate: "8%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2qRkIv4KZY",
     },
     {
@@ -183,7 +183,7 @@ export const products = [
         originalPrice: "126.380",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2g8K6c4xuX",
     },
     {
@@ -194,7 +194,7 @@ export const products = [
         originalPrice: "149.548",
         commissionRate: "6%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3B4ahX33te",
     },
     {
@@ -205,7 +205,7 @@ export const products = [
         originalPrice: "435.690",
         commissionRate: "7%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/30lAVE3hEd",
     },
     {
@@ -216,7 +216,7 @@ export const products = [
         originalPrice: "89.600",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7VDZrUmZ6W",
     },
     {
@@ -227,7 +227,7 @@ export const products = [
         originalPrice: "305.856",
         commissionRate: "2%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7Ku9fBnCRV",
     },
     {
@@ -238,7 +238,7 @@ export const products = [
         originalPrice: "112.254",
         commissionRate: "4%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7pqQG6lIQc",
     },
     {
@@ -249,7 +249,7 @@ export const products = [
         originalPrice: "140.701",
         commissionRate: "6%",
         sold: "3tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7fX03nlvlb",
     },
     {
@@ -260,7 +260,7 @@ export const products = [
         originalPrice: "252.890",
         commissionRate: "2%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6pxt4Gp6SS",
     },
     {
@@ -271,7 +271,7 @@ export const products = [
         originalPrice: "2.000.000",
         commissionRate: "2%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6feSrxpjnR",
     },
     {
@@ -282,7 +282,7 @@ export const products = [
         originalPrice: "210.090",
         commissionRate: "5%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7AajSsnpmY",
     },
     {
@@ -293,7 +293,7 @@ export const products = [
         originalPrice: "275.940",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/70HJGZoT7X",
     },
     {
@@ -304,7 +304,7 @@ export const products = [
         originalPrice: "84.000",
         commissionRate: "3%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6AiCH2rdoO",
     },
     {
@@ -315,7 +315,7 @@ export const products = [
         originalPrice: "187.740",
         commissionRate: "8%",
         sold: "800k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/60Om4jsH9N",
     },
     {
@@ -326,7 +326,7 @@ export const products = [
         originalPrice: "29.000",
         commissionRate: "8%",
         sold: "1k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6VL2feqN8U",
     },
     {
@@ -337,7 +337,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "3%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6L1cTLr0TT",
     },
     {
@@ -348,7 +348,7 @@ export const products = [
         originalPrice: "172.900",
         commissionRate: "6%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5VSVTouBAK",
     },
     {
@@ -359,7 +359,7 @@ export const products = [
         originalPrice: "234.360",
         commissionRate: "4%",
         sold: "3tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5L95HVuoVJ",
     },
     {
@@ -370,7 +370,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "2%",
         sold: "11 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5q5LsQsuUQ",
     },
     {
@@ -381,7 +381,7 @@ export const products = [
         originalPrice: "287.830",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5Apf5CvRpq",
     },
     {
@@ -392,7 +392,7 @@ export const products = [
         originalPrice: "37.760",
         commissionRate: "2%",
         sold: "3tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5flvg7tXpP",
     },
     {
@@ -403,7 +403,7 @@ export const products = [
         originalPrice: "343.910",
         commissionRate: "4%",
         sold: "800k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AAEL2OcPhI",
     },
     {
@@ -414,7 +414,7 @@ export const products = [
         originalPrice: "236.910",
         commissionRate: "6%",
         sold: "600k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9zuuq5d32H",
     },
     {
@@ -425,7 +425,7 @@ export const products = [
         originalPrice: "132.600",
         commissionRate: "4%",
         sold: "6k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AUrBR0b91O",
     },
     {
@@ -436,7 +436,7 @@ export const products = [
         originalPrice: "79.060",
         commissionRate: "8%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AKXlEhbmMN",
     },
     {
@@ -447,7 +447,7 @@ export const products = [
         originalPrice: "344.320",
         commissionRate: "3%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9UyeFAex3E",
     },
     {
@@ -458,7 +458,7 @@ export const products = [
         originalPrice: "109.810",
         commissionRate: "4%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9KfE2rfaOD",
     },
     {
@@ -469,7 +469,7 @@ export const products = [
         originalPrice: "210.600",
         commissionRate: "6%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9pbUdmdgNK",
     },
     {
@@ -480,7 +480,7 @@ export const products = [
         originalPrice: "10.000",
         commissionRate: "8%",
         sold: "1k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9fI4RTeJiJ",
     },
     {
@@ -491,7 +491,7 @@ export const products = [
         originalPrice: "177.489",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8pixRwhUPA",
     },
     {
@@ -502,7 +502,7 @@ export const products = [
         originalPrice: "369.720",
         commissionRate: "3%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8fPXFdi7k9",
     },
     {
@@ -513,7 +513,7 @@ export const products = [
         originalPrice: "187.740",
         commissionRate: "8%",
         sold: "900k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9ALnqYgDjG",
     },
     {
@@ -524,7 +524,7 @@ export const products = [
         originalPrice: "52.850",
         commissionRate: "7%",
         sold: "900k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/LkPKKDqdr",
     },
     {
@@ -535,7 +535,7 @@ export const products = [
         originalPrice: "78.300",
         commissionRate: "8%",
         sold: "900k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/902NeFgr4F",
     },
     {
@@ -546,7 +546,7 @@ export const products = [
         originalPrice: "369.982",
         commissionRate: "2%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8ATGeik1l6",
     },
     {
@@ -557,7 +557,7 @@ export const products = [
         originalPrice: "135.000",
         commissionRate: "4%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/809qSPkf65",
     },
     {
@@ -568,7 +568,7 @@ export const products = [
         originalPrice: "28.710",
         commissionRate: "7%",
         sold: "6k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8V673Kil5C",
     },
     {
@@ -579,7 +579,7 @@ export const products = [
         originalPrice: "25.460",
         commissionRate: "4%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8Kmgr1jOQB",
     },
     {
@@ -590,7 +590,7 @@ export const products = [
         originalPrice: "29.870",
         commissionRate: "3%",
         sold: "6k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/20sdJO7VGy",
     },
     {
@@ -601,7 +601,7 @@ export const products = [
         originalPrice: "83.200",
         commissionRate: "6%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2BC3Vh6rw1",
     },
     {
@@ -612,7 +612,7 @@ export const products = [
         originalPrice: "9.900",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2LVTi06Eb4",
     },
     {
@@ -623,7 +623,7 @@ export const products = [
         originalPrice: "27.930",
         commissionRate: "7%",
         sold: "700k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2VotuJ5bG7",
     },
     {
@@ -634,7 +634,7 @@ export const products = [
         originalPrice: "55.000",
         commissionRate: "2%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1LcwWAA2cu",
     },
     {
@@ -645,7 +645,7 @@ export const products = [
         originalPrice: "341.172",
         commissionRate: "3%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1VwMiT9PHx",
     },
     {
@@ -656,7 +656,7 @@ export const products = [
         originalPrice: "1.000.000",
         commissionRate: "2%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1gFmum8lx0",
     },
     {
@@ -667,7 +667,7 @@ export const products = [
         originalPrice: "10.000",
         commissionRate: "8%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1qZD7588c3",
     },
     {
@@ -678,7 +678,7 @@ export const products = [
         originalPrice: "6.868",
         commissionRate: "6%",
         sold: "458 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/gNFiwCZyq",
     },
     {
@@ -689,7 +689,7 @@ export const products = [
         originalPrice: "10.000",
         commissionRate: "4%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/qgfvFBwdt",
     },
     {
@@ -700,7 +700,7 @@ export const products = [
         originalPrice: "248.430",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/11067YBJIw",
     },
     {
@@ -711,7 +711,7 @@ export const products = [
         originalPrice: "175.540",
         commissionRate: "5%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1BJWJrAfxz",
     },
     {
@@ -722,7 +722,7 @@ export const products = [
         originalPrice: "72.030",
         commissionRate: "6%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/17YviF7Km",
     },
     {
@@ -733,7 +733,7 @@ export const products = [
         originalPrice: "47.580",
         commissionRate: "6%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/BQz81ETzp",
     },
     {
@@ -744,7 +744,7 @@ export const products = [
         originalPrice: "211.220",
         commissionRate: "4%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/LkPKKDqes",
     },
     {
@@ -755,7 +755,7 @@ export const products = [
         originalPrice: "579.234",
         commissionRate: "3%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/W3pWdDDJv",
     },
     {
@@ -766,7 +766,7 @@ export const products = [
         originalPrice: "214.320",
         commissionRate: "5%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4ftOUHxLrk",
     },
     {
@@ -777,7 +777,7 @@ export const products = [
         originalPrice: "6.900",
         commissionRate: "3%",
         sold: "2k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4qCogawiWn",
     },
     {
@@ -788,7 +788,7 @@ export const products = [
         originalPrice: "14.398",
         commissionRate: "7%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/50WEstw5Bq",
     },
     {
@@ -799,7 +799,7 @@ export const products = [
         originalPrice: "700.000",
         commissionRate: "2%",
         sold: "1k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5Apf5CvRqt",
     },
     {
@@ -810,7 +810,7 @@ export const products = [
         originalPrice: "275.970",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/40dhh3ztDg",
     },
     {
@@ -821,7 +821,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "8%",
         sold: "21 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4Ax7tMzFsj",
     },
     {
@@ -832,7 +832,7 @@ export const products = [
         originalPrice: "89.700",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4LGY5fycXm",
     },
     {
@@ -843,7 +843,7 @@ export const products = [
         originalPrice: "7.000",
         commissionRate: "4%",
         sold: "410 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4VZyHyxzCp",
     },
     {
@@ -854,7 +854,7 @@ export const products = [
         originalPrice: "20.597",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3LO0tq2QZc",
     },
     {
@@ -865,7 +865,7 @@ export const products = [
         originalPrice: "58.500",
         commissionRate: "7%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3VhR691nEf",
     },
     {
@@ -876,7 +876,7 @@ export const products = [
         originalPrice: "99.000",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3g0rIS19ti",
     },
     {
@@ -887,7 +887,7 @@ export const products = [
         originalPrice: "1.000.000",
         commissionRate: "7%",
         sold: "2k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3qKHUl0WYl",
     },
     {
@@ -898,7 +898,7 @@ export const products = [
         originalPrice: "36.852",
         commissionRate: "15%",
         sold: "2tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2g8K6c4xvY",
     },
     {
@@ -909,7 +909,7 @@ export const products = [
         originalPrice: "423.750",
         commissionRate: "4%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2qRkIv4Kab",
     },
     {
@@ -920,7 +920,7 @@ export const products = [
         originalPrice: "68.530",
         commissionRate: "8%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/30lAVE3hFe",
     },
     {
@@ -931,7 +931,7 @@ export const products = [
         originalPrice: "84.180",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3B4ahX33uh",
     },
     {
@@ -942,7 +942,7 @@ export const products = [
         originalPrice: "150.000",
         commissionRate: "5%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7Ku9fBnCSW",
     },
     {
@@ -953,7 +953,7 @@ export const products = [
         originalPrice: "174.930",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7VDZrUmZ7Z",
     },
     {
@@ -964,7 +964,7 @@ export const products = [
         originalPrice: "24.990",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7fX03nlvmc",
     },
     {
@@ -975,7 +975,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "2%",
         sold: "25 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7pqQG6lIRf",
     },
     {
@@ -986,7 +986,7 @@ export const products = [
         originalPrice: "79.800",
         commissionRate: "9%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6feSrxpjoS",
     },
     {
@@ -997,7 +997,7 @@ export const products = [
         originalPrice: "174.870",
         commissionRate: "8%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6pxt4Gp6TV",
     },
     {
@@ -1008,7 +1008,7 @@ export const products = [
         originalPrice: "364.180",
         commissionRate: "4%",
         sold: "9k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/70HJGZoT8Y",
     },
     {
@@ -1019,7 +1019,7 @@ export const products = [
         originalPrice: "200.000",
         commissionRate: "2%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7AajSsnpnb",
     },
     {
@@ -1030,7 +1030,7 @@ export const products = [
         originalPrice: "111.180",
         commissionRate: "6%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/60Om4jsHAO",
     },
     {
@@ -1041,7 +1041,7 @@ export const products = [
         originalPrice: "357.120",
         commissionRate: "3%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6AiCH2rdpR",
     },
     {
@@ -1052,7 +1052,7 @@ export const products = [
         originalPrice: "8.900",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6L1cTLr0UU",
     },
     {
@@ -1063,7 +1063,7 @@ export const products = [
         originalPrice: "120.000",
         commissionRate: "3%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6VL2feqN9X",
     },
     {
@@ -1074,7 +1074,7 @@ export const products = [
         originalPrice: "14.280",
         commissionRate: "3%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5L95HVuoWK",
     },
     {
@@ -1085,7 +1085,7 @@ export const products = [
         originalPrice: "89.985",
         commissionRate: "75%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5VSVTouBBN",
     },
     {
@@ -1096,7 +1096,7 @@ export const products = [
         originalPrice: "10.000",
         commissionRate: "2%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5flvg7tXqQ",
     },
     {
@@ -1107,7 +1107,7 @@ export const products = [
         originalPrice: "214.500",
         commissionRate: "6%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3qKHUmz1pB",
     },
     {
@@ -1118,7 +1118,7 @@ export const products = [
         originalPrice: "266.490",
         commissionRate: "4%",
         sold: "80k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3LO0ts0vq6",
     },
     {
@@ -1129,7 +1129,7 @@ export const products = [
         originalPrice: "175.000",
         commissionRate: "6%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3VhR6B0IV9",
     },
     {
@@ -1140,7 +1140,7 @@ export const products = [
         originalPrice: "31.930",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/30lAVG2CW4",
     },
     {
@@ -1151,7 +1151,7 @@ export const products = [
         originalPrice: "447.480",
         commissionRate: "2%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3g0rIS19sh",
     },
     {
@@ -1162,7 +1162,7 @@ export const products = [
         originalPrice: "382.800",
         commissionRate: "4%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2g8K6e3TC2",
     },
     {
@@ -1173,7 +1173,7 @@ export const products = [
         originalPrice: "78.300",
         commissionRate: "8%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2qRkIx2pr5",
     },
     {
@@ -1184,7 +1184,7 @@ export const products = [
         originalPrice: "72.800",
         commissionRate: "7%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/50WEsvuaSW",
     },
     {
@@ -1195,7 +1195,7 @@ export const products = [
         originalPrice: "700.000",
         commissionRate: "2%",
         sold: "577 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5Apf5Etx7Z",
     },
     {
@@ -1206,7 +1206,7 @@ export const products = [
         originalPrice: "501.810",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4ftOUJvr8U",
     },
     {
@@ -1217,7 +1217,7 @@ export const products = [
         originalPrice: "243.250",
         commissionRate: "5%",
         sold: "500k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4qCogcvDnX",
     },
     {
@@ -1228,7 +1228,7 @@ export const products = [
         originalPrice: "184.951",
         commissionRate: "6%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4LGY5hx7oS",
     },
     {
@@ -1239,7 +1239,7 @@ export const products = [
         originalPrice: "158.400",
         commissionRate: "6%",
         sold: "5k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4VZyI0wUTV",
     },
     {
@@ -1250,7 +1250,7 @@ export const products = [
         originalPrice: "200.000",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/40dhh5yOUQ",
     },
     {
@@ -1261,7 +1261,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "2%",
         sold: "2 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4Ax7tOxl9T",
     },
     {
@@ -1272,7 +1272,7 @@ export const products = [
         originalPrice: "313.730",
         commissionRate: "6%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/11067a9oZs",
     },
     {
@@ -1283,7 +1283,7 @@ export const products = [
         originalPrice: "73.750",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1BJWJt9BEv",
     },
     {
@@ -1294,7 +1294,7 @@ export const products = [
         originalPrice: "205.109",
         commissionRate: "7%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/gNFiyB5Fq",
     },
     {
@@ -1305,7 +1305,7 @@ export const products = [
         originalPrice: "500.000",
         commissionRate: "37%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/qgfvHARut",
     },
     {
@@ -1316,7 +1316,7 @@ export const products = [
         originalPrice: "48.138",
         commissionRate: "6%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/LkPKMCLvo",
     },
     {
@@ -1327,7 +1327,7 @@ export const products = [
         originalPrice: "155.000",
         commissionRate: "3%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/W3pWfBiar",
     },
     {
@@ -1338,7 +1338,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "2%",
         sold: "16 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/17YvkDcbm",
     },
     {
@@ -1349,7 +1349,7 @@ export const products = [
         originalPrice: "60.000",
         commissionRate: "2%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/BQz83CzGp",
     },
     {
@@ -1360,7 +1360,7 @@ export const products = [
         originalPrice: "69.000",
         commissionRate: "2%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2LVTi24jsG",
     },
     {
@@ -1371,7 +1371,7 @@ export const products = [
         originalPrice: "67.500",
         commissionRate: "6%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2VotuL46XJ",
     },
     {
@@ -1382,7 +1382,7 @@ export const products = [
         originalPrice: "45.281",
         commissionRate: "12%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/20sdJQ60YE",
     },
     {
@@ -1393,7 +1393,7 @@ export const products = [
         originalPrice: "31.457",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2BC3Vj5NDH",
     },
     {
@@ -1404,7 +1404,7 @@ export const products = [
         originalPrice: "513.370",
         commissionRate: "4%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1gFmuo7HEC",
     },
     {
@@ -1415,7 +1415,7 @@ export const products = [
         originalPrice: "37.633",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1qZD776dtF",
     },
     {
@@ -1426,7 +1426,7 @@ export const products = [
         originalPrice: "295.592",
         commissionRate: "2%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1LcwWC8XuA",
     },
     {
@@ -1437,7 +1437,7 @@ export const products = [
         originalPrice: "43.200",
         commissionRate: "3%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1VwMiV7uZD",
     },
     {
@@ -1448,7 +1448,7 @@ export const products = [
         originalPrice: "105.417",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/902NeHfMLg",
     },
     {
@@ -1459,7 +1459,7 @@ export const products = [
         originalPrice: "300.000",
         commissionRate: "2%",
         sold: "2k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9ALnqaej0j",
     },
     {
@@ -1470,7 +1470,7 @@ export const products = [
         originalPrice: "99.000",
         commissionRate: "5%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8fPXFfgd1e",
     },
     {
@@ -1481,7 +1481,7 @@ export const products = [
         originalPrice: "392.700",
         commissionRate: "3%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8pixRyfzgh",
     },
     {
@@ -1492,7 +1492,7 @@ export const products = [
         originalPrice: "20.000",
         commissionRate: "3%",
         sold: "829 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8Kmgr3hthc",
     },
     {
@@ -1503,7 +1503,7 @@ export const products = [
         originalPrice: "180.000",
         commissionRate: "3%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8V673MhGMf",
     },
     {
@@ -1514,7 +1514,7 @@ export const products = [
         originalPrice: "16.785",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/809qSRjANa",
     },
     {
@@ -1525,7 +1525,7 @@ export const products = [
         originalPrice: "336.150",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8ATGekiX2d",
     },
     {
@@ -1536,7 +1536,7 @@ export const products = [
         originalPrice: "40.765",
         commissionRate: "2%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AKXlEjaHe4",
     },
     {
@@ -1547,7 +1547,7 @@ export const products = [
         originalPrice: "1.200",
         commissionRate: "2%",
         sold: "18 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AUrBR2ZeJ7",
     },
     {
@@ -1558,7 +1558,7 @@ export const products = [
         originalPrice: "6.800",
         commissionRate: "4%",
         sold: "8k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9zuuq7bYK2",
     },
     {
@@ -1569,7 +1569,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "3%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AAEL2Qauz5",
     },
     {
@@ -1580,7 +1580,7 @@ export const products = [
         originalPrice: "79.200",
         commissionRate: "8%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9fI4RVcp00",
     },
     {
@@ -1591,7 +1591,7 @@ export const products = [
         originalPrice: "30.000",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9pbUdocBf3",
     },
     {
@@ -1602,7 +1602,7 @@ export const products = [
         originalPrice: "183.566",
         commissionRate: "8%",
         sold: "9k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9KfE2te5fy",
     },
     {
@@ -1613,7 +1613,7 @@ export const products = [
         originalPrice: "120.080",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9UyeFCdSL1",
     },
     {
@@ -1624,7 +1624,7 @@ export const products = [
         originalPrice: "168.140",
         commissionRate: "7%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6L1cTNpVlQ",
     },
     {
@@ -1635,7 +1635,7 @@ export const products = [
         originalPrice: "198.560",
         commissionRate: "7%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6VL2fgosQT",
     },
     {
@@ -1646,7 +1646,7 @@ export const products = [
         originalPrice: "200.000",
         commissionRate: "9%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/60Om4lqmRO",
     },
     {
@@ -1657,7 +1657,7 @@ export const products = [
         originalPrice: "44.220",
         commissionRate: "7%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6AiCH4q96R",
     },
     {
@@ -1668,7 +1668,7 @@ export const products = [
         originalPrice: "567.189",
         commissionRate: "4%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5flvg9s37M",
     },
     {
@@ -1679,7 +1679,7 @@ export const products = [
         originalPrice: "6.900",
         commissionRate: "2%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5q5LsSrPmP",
     },
     {
@@ -1690,7 +1690,7 @@ export const products = [
         originalPrice: "30.000",
         commissionRate: "4%",
         sold: "1k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5L95HXtJnK",
     },
     {
@@ -1701,7 +1701,7 @@ export const products = [
         originalPrice: "174.745",
         commissionRate: "8%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5VSVTqsgSN",
     },
     {
@@ -1712,7 +1712,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "2%",
         sold: "1 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7fX03pkR3o",
     },
     {
@@ -1723,7 +1723,7 @@ export const products = [
         originalPrice: "146.487",
         commissionRate: "4%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7pqQG8jnir",
     },
     {
@@ -1734,7 +1734,7 @@ export const products = [
         originalPrice: "539.880",
         commissionRate: "2%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7Ku9fDlhjm",
     },
     {
@@ -1745,7 +1745,7 @@ export const products = [
         originalPrice: "48.555",
         commissionRate: "13%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7VDZrWl4Op",
     },
     {
@@ -1756,7 +1756,7 @@ export const products = [
         originalPrice: "268.176",
         commissionRate: "6%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/70HJGbmyPk",
     },
     {
@@ -1767,7 +1767,7 @@ export const products = [
         originalPrice: "200.000",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7AajSumL4n",
     },
     {
@@ -1778,7 +1778,7 @@ export const products = [
         originalPrice: "2.000",
         commissionRate: "2%",
         sold: "4k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6feSrzoF5i",
     },
     {
@@ -1789,7 +1789,7 @@ export const products = [
         originalPrice: "53.279",
         commissionRate: "5%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6pxt4Inbkl",
     },
     {
@@ -1800,7 +1800,7 @@ export const products = [
         originalPrice: "108.420",
         commissionRate: "3%",
         sold: "4k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3qKHUmz1qC",
     },
     {
@@ -1811,7 +1811,7 @@ export const products = [
         originalPrice: "299.000",
         commissionRate: "3%",
         sold: "743 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3g0rITzfBB",
     },
     {
@@ -1822,7 +1822,7 @@ export const products = [
         originalPrice: "93.841",
         commissionRate: "7%",
         sold: "600k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3LO0tq2QYb",
     },
     {
@@ -1833,7 +1833,7 @@ export const products = [
         originalPrice: "94.962",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3LO0ts0vr9",
     },
     {
@@ -1844,7 +1844,7 @@ export const products = [
         originalPrice: "550.620",
         commissionRate: "4%",
         sold: "800k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3B4ahZ1ZC8",
     },
     {
@@ -1855,7 +1855,7 @@ export const products = [
         originalPrice: "349.700",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/30lAVG2CX7",
     },
     {
@@ -1866,7 +1866,7 @@ export const products = [
         originalPrice: "33.028",
         commissionRate: "2%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2qRkIx2ps6",
     },
     {
@@ -1877,7 +1877,7 @@ export const products = [
         originalPrice: "105.300",
         commissionRate: "2%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2g8K6e3TD5",
     },
     {
@@ -1888,7 +1888,7 @@ export const products = [
         originalPrice: "4.608",
         commissionRate: "10%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5Apf5Etx8a",
     },
     {
@@ -1899,7 +1899,7 @@ export const products = [
         originalPrice: "61.360",
         commissionRate: "6%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/50WEsvuaTZ",
     },
     {
@@ -1910,7 +1910,7 @@ export const products = [
         originalPrice: "10.959",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4qCogcvDoY",
     },
     {
@@ -1921,7 +1921,7 @@ export const products = [
         originalPrice: "41.180",
         commissionRate: "7%",
         sold: "80k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4ftOUJvr9X",
     },
     {
@@ -1932,7 +1932,7 @@ export const products = [
         originalPrice: "4.900",
         commissionRate: "3%",
         sold: "1k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4VZyI0wUUW",
     },
     {
@@ -1943,7 +1943,7 @@ export const products = [
         originalPrice: "28.755",
         commissionRate: "2%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4LGY5hx7pV",
     },
     {
@@ -1954,7 +1954,7 @@ export const products = [
         originalPrice: "284.648",
         commissionRate: "5%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4Ax7tOxlAU",
     },
     {
@@ -1965,7 +1965,7 @@ export const products = [
         originalPrice: "6.800",
         commissionRate: "4%",
         sold: "7k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/40dhh5yOVT",
     },
     {
@@ -1976,7 +1976,7 @@ export const products = [
         originalPrice: "267.975",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1BJWJt9BFw",
     },
     {
@@ -1987,7 +1987,7 @@ export const products = [
         originalPrice: "200.000",
         commissionRate: "2%",
         sold: "7k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/11067a9oav",
     },
     {
@@ -1998,7 +1998,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "3%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/qgfvHARvu",
     },
     {
@@ -2009,7 +2009,7 @@ export const products = [
         originalPrice: "105.910",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/gNFiyB5Gt",
     },
     {
@@ -2020,7 +2020,7 @@ export const products = [
         originalPrice: "90.520",
         commissionRate: "6%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/W3pWfBibs",
     },
     {
@@ -2031,7 +2031,7 @@ export const products = [
         originalPrice: "101.150",
         commissionRate: "6%",
         sold: "800k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/LkPKMCLwr",
     },
     {
@@ -2042,7 +2042,7 @@ export const products = [
         originalPrice: "116.130",
         commissionRate: "7%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/BQz83CzHq",
     },
     {
@@ -2053,7 +2053,7 @@ export const products = [
         originalPrice: "75.060",
         commissionRate: "5%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/17YvkDccp",
     },
     {
@@ -2064,7 +2064,7 @@ export const products = [
         originalPrice: "42.000",
         commissionRate: "8%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2VotuL46YK",
     },
     {
@@ -2075,7 +2075,7 @@ export const products = [
         originalPrice: "579.234",
         commissionRate: "2%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2LVTi24jtJ",
     },
     {
@@ -2086,7 +2086,7 @@ export const products = [
         originalPrice: "87.750",
         commissionRate: "4%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2BC3Vj5NEI",
     },
     {
@@ -2097,7 +2097,7 @@ export const products = [
         originalPrice: "58.200",
         commissionRate: "2%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/20sdJQ60ZH",
     },
     {
@@ -2108,7 +2108,7 @@ export const products = [
         originalPrice: "16.366",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1qZD776duG",
     },
     {
@@ -2119,7 +2119,7 @@ export const products = [
         originalPrice: "60.300",
         commissionRate: "5%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3qKHUl0WXi",
     },
     {
@@ -2130,7 +2130,7 @@ export const products = [
         originalPrice: "146.520",
         commissionRate: "7%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1VwMiV7uaE",
     },
     {
@@ -2141,7 +2141,7 @@ export const products = [
         originalPrice: "190.000",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1LcwWC8XvD",
     },
     {
@@ -2152,7 +2152,7 @@ export const products = [
         originalPrice: "8.882",
         commissionRate: "6%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9ALnqaej1k",
     },
     {
@@ -2163,7 +2163,7 @@ export const products = [
         originalPrice: "184.704",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/902NeHfMMj",
     },
     {
@@ -2174,7 +2174,7 @@ export const products = [
         originalPrice: "390.880",
         commissionRate: "4%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8pixRyfzhi",
     },
     {
@@ -2185,7 +2185,7 @@ export const products = [
         originalPrice: "423.053",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8fPXFfgd2h",
     },
     {
@@ -2196,7 +2196,7 @@ export const products = [
         originalPrice: "104.880",
         commissionRate: "3%",
         sold: "4k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8V673MhGNg",
     },
     {
@@ -2207,7 +2207,7 @@ export const products = [
         originalPrice: "54.605",
         commissionRate: "7%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2LVTi3ZxRq",
     },
     {
@@ -2218,7 +2218,7 @@ export const products = [
         originalPrice: "309.150",
         commissionRate: "6%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2VotuMZK6t",
     },
     {
@@ -2229,7 +2229,7 @@ export const products = [
         originalPrice: "27.661",
         commissionRate: "6%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1LcwWDdlTg",
     },
     {
@@ -2240,7 +2240,7 @@ export const products = [
         originalPrice: "1.900",
         commissionRate: "3%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1VwMiWd88j",
     },
     {
@@ -2251,7 +2251,7 @@ export const products = [
         originalPrice: "2.254",
         commissionRate: "3%",
         sold: "500k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1gFmupcUnm",
     },
     {
@@ -2262,7 +2262,7 @@ export const products = [
         originalPrice: "524.270",
         commissionRate: "3%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1qZD78brSp",
     },
     {
@@ -2273,7 +2273,7 @@ export const products = [
         originalPrice: "2.202.480",
         commissionRate: "4%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/gNFizgIpc",
     },
     {
@@ -2284,7 +2284,7 @@ export const products = [
         originalPrice: "67.500",
         commissionRate: "8%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3VhR691nDc",
     },
     {
@@ -2295,7 +2295,7 @@ export const products = [
         originalPrice: "214.060",
         commissionRate: "6%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/11067bf29i",
     },
     {
@@ -2306,7 +2306,7 @@ export const products = [
         originalPrice: "205.720",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1BJWJueOol",
     },
     {
@@ -2317,7 +2317,7 @@ export const products = [
         originalPrice: "581.000",
         commissionRate: "2%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/17YvliqBY",
     },
     {
@@ -2328,7 +2328,7 @@ export const products = [
         originalPrice: "51.597",
         commissionRate: "4%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/BQz84iCqb",
     },
     {
@@ -2339,7 +2339,7 @@ export const products = [
         originalPrice: "178.972",
         commissionRate: "8%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/LkPKNhZVe",
     },
     {
@@ -2350,7 +2350,7 @@ export const products = [
         originalPrice: "275.940",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/W3pWggwAh",
     },
     {
@@ -2361,7 +2361,7 @@ export const products = [
         originalPrice: "297.850",
         commissionRate: "7%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4ftOULR4iW",
     },
     {
@@ -2372,7 +2372,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "8%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4qCogeQRNZ",
     },
     {
@@ -2383,7 +2383,7 @@ export const products = [
         originalPrice: "122.180",
         commissionRate: "8%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/50WEsxPo2c",
     },
     {
@@ -2394,7 +2394,7 @@ export const products = [
         originalPrice: "437.000",
         commissionRate: "4%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5Apf5GPAhf",
     },
     {
@@ -2405,7 +2405,7 @@ export const products = [
         originalPrice: "31.500",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/40dhh7Tc4S",
     },
     {
@@ -2416,7 +2416,7 @@ export const products = [
         originalPrice: "47.520",
         commissionRate: "6%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4Ax7tQSyjV",
     },
     {
@@ -2427,7 +2427,7 @@ export const products = [
         originalPrice: "174.555",
         commissionRate: "5%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4LGY5jSLOY",
     },
     {
@@ -2438,7 +2438,7 @@ export const products = [
         originalPrice: "38.357",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4VZyI2Ri3b",
     },
     {
@@ -2449,7 +2449,7 @@ export const products = [
         originalPrice: "184.680",
         commissionRate: "4%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3LO0ttW9QO",
     },
     {
@@ -2460,7 +2460,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "3%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3VhR6CVW5R",
     },
     {
@@ -2471,7 +2471,7 @@ export const products = [
         originalPrice: "38.100",
         commissionRate: "2%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3g0rIVUskU",
     },
     {
@@ -2482,7 +2482,7 @@ export const products = [
         originalPrice: "130.000",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3qKHUoUFPX",
     },
     {
@@ -2493,7 +2493,7 @@ export const products = [
         originalPrice: "271.600",
         commissionRate: "5%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2g8K6fYgmK",
     },
     {
@@ -2504,7 +2504,7 @@ export const products = [
         originalPrice: "179.000",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2qRkIyY3RN",
     },
     {
@@ -2515,7 +2515,7 @@ export const products = [
         originalPrice: "285.600",
         commissionRate: "8%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/30lAVHXQ6Q",
     },
     {
@@ -2526,7 +2526,7 @@ export const products = [
         originalPrice: "97.500",
         commissionRate: "2%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3B4ahaWmlT",
     },
     {
@@ -2537,7 +2537,7 @@ export const products = [
         originalPrice: "30.000",
         commissionRate: "2%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7Ku9fFGvJI",
     },
     {
@@ -2548,7 +2548,7 @@ export const products = [
         originalPrice: "12.500",
         commissionRate: "3%",
         sold: "7k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7VDZrYGHyL",
     },
     {
@@ -2559,7 +2559,7 @@ export const products = [
         originalPrice: "1.000.000",
         commissionRate: "2%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7fX03rFedO",
     },
     {
@@ -2570,7 +2570,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "7%",
         sold: "83 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7pqQGAF1IR",
     },
     {
@@ -2581,7 +2581,7 @@ export const products = [
         originalPrice: "20.016",
         commissionRate: "4%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6feSs1JSfE",
     },
     {
@@ -2592,7 +2592,7 @@ export const products = [
         originalPrice: "81.270",
         commissionRate: "3%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6pxt4KIpKH",
     },
     {
@@ -2603,7 +2603,7 @@ export const products = [
         originalPrice: "44.000",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/70HJGdIBzK",
     },
     {
@@ -2614,7 +2614,7 @@ export const products = [
         originalPrice: "175.000",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7AajSwHYeN",
     },
     {
@@ -2625,7 +2625,7 @@ export const products = [
         originalPrice: "50.000",
         commissionRate: "6%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/60Om4nM01A",
     },
     {
@@ -2636,7 +2636,7 @@ export const products = [
         originalPrice: "29.000",
         commissionRate: "6%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6AiCH6LMgD",
     },
     {
@@ -2647,7 +2647,7 @@ export const products = [
         originalPrice: "89.700",
         commissionRate: "6%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6L1cTPKjLG",
     },
     {
@@ -2658,7 +2658,7 @@ export const products = [
         originalPrice: "255.150",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6VL2fiK60J",
     },
     {
@@ -2669,7 +2669,7 @@ export const products = [
         originalPrice: "10.800",
         commissionRate: "7%",
         sold: "1k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5L95HZOXN6",
     },
     {
@@ -2680,7 +2680,7 @@ export const products = [
         originalPrice: "15.000",
         commissionRate: "6%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5VSVTsNu29",
     },
     {
@@ -2691,7 +2691,7 @@ export const products = [
         originalPrice: "88.920",
         commissionRate: "4%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5flvgBNGhC",
     },
     {
@@ -2702,7 +2702,7 @@ export const products = [
         originalPrice: "125.400",
         commissionRate: "9%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5q5LsUMdMF",
     },
     {
@@ -2713,7 +2713,7 @@ export const products = [
         originalPrice: "160.000",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9zuuq96lu4",
     },
     {
@@ -2724,7 +2724,7 @@ export const products = [
         originalPrice: "15.000",
         commissionRate: "6%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AAEL2S68Z7",
     },
     {
@@ -2735,7 +2735,7 @@ export const products = [
         originalPrice: "1.300",
         commissionRate: "3%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AKXlEl5VEA",
     },
     {
@@ -2746,7 +2746,7 @@ export const products = [
         originalPrice: "17.100",
         commissionRate: "2%",
         sold: "954 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AUrBR44rtD",
     },
     {
@@ -2757,7 +2757,7 @@ export const products = [
         originalPrice: "2.517.667",
         commissionRate: "4%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9KfE2v9JG0",
     },
     {
@@ -2768,7 +2768,7 @@ export const products = [
         originalPrice: "15.000",
         commissionRate: "6%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9UyeFE8fv3",
     },
     {
@@ -2779,7 +2779,7 @@ export const products = [
         originalPrice: "26.460",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9fI4RX82a6",
     },
     {
@@ -2790,7 +2790,7 @@ export const products = [
         originalPrice: "71.920",
         commissionRate: "3%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9pbUdq7PF9",
     },
     {
@@ -2801,7 +2801,7 @@ export const products = [
         originalPrice: "11.000",
         commissionRate: "7%",
         sold: "6k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8fPXFhBqbw",
     },
     {
@@ -2812,7 +2812,7 @@ export const products = [
         originalPrice: "298.282",
         commissionRate: "9%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8pixS0BDGz",
     },
     {
@@ -2823,7 +2823,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "2%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/902NeJAZw2",
     },
     {
@@ -2834,7 +2834,7 @@ export const products = [
         originalPrice: "127.800",
         commissionRate: "6%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9ALnqc9wb5",
     },
     {
@@ -2845,7 +2845,7 @@ export const products = [
         originalPrice: "211.250",
         commissionRate: "4%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/809qSTENxs",
     },
     {
@@ -2856,7 +2856,7 @@ export const products = [
         originalPrice: "10.000",
         commissionRate: "4%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8ATGemDkcv",
     },
     {
@@ -2867,7 +2867,7 @@ export const products = [
         originalPrice: "76.441",
         commissionRate: "7%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8Kmgr5D7Hy",
     },
     {
@@ -2878,7 +2878,7 @@ export const products = [
         originalPrice: "557.040",
         commissionRate: "4%",
         sold: "9k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8V673OCTx1",
     },
     {
@@ -2889,7 +2889,7 @@ export const products = [
         originalPrice: "148.500",
         commissionRate: "6%",
         sold: "5k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2BC3Vkaano",
     },
     {
@@ -2900,7 +2900,7 @@ export const products = [
         originalPrice: "187.740",
         commissionRate: "5%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/20sdJRbE8n",
     },
     {
@@ -2911,7 +2911,7 @@ export const products = [
         originalPrice: "255.760",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/40dhh3ztCf",
     },
     {
@@ -2922,7 +2922,7 @@ export const products = [
         originalPrice: "19.411",
         commissionRate: "4%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2LVTi3ZxSt",
     },
     {
@@ -2933,7 +2933,7 @@ export const products = [
         originalPrice: "15.000",
         commissionRate: "3%",
         sold: "4 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1VwMiWd89k",
     },
     {
@@ -2944,7 +2944,7 @@ export const products = [
         originalPrice: "305.250",
         commissionRate: "37%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1LcwWDdlUj",
     },
     {
@@ -2955,7 +2955,7 @@ export const products = [
         originalPrice: "1.700",
         commissionRate: "2%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1qZD78brTq",
     },
     {
@@ -2966,7 +2966,7 @@ export const products = [
         originalPrice: "235.664",
         commissionRate: "2%",
         sold: "500k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1gFmupcUop",
     },
     {
@@ -2977,7 +2977,7 @@ export const products = [
         originalPrice: "49.170",
         commissionRate: "4%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/qgfvIffVg",
     },
     {
@@ -2988,7 +2988,7 @@ export const products = [
         originalPrice: "13.110",
         commissionRate: "3%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/gNFizgIqf",
     },
     {
@@ -2999,7 +2999,7 @@ export const products = [
         originalPrice: "35.000",
         commissionRate: "5%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1BJWJueOpm",
     },
     {
@@ -3010,7 +3010,7 @@ export const products = [
         originalPrice: "19.200",
         commissionRate: "16%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/11067bf2Al",
     },
     {
@@ -3021,7 +3021,7 @@ export const products = [
         originalPrice: "35.777",
         commissionRate: "2%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/BQz84iCrc",
     },
     {
@@ -3032,7 +3032,7 @@ export const products = [
         originalPrice: "185.730",
         commissionRate: "6%",
         sold: "1k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/17YvliqCb",
     },
     {
@@ -3043,7 +3043,7 @@ export const products = [
         originalPrice: "167.790",
         commissionRate: "3%",
         sold: "700k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/W3pWggwBi",
     },
     {
@@ -3054,7 +3054,7 @@ export const products = [
         originalPrice: "181.780",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/LkPKNhZWh",
     },
     {
@@ -3065,7 +3065,7 @@ export const products = [
         originalPrice: "190.800",
         commissionRate: "3%",
         sold: "2k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4qCogeQROa",
     },
     {
@@ -3076,7 +3076,7 @@ export const products = [
         originalPrice: "35.000",
         commissionRate: "3%",
         sold: "7k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4ftOULR4jZ",
     },
     {
@@ -3087,7 +3087,7 @@ export const products = [
         originalPrice: "10.000",
         commissionRate: "2%",
         sold: "63 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5Apf5GPAig",
     },
     {
@@ -3098,7 +3098,7 @@ export const products = [
         originalPrice: "7.800",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/50WEsxPo3f",
     },
     {
@@ -3109,7 +3109,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "2%",
         sold: "71 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4Ax7tQSykW",
     },
     {
@@ -3120,7 +3120,7 @@ export const products = [
         originalPrice: "149.548",
         commissionRate: "6%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3B4ahX33te",
     },
     {
@@ -3131,7 +3131,7 @@ export const products = [
         originalPrice: "40.392",
         commissionRate: "5%",
         sold: "5k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4VZyI2Ri4c",
     },
     {
@@ -3142,7 +3142,7 @@ export const products = [
         originalPrice: "164.020",
         commissionRate: "4%",
         sold: "4k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4LGY5jSLPb",
     },
     {
@@ -3153,7 +3153,7 @@ export const products = [
         originalPrice: "110.111",
         commissionRate: "8%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3VhR6CVW6S",
     },
     {
@@ -3164,7 +3164,7 @@ export const products = [
         originalPrice: "280.780",
         commissionRate: "3%",
         sold: "901 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3LO0ttW9RR",
     },
     {
@@ -3175,7 +3175,7 @@ export const products = [
         originalPrice: "310.800",
         commissionRate: "5%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4qCogawiVk",
     },
     {
@@ -3186,7 +3186,7 @@ export const products = [
         originalPrice: "81.900",
         commissionRate: "9%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3g0rIVUslX",
     },
     {
@@ -3197,7 +3197,7 @@ export const products = [
         originalPrice: "133.200",
         commissionRate: "5%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2qRkIyY3SO",
     },
     {
@@ -3208,7 +3208,7 @@ export const products = [
         originalPrice: "19.152",
         commissionRate: "8%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2g8K6fYgnN",
     },
     {
@@ -3219,7 +3219,7 @@ export const products = [
         originalPrice: "1.069",
         commissionRate: "3%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3B4ahaWmmU",
     },
     {
@@ -3230,7 +3230,7 @@ export const products = [
         originalPrice: "25.137",
         commissionRate: "2%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/30lAVHXQ7T",
     },
     {
@@ -3241,7 +3241,7 @@ export const products = [
         originalPrice: "445.550",
         commissionRate: "4%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7VDZrYGHzM",
     },
     {
@@ -3252,7 +3252,7 @@ export const products = [
         originalPrice: "55.000",
         commissionRate: "6%",
         sold: "5k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7Ku9fFGvKL",
     },
     {
@@ -3263,7 +3263,7 @@ export const products = [
         originalPrice: "464.383",
         commissionRate: "2%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7pqQGAF1JS",
     },
     {
@@ -3274,7 +3274,7 @@ export const products = [
         originalPrice: "187.740",
         commissionRate: "8%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7fX03rFeeR",
     },
     {
@@ -3285,7 +3285,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "2%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6pxt4KIpLI",
     },
     {
@@ -3296,7 +3296,7 @@ export const products = [
         originalPrice: "280.000",
         commissionRate: "8%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6feSs1JSgH",
     },
     {
@@ -3307,7 +3307,7 @@ export const products = [
         originalPrice: "87.120",
         commissionRate: "2%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/W3pWi6nIM",
     },
     {
@@ -3318,7 +3318,7 @@ export const products = [
         originalPrice: "212.890",
         commissionRate: "4%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/LkPKP7QdL",
     },
     {
@@ -3329,7 +3329,7 @@ export const products = [
         originalPrice: "81.000",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2BC3Vm0Rui",
     },
     {
@@ -3340,7 +3340,7 @@ export const products = [
         originalPrice: "6.975",
         commissionRate: "2%",
         sold: "900k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/20sdJT15Fh",
     },
     {
@@ -3351,7 +3351,7 @@ export const products = [
         originalPrice: "478.800",
         commissionRate: "4%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2VotuNzBEo",
     },
     {
@@ -3362,7 +3362,7 @@ export const products = [
         originalPrice: "43.500",
         commissionRate: "6%",
         sold: "6k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2LVTi4zoZn",
     },
     {
@@ -3373,7 +3373,7 @@ export const products = [
         originalPrice: "642.757",
         commissionRate: "2%",
         sold: "157 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1VwMiY2zGe",
     },
     {
@@ -3384,7 +3384,7 @@ export const products = [
         originalPrice: "223.850",
         commissionRate: "2%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1LcwWF3cbd",
     },
     {
@@ -3395,7 +3395,7 @@ export const products = [
         originalPrice: "127.500",
         commissionRate: "2%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1qZD7A1iak",
     },
     {
@@ -3406,7 +3406,7 @@ export const products = [
         originalPrice: "301.000",
         commissionRate: "4%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1gFmur2Lvj",
     },
     {
@@ -3417,7 +3417,7 @@ export const products = [
         originalPrice: "10.000",
         commissionRate: "5%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3VhR6DvND6",
     },
     {
@@ -3428,7 +3428,7 @@ export const products = [
         originalPrice: "10.050",
         commissionRate: "3%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3LO0tuw0Y5",
     },
     {
@@ -3439,7 +3439,7 @@ export const products = [
         originalPrice: "159.984",
         commissionRate: "8%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3qKHUpu6XC",
     },
     {
@@ -3450,7 +3450,7 @@ export const products = [
         originalPrice: "196.900",
         commissionRate: "4%",
         sold: "600k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3g0rIWujsB",
     },
     {
@@ -3461,7 +3461,7 @@ export const products = [
         originalPrice: "135.000",
         commissionRate: "4%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2qRkIzxuZ2",
     },
     {
@@ -3472,7 +3472,7 @@ export const products = [
         originalPrice: "241.000",
         commissionRate: "5%",
         sold: "6k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2g8K6gyXu1",
     },
     {
@@ -3483,7 +3483,7 @@ export const products = [
         originalPrice: "143.550",
         commissionRate: "4%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4LGY5fycWl",
     },
     {
@@ -3494,7 +3494,7 @@ export const products = [
         originalPrice: "49.000",
         commissionRate: "2%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/30lAVIxHE7",
     },
     {
@@ -3505,7 +3505,7 @@ export const products = [
         originalPrice: "41.597",
         commissionRate: "4%",
         sold: "700k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4qCogfqIVU",
     },
     {
@@ -3516,7 +3516,7 @@ export const products = [
         originalPrice: "4.850",
         commissionRate: "2%",
         sold: "240 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4ftOUMqvqT",
     },
     {
@@ -3527,7 +3527,7 @@ export const products = [
         originalPrice: "16.023",
         commissionRate: "5%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5Apf5Hp1pa",
     },
     {
@@ -3538,7 +3538,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "3%",
         sold: "2 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/50WEsypfAZ",
     },
     {
@@ -3549,7 +3549,7 @@ export const products = [
         originalPrice: "229.500",
         commissionRate: "9%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4Ax7tRsprQ",
     },
     {
@@ -3560,7 +3560,7 @@ export const products = [
         originalPrice: "148.240",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/40dhh8tTCP",
     },
     {
@@ -3571,7 +3571,7 @@ export const products = [
         originalPrice: "1.000",
         commissionRate: "4%",
         sold: "23 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4VZyI3rZBW",
     },
     {
@@ -3582,7 +3582,7 @@ export const products = [
         originalPrice: "15.000",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4LGY5ksCWV",
     },
     {
@@ -3593,7 +3593,7 @@ export const products = [
         originalPrice: "69.760",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6AiCH7lDns",
     },
     {
@@ -3604,7 +3604,7 @@ export const products = [
         originalPrice: "69.000",
         commissionRate: "7%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/60Om4olr8r",
     },
     {
@@ -3615,7 +3615,7 @@ export const products = [
         originalPrice: "6.000",
         commissionRate: "5%",
         sold: "4k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6VL2fjjx7y",
     },
     {
@@ -3626,7 +3626,7 @@ export const products = [
         originalPrice: "458.590",
         commissionRate: "5%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6L1cTQkaSx",
     },
     {
@@ -3637,7 +3637,7 @@ export const products = [
         originalPrice: "243.600",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5VSVTtnl9o",
     },
     {
@@ -3648,7 +3648,7 @@ export const products = [
         originalPrice: "503.418",
         commissionRate: "3%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5L95HaoOUn",
     },
     {
@@ -3659,7 +3659,7 @@ export const products = [
         originalPrice: "51.405",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5q5LsVmUTu",
     },
     {
@@ -3670,7 +3670,7 @@ export const products = [
         originalPrice: "172.889",
         commissionRate: "8%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2qRkIv4KZY",
     },
     {
@@ -3681,7 +3681,7 @@ export const products = [
         originalPrice: "1.000.000",
         commissionRate: "2%",
         sold: "245 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7VDZrZg96G",
     },
     {
@@ -3692,7 +3692,7 @@ export const products = [
         originalPrice: "266.660",
         commissionRate: "4%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7Ku9fGgmRF",
     },
     {
@@ -3703,7 +3703,7 @@ export const products = [
         originalPrice: "84.960",
         commissionRate: "8%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7pqQGBesQM",
     },
     {
@@ -3714,7 +3714,7 @@ export const products = [
         originalPrice: "22.912",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7fX03sfVlL",
     },
     {
@@ -3725,7 +3725,7 @@ export const products = [
         originalPrice: "9.999",
         commissionRate: "3%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6pxt4LigSC",
     },
     {
@@ -3736,7 +3736,7 @@ export const products = [
         originalPrice: "54.120",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6feSs2jJnB",
     },
     {
@@ -3747,7 +3747,7 @@ export const products = [
         originalPrice: "457.310",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/30lAVE3hEd",
     },
     {
@@ -3758,7 +3758,7 @@ export const products = [
         originalPrice: "30.000",
         commissionRate: "3%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/70HJGei37H",
     },
     {
@@ -3769,7 +3769,7 @@ export const products = [
         originalPrice: "126.380",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2g8K6c4xuX",
     },
     {
@@ -3780,7 +3780,7 @@ export const products = [
         originalPrice: "276.410",
         commissionRate: "4%",
         sold: "631 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8fPXFibhjd",
     },
     {
@@ -3791,7 +3791,7 @@ export const products = [
         originalPrice: "21.645",
         commissionRate: "4%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9ALnqdZnik",
     },
     {
@@ -3802,7 +3802,7 @@ export const products = [
         originalPrice: "800.000",
         commissionRate: "2%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/902NeKaR3j",
     },
     {
@@ -3813,7 +3813,7 @@ export const products = [
         originalPrice: "43.757",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8ATGendbka",
     },
     {
@@ -3824,7 +3824,7 @@ export const products = [
         originalPrice: "146.160",
         commissionRate: "5%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/809qSUeF5Z",
     },
     {
@@ -3835,7 +3835,7 @@ export const products = [
         originalPrice: "91.500",
         commissionRate: "3%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8V673PcL4g",
     },
     {
@@ -3846,7 +3846,7 @@ export const products = [
         originalPrice: "13.068",
         commissionRate: "7%",
         sold: "5k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8Kmgr6cyPf",
     },
     {
@@ -3857,7 +3857,7 @@ export const products = [
         originalPrice: "14.388",
         commissionRate: "3%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AAEL2TVzh2",
     },
     {
@@ -3868,7 +3868,7 @@ export const products = [
         originalPrice: "37.990",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9zuuqAWd21",
     },
     {
@@ -3879,7 +3879,7 @@ export const products = [
         originalPrice: "500.000",
         commissionRate: "3%",
         sold: "4k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AUrBR5Uj18",
     },
     {
@@ -3890,7 +3890,7 @@ export const products = [
         originalPrice: "28.350",
         commissionRate: "6%",
         sold: "8k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AKXlEmVMM7",
     },
     {
@@ -3901,7 +3901,7 @@ export const products = [
         originalPrice: "40.000",
         commissionRate: "2%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9UyeFFYX2y",
     },
     {
@@ -3912,7 +3912,7 @@ export const products = [
         originalPrice: "22.350",
         commissionRate: "3%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9KfE2wZANx",
     },
     {
@@ -3923,7 +3923,7 @@ export const products = [
         originalPrice: "186.301",
         commissionRate: "6%",
         sold: "500k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9pbUdrXGN4",
     },
     {
@@ -3934,7 +3934,7 @@ export const products = [
         originalPrice: "7.906",
         commissionRate: "4%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9fI4RYXti3",
     },
     {
@@ -3945,7 +3945,7 @@ export const products = [
         originalPrice: "560.300",
         commissionRate: "4%",
         sold: "800k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/gNFj169yK",
     },
     {
@@ -3956,7 +3956,7 @@ export const products = [
         originalPrice: "231.000",
         commissionRate: "6%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/qgfvK5WdN",
     },
     {
@@ -3967,7 +3967,7 @@ export const products = [
         originalPrice: "28.350",
         commissionRate: "6%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/11067d4tIQ",
     },
     {
@@ -3978,7 +3978,7 @@ export const products = [
         originalPrice: "236.250",
         commissionRate: "4%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1BJWJw4FxT",
     },
     {
@@ -3989,7 +3989,7 @@ export const products = [
         originalPrice: "94.530",
         commissionRate: "7%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/17Yvn8hKG",
     },
     {
@@ -4000,7 +4000,7 @@ export const products = [
         originalPrice: "29.746",
         commissionRate: "4%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/BQz8683zJ",
     },
     {
@@ -4011,7 +4011,7 @@ export const products = [
         originalPrice: "186.250",
         commissionRate: "5%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/LkPKP7QeM",
     },
     {
@@ -4022,7 +4022,7 @@ export const products = [
         originalPrice: "177.652",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/W3pWi6nJP",
     },
     {
@@ -4033,7 +4033,7 @@ export const products = [
         originalPrice: "12.200",
         commissionRate: "6%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/20sdJT15Gi",
     },
     {
@@ -4044,7 +4044,7 @@ export const products = [
         originalPrice: "317.420",
         commissionRate: "7%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/W3pWdDDIs",
     },
     {
@@ -4055,7 +4055,7 @@ export const products = [
         originalPrice: "49.815",
         commissionRate: "9%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2LVTi4zoao",
     },
     {
@@ -4066,7 +4066,7 @@ export const products = [
         originalPrice: "19.777",
         commissionRate: "10%",
         sold: "6k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2VotuNzBFr",
     },
     {
@@ -4077,7 +4077,7 @@ export const products = [
         originalPrice: "204.450",
         commissionRate: "4%",
         sold: "600k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1LcwWF3cce",
     },
     {
@@ -4088,7 +4088,7 @@ export const products = [
         originalPrice: "18.750",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1VwMiY2zHh",
     },
     {
@@ -4099,7 +4099,7 @@ export const products = [
         originalPrice: "35.896",
         commissionRate: "5%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1gFmur2Lwk",
     },
     {
@@ -4110,7 +4110,7 @@ export const products = [
         originalPrice: "47.473",
         commissionRate: "4%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1qZD7A1ibn",
     },
     {
@@ -4121,7 +4121,7 @@ export const products = [
         originalPrice: "94.622",
         commissionRate: "7%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3LO0tuw0Z6",
     },
     {
@@ -4132,7 +4132,7 @@ export const products = [
         originalPrice: "406.080",
         commissionRate: "4%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3VhR6DvNE9",
     },
     {
@@ -4143,7 +4143,7 @@ export const products = [
         originalPrice: "184.800",
         commissionRate: "7%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3g0rIWujtC",
     },
     {
@@ -4154,7 +4154,7 @@ export const products = [
         originalPrice: "18.750",
         commissionRate: "4%",
         sold: "5k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3qKHUpu6YF",
     },
     {
@@ -4165,7 +4165,7 @@ export const products = [
         originalPrice: "49.000",
         commissionRate: "2%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2g8K6gyXv2",
     },
     {
@@ -4176,7 +4176,7 @@ export const products = [
         originalPrice: "105.600",
         commissionRate: "4%",
         sold: "7k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2qRkIzxua5",
     },
     {
@@ -4187,7 +4187,7 @@ export const products = [
         originalPrice: "199.000",
         commissionRate: "7%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/30lAVIxHF8",
     },
     {
@@ -4198,7 +4198,7 @@ export const products = [
         originalPrice: "103.950",
         commissionRate: "3%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3B4ahbwduB",
     },
     {
@@ -4209,7 +4209,7 @@ export const products = [
         originalPrice: "50.000",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4ftOUMqvrU",
     },
     {
@@ -4220,7 +4220,7 @@ export const products = [
         originalPrice: "16.226",
         commissionRate: "6%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4qCogfqIWX",
     },
     {
@@ -4231,7 +4231,7 @@ export const products = [
         originalPrice: "176.730",
         commissionRate: "3%",
         sold: "500k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/50WEsypfBa",
     },
     {
@@ -4242,7 +4242,7 @@ export const products = [
         originalPrice: "73.500",
         commissionRate: "7%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5Apf5Hp1qd",
     },
     {
@@ -4253,7 +4253,7 @@ export const products = [
         originalPrice: "499.000",
         commissionRate: "2%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/40dhh8tTDQ",
     },
     {
@@ -4264,7 +4264,7 @@ export const products = [
         originalPrice: "11.000",
         commissionRate: "7%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4Ax7tRspsT",
     },
     {
@@ -4275,7 +4275,7 @@ export const products = [
         originalPrice: "412.650",
         commissionRate: "6%",
         sold: "80k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4LGY5ksCXW",
     },
     {
@@ -4286,7 +4286,7 @@ export const products = [
         originalPrice: "20.000",
         commissionRate: "5%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4VZyI3rZCZ",
     },
     {
@@ -4297,7 +4297,7 @@ export const products = [
         originalPrice: "186.260",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/60Om4olr9s",
     },
     {
@@ -4308,7 +4308,7 @@ export const products = [
         originalPrice: "15.995",
         commissionRate: "6%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6AiCH7lDov",
     },
     {
@@ -4319,7 +4319,7 @@ export const products = [
         originalPrice: "14.895",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6L1cTQkaTy",
     },
     {
@@ -4330,7 +4330,7 @@ export const products = [
         originalPrice: "20.000",
         commissionRate: "4%",
         sold: "80k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6VL2fjjx91",
     },
     {
@@ -4341,7 +4341,7 @@ export const products = [
         originalPrice: "11.613",
         commissionRate: "2%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5L95HaoOVo",
     },
     {
@@ -4352,7 +4352,7 @@ export const products = [
         originalPrice: "89.600",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7VDZrUmZ6W",
     },
     {
@@ -4363,7 +4363,7 @@ export const products = [
         originalPrice: "3.200",
         commissionRate: "3%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5flvgCn7pu",
     },
     {
@@ -4374,7 +4374,7 @@ export const products = [
         originalPrice: "73.010",
         commissionRate: "5%",
         sold: "856 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5q5LsVmUUx",
     },
     {
@@ -4385,7 +4385,7 @@ export const products = [
         originalPrice: "215.280",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7Ku9fGgmSG",
     },
     {
@@ -4396,7 +4396,7 @@ export const products = [
         originalPrice: "1.020",
         commissionRate: "4%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7VDZrZg97J",
     },
     {
@@ -4407,7 +4407,7 @@ export const products = [
         originalPrice: "76.041",
         commissionRate: "4%",
         sold: "5k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1LcwWGTY0Q",
     },
     {
@@ -4418,7 +4418,7 @@ export const products = [
         originalPrice: "77.880",
         commissionRate: "2%",
         sold: "600k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1VwMiZSufT",
     },
     {
@@ -4429,7 +4429,7 @@ export const products = [
         originalPrice: "11.881",
         commissionRate: "4%",
         sold: "8k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2LVTi6Pjye",
     },
     {
@@ -4440,7 +4440,7 @@ export const products = [
         originalPrice: "253.500",
         commissionRate: "7%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2VotuPP6dh",
     },
     {
@@ -4451,7 +4451,7 @@ export const products = [
         originalPrice: "202.108",
         commissionRate: "6%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/20sdJUR0ec",
     },
     {
@@ -4462,7 +4462,7 @@ export const products = [
         originalPrice: "129.560",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4VZyHyxzBm",
     },
     {
@@ -4473,7 +4473,7 @@ export const products = [
         originalPrice: "1.000.000",
         commissionRate: "2%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8V673R2GSu",
     },
     {
@@ -4484,7 +4484,7 @@ export const products = [
         originalPrice: "36.995",
         commissionRate: "2%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8Kmgr82tnt",
     },
     {
@@ -4495,7 +4495,7 @@ export const products = [
         originalPrice: "469.152",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8ATGep3X8s",
     },
     {
@@ -4506,7 +4506,7 @@ export const products = [
         originalPrice: "49.700",
         commissionRate: "9%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/809qSW4ATr",
     },
     {
@@ -4517,7 +4517,7 @@ export const products = [
         originalPrice: "22.500",
         commissionRate: "5%",
         sold: "203 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9ALnqezj76",
     },
     {
@@ -4528,7 +4528,7 @@ export const products = [
         originalPrice: "18.750",
         commissionRate: "3%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/902NeM0MS5",
     },
     {
@@ -4539,7 +4539,7 @@ export const products = [
         originalPrice: "1.500",
         commissionRate: "4%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8pixS30zn4",
     },
     {
@@ -4550,7 +4550,7 @@ export const products = [
         originalPrice: "1.111.990",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8fPXFk1d83",
     },
     {
@@ -4561,7 +4561,7 @@ export const products = [
         originalPrice: "48.555",
         commissionRate: "13%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9pbUdsxBlI",
     },
     {
@@ -4572,7 +4572,7 @@ export const products = [
         originalPrice: "118.750",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9fI4RZxp6H",
     },
     {
@@ -4583,7 +4583,7 @@ export const products = [
         originalPrice: "71.390",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9UyeFGySRG",
     },
     {
@@ -4594,7 +4594,7 @@ export const products = [
         originalPrice: "85.000",
         commissionRate: "7%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9KfE2xz5mF",
     },
     {
@@ -4605,7 +4605,7 @@ export const products = [
         originalPrice: "20.319",
         commissionRate: "3%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AUrBR6uePU",
     },
     {
@@ -4616,7 +4616,7 @@ export const products = [
         originalPrice: "25.650",
         commissionRate: "3%",
         sold: "950 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AKXlEnvHkT",
     },
     {
@@ -4627,7 +4627,7 @@ export const products = [
         originalPrice: "800.000",
         commissionRate: "2%",
         sold: "395 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AAEL2Uvv5S",
     },
     {
@@ -4638,7 +4638,7 @@ export const products = [
         originalPrice: "343.170",
         commissionRate: "5%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9zuuqBwYQR",
     },
     {
@@ -4649,7 +4649,7 @@ export const products = [
         originalPrice: "81.000",
         commissionRate: "6%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5q5LsXCPse",
     },
     {
@@ -4660,7 +4660,7 @@ export const products = [
         originalPrice: "262.140",
         commissionRate: "3%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5flvgED3Dd",
     },
     {
@@ -4671,7 +4671,7 @@ export const products = [
         originalPrice: "217.774",
         commissionRate: "7%",
         sold: "8k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5VSVTvDgYc",
     },
     {
@@ -4682,7 +4682,7 @@ export const products = [
         originalPrice: "141.000",
         commissionRate: "3%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5L95HcEJtb",
     },
     {
@@ -4693,7 +4693,7 @@ export const products = [
         originalPrice: "111.826",
         commissionRate: "8%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6VL2fl9sWq",
     },
     {
@@ -4704,7 +4704,7 @@ export const products = [
         originalPrice: "184.440",
         commissionRate: "4%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6L1cTSAVrp",
     },
     {
@@ -4715,7 +4715,7 @@ export const products = [
         originalPrice: "70.875",
         commissionRate: "6%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6AiCH9B9Co",
     },
     {
@@ -4726,7 +4726,7 @@ export const products = [
         originalPrice: "27.797",
         commissionRate: "3%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/60Om4qBmXn",
     },
     {
@@ -4737,7 +4737,7 @@ export const products = [
         originalPrice: "119.000",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7AajSz7LB2",
     },
     {
@@ -4748,7 +4748,7 @@ export const products = [
         originalPrice: "1.300",
         commissionRate: "4%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/70HJGg7yW1",
     },
     {
@@ -4759,7 +4759,7 @@ export const products = [
         originalPrice: "125.490",
         commissionRate: "5%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6pxt4N8br0",
     },
     {
@@ -4770,7 +4770,7 @@ export const products = [
         originalPrice: "121.040",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6feSs49FBz",
     },
     {
@@ -4781,7 +4781,7 @@ export const products = [
         originalPrice: "2.517.667",
         commissionRate: "4%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7pqQGD4npE",
     },
     {
@@ -4792,7 +4792,7 @@ export const products = [
         originalPrice: "18.178",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7fX03u5RAD",
     },
     {
@@ -4803,7 +4803,7 @@ export const products = [
         originalPrice: "216.450",
         commissionRate: "4%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7VDZrb64VC",
     },
     {
@@ -4814,7 +4814,7 @@ export const products = [
         originalPrice: "116.590",
         commissionRate: "3%",
         sold: "1k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7Ku9fI6hqB",
     },
     {
@@ -4825,7 +4825,7 @@ export const products = [
         originalPrice: "47.730",
         commissionRate: "6%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3B4ahdMZIO",
     },
     {
@@ -4836,7 +4836,7 @@ export const products = [
         originalPrice: "250.600",
         commissionRate: "9%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/30lAVKNCdN",
     },
     {
@@ -4847,7 +4847,7 @@ export const products = [
         originalPrice: "135.890",
         commissionRate: "3%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2qRkJ1NpyM",
     },
     {
@@ -4858,7 +4858,7 @@ export const products = [
         originalPrice: "116.130",
         commissionRate: "6%",
         sold: "50k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2g8K6iOTJL",
     },
     {
@@ -4869,7 +4869,7 @@ export const products = [
         originalPrice: "84.770",
         commissionRate: "2%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3qKHUrK1wa",
     },
     {
@@ -4880,7 +4880,7 @@ export const products = [
         originalPrice: "93.840",
         commissionRate: "8%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3g0rIYKfHZ",
     },
     {
@@ -4891,7 +4891,7 @@ export const products = [
         originalPrice: "9.489",
         commissionRate: "3%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3VhR6FLIcY",
     },
     {
@@ -4902,7 +4902,7 @@ export const products = [
         originalPrice: "387.400",
         commissionRate: "6%",
         sold: "2k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/3LO0twLvxX",
     },
     {
@@ -4913,7 +4913,7 @@ export const products = [
         originalPrice: "560.430",
         commissionRate: "4%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4VZyI5HUam",
     },
     {
@@ -4924,7 +4924,7 @@ export const products = [
         originalPrice: "94.452",
         commissionRate: "7%",
         sold: "4k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4LGY5mI7vl",
     },
     {
@@ -4935,7 +4935,7 @@ export const products = [
         originalPrice: "11.546",
         commissionRate: "6%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4Ax7tTIlGk",
     },
     {
@@ -4946,7 +4946,7 @@ export const products = [
         originalPrice: "117.894",
         commissionRate: "2%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/40dhhAJObj",
     },
     {
@@ -4957,7 +4957,7 @@ export const products = [
         originalPrice: "316.020",
         commissionRate: "7%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5Apf5JExEy",
     },
     {
@@ -4968,7 +4968,7 @@ export const products = [
         originalPrice: "23.790",
         commissionRate: "5%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/50WEt0FaZx",
     },
     {
@@ -4979,7 +4979,7 @@ export const products = [
         originalPrice: "120.000",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4qCoghGDuw",
     },
     {
@@ -4990,7 +4990,7 @@ export const products = [
         originalPrice: "298.200",
         commissionRate: "850%",
         sold: "5k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4ftOUOGrFv",
     },
     {
@@ -5001,7 +5001,7 @@ export const products = [
         originalPrice: "558.600",
         commissionRate: "2%",
         sold: "2k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/W3pWjWii8",
     },
     {
@@ -5012,7 +5012,7 @@ export const products = [
         originalPrice: "38.280",
         commissionRate: "5%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/LkPKQXM37",
     },
     {
@@ -5023,7 +5023,7 @@ export const products = [
         originalPrice: "73.750",
         commissionRate: "5%",
         sold: "300k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/BQz87XzO6",
     },
     {
@@ -5034,7 +5034,7 @@ export const products = [
         originalPrice: "52.749",
         commissionRate: "7%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/17YvoYcj5",
     },
     {
@@ -5045,7 +5045,7 @@ export const products = [
         originalPrice: "50.000",
         commissionRate: "2%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1BJWJxUBMK",
     },
     {
@@ -5056,7 +5056,7 @@ export const products = [
         originalPrice: "14.504",
         commissionRate: "5%",
         sold: "800k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/11067eUohJ",
     },
     {
@@ -5067,7 +5067,7 @@ export const products = [
         originalPrice: "64.310",
         commissionRate: "450%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/qgfvLVS2I",
     },
     {
@@ -5078,7 +5078,7 @@ export const products = [
         originalPrice: "235.950",
         commissionRate: "32%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/gNFj2W5NH",
     },
     {
@@ -5089,7 +5089,7 @@ export const products = [
         originalPrice: "118.000",
         commissionRate: "2%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1qZD7BRe0W",
     },
     {
@@ -5100,7 +5100,7 @@ export const products = [
         originalPrice: "769.600",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/4Ax7tMzFrg",
     },
     {
@@ -5111,7 +5111,7 @@ export const products = [
         originalPrice: "30.000",
         commissionRate: "9%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1VwMiZSugU",
     },
     {
@@ -5122,7 +5122,7 @@ export const products = [
         originalPrice: "20.868",
         commissionRate: "9%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/1LcwWGTY1T",
     },
     {
@@ -5133,7 +5133,7 @@ export const products = [
         originalPrice: "11.250",
         commissionRate: "9%",
         sold: "40k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2VotuPP6ei",
     },
     {
@@ -5144,7 +5144,7 @@ export const products = [
         originalPrice: "523.230",
         commissionRate: "4%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2LVTi6Pjzh",
     },
     {
@@ -5155,7 +5155,7 @@ export const products = [
         originalPrice: "20.000",
         commissionRate: "7%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/2BC3VnQNKg",
     },
     {
@@ -5166,7 +5166,7 @@ export const products = [
         originalPrice: "80.000",
         commissionRate: "3%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/20sdJUR0ff",
     },
     {
@@ -5177,7 +5177,7 @@ export const products = [
         originalPrice: "13.900",
         commissionRate: "7%",
         sold: "9k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/809qSW4AUq",
     },
     {
@@ -5188,7 +5188,7 @@ export const products = [
         originalPrice: "246.440",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8ATGep3X9t",
     },
     {
@@ -5199,7 +5199,7 @@ export const products = [
         originalPrice: "18.738",
         commissionRate: "6%",
         sold: "400k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8Kmgr82tow",
     },
     {
@@ -5210,7 +5210,7 @@ export const products = [
         originalPrice: "215.032",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8V673R2GTz",
     },
     {
@@ -5221,7 +5221,7 @@ export const products = [
         originalPrice: "700.000",
         commissionRate: "2%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8fPXFk1d92",
     },
     {
@@ -5232,7 +5232,7 @@ export const products = [
         originalPrice: "12.960",
         commissionRate: "3%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/8pixS30zo5",
     },
     {
@@ -5243,7 +5243,7 @@ export const products = [
         originalPrice: "100.800",
         commissionRate: "4%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/902NeM0MT8",
     },
     {
@@ -5254,7 +5254,7 @@ export const products = [
         originalPrice: "84.180",
         commissionRate: "7%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9ALnqezj8B",
     },
     {
@@ -5265,7 +5265,7 @@ export const products = [
         originalPrice: "62.475",
         commissionRate: "4%",
         sold: "60k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9KfE2xz5nE",
     },
     {
@@ -5276,7 +5276,7 @@ export const products = [
         originalPrice: "16.999",
         commissionRate: "4%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9UyeFGySSH",
     },
     {
@@ -5287,7 +5287,7 @@ export const products = [
         originalPrice: "94.900",
         commissionRate: "7%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9fI4RZxp7K",
     },
     {
@@ -5298,7 +5298,7 @@ export const products = [
         originalPrice: "219.240",
         commissionRate: "6%",
         sold: "20k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9pbUdsxBmN",
     },
     {
@@ -5309,7 +5309,7 @@ export const products = [
         originalPrice: "372.000",
         commissionRate: "6%",
         sold: "3k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/9zuuqBwYRQ",
     },
     {
@@ -5320,7 +5320,7 @@ export const products = [
         originalPrice: "467.660",
         commissionRate: "8%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AAEL2Uvv6T",
     },
     {
@@ -5331,7 +5331,7 @@ export const products = [
         originalPrice: "459.520",
         commissionRate: "3%",
         sold: "1k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AKXlEnvHlW",
     },
     {
@@ -5342,7 +5342,7 @@ export const products = [
         originalPrice: "211.288",
         commissionRate: "8%",
         sold: "2k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/AUrBR6ueQZ",
     },
     {
@@ -5353,7 +5353,7 @@ export const products = [
         originalPrice: "1.300",
         commissionRate: "3%",
         sold: "",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5L95HcEJua",
     },
     {
@@ -5364,7 +5364,7 @@ export const products = [
         originalPrice: "236.610",
         commissionRate: "5%",
         sold: "100k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5VSVTvDgZd",
     },
     {
@@ -5375,7 +5375,7 @@ export const products = [
         originalPrice: "58.500",
         commissionRate: "14%",
         sold: "7k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5flvgED3Eg",
     },
     {
@@ -5386,7 +5386,7 @@ export const products = [
         originalPrice: "67.200",
         commissionRate: "7%",
         sold: "200k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/5q5LsXCPtj",
     },
     {
@@ -5397,7 +5397,7 @@ export const products = [
         originalPrice: "9.170",
         commissionRate: "3%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/60Om4qBmYm",
     },
     {
@@ -5408,7 +5408,7 @@ export const products = [
         originalPrice: "12.500",
         commissionRate: "4%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6AiCH9B9Dp",
     },
     {
@@ -5419,7 +5419,7 @@ export const products = [
         originalPrice: "30.000",
         commissionRate: "7%",
         sold: "5k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6L1cTSAVss",
     },
     {
@@ -5430,7 +5430,7 @@ export const products = [
         originalPrice: "17.100",
         commissionRate: "2%",
         sold: "661 lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6VL2fl9sXv",
     },
     {
@@ -5441,7 +5441,7 @@ export const products = [
         originalPrice: "89.700",
         commissionRate: "7%",
         sold: "30k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6feSs49FCy",
     },
     {
@@ -5452,7 +5452,7 @@ export const products = [
         originalPrice: "65.000",
         commissionRate: "7%",
         sold: "10k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/6pxt4N8bs1",
     },
     {
@@ -5463,7 +5463,7 @@ export const products = [
         originalPrice: "216.674",
         commissionRate: "4%",
         sold: "90k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/70HJGg7yX4",
     },
     {
@@ -5474,7 +5474,7 @@ export const products = [
         originalPrice: "9.600",
         commissionRate: "7%",
         sold: "2k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7AajSz7LC7",
     },
     {
@@ -5485,7 +5485,7 @@ export const products = [
         originalPrice: "88.401",
         commissionRate: "6%",
         sold: "1tr+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7Ku9fI6hrA",
     },
     {
@@ -5496,7 +5496,7 @@ export const products = [
         originalPrice: "194.180",
         commissionRate: "3%",
         sold: "70k+ lượt bán",
-        category: "bán chạy nhất",
+        category: "Bán chạy nhất",
         affiliateLink: "https://s.shopee.vn/7VDZrb64WD",
     },
 ];

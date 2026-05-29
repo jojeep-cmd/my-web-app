@@ -8,7 +8,7 @@ export const products = [
         commissionRate: "4%",
         sold: "944 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlH79kfR",
     },
     {
         id: "43666882566",
@@ -19,7 +19,7 @@ export const products = [
         commissionRate: "12%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBTQ97KU",
     },
     {
         id: "57352798733",
@@ -30,7 +30,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bfj8TzX",
     },
     {
         id: "53657416076",
@@ -41,7 +41,7 @@ export const products = [
         commissionRate: "12%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1s27qea",
     },
     {
         id: "20779975177",
@@ -52,7 +52,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS4L7DJd",
     },
     {
         id: "18136519708",
@@ -63,7 +63,7 @@ export const products = [
         commissionRate: "7%",
         sold: "9k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sGe6Zyg",
     },
     {
         id: "22571810610",
@@ -74,7 +74,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKISx5wdj",
     },
     {
         id: "21556413181",
@@ -85,7 +85,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxUMFSiG",
     },
     {
         id: "7797611960",
@@ -96,7 +96,7 @@ export const products = [
         commissionRate: "4%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNgfEpNJ",
     },
     {
         id: "19635970813",
@@ -107,7 +107,7 @@ export const products = [
         commissionRate: "9%",
         sold: "117 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnsyEC2M",
     },
     {
         id: "24027240565",
@@ -118,7 +118,7 @@ export const products = [
         commissionRate: "8%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE5HDYhP",
     },
     {
         id: "41558142732",
@@ -129,7 +129,7 @@ export const products = [
         commissionRate: "6%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seHaCvMS",
     },
     {
         id: "1699659828",
@@ -140,7 +140,7 @@ export const products = [
         commissionRate: "6%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4TtCI1V",
     },
     {
         id: "3160715681",
@@ -151,7 +151,7 @@ export const products = [
         commissionRate: "6%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUgCBegY",
     },
     {
         id: "22452569214",
@@ -162,7 +162,7 @@ export const products = [
         commissionRate: "2%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VousVB1Lb",
     },
     {
         id: "25265705976",
@@ -173,7 +173,7 @@ export const products = [
         commissionRate: "70%",
         sold: "7k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZtuKXQ8",
     },
     {
         id: "48552697657",
@@ -184,7 +184,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR06DJu5B",
     },
     {
         id: "29070183306",
@@ -195,7 +195,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQIWJGkE",
     },
     {
         id: "23075752054",
@@ -206,7 +206,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qUpIdPH",
     },
     {
         id: "24026453040",
@@ -217,7 +217,7 @@ export const products = [
         commissionRate: "12%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGh8I04K",
     },
     {
         id: "27643532159",
@@ -228,7 +228,7 @@ export const products = [
         commissionRate: "5%",
         sold: "580 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggtRHMjN",
     },
     {
         id: "17840967722",
@@ -239,7 +239,7 @@ export const products = [
         commissionRate: "8%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11075kGjOQ",
     },
     {
         id: "18116197181",
@@ -250,7 +250,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXI3G63T",
     },
     {
         id: "15157877078",
@@ -261,7 +261,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF13l0U4",
     },
     {
         id: "44469300417",
@@ -272,7 +272,7 @@ export const products = [
         commissionRate: "6%",
         sold: "831 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfDMkN97",
     },
     {
         id: "25466657986",
@@ -283,7 +283,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5PfjjoA",
     },
     {
         id: "18493309807",
@@ -294,7 +294,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVbyj6TD",
     },
     {
         id: "6617985340",
@@ -305,7 +305,7 @@ export const products = [
         commissionRate: "6%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvoHiT8G",
     },
     {
         id: "42621860170",
@@ -316,7 +316,7 @@ export const products = [
         commissionRate: "4%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM0ahpnJ",
     },
     {
         id: "21105845487",
@@ -327,7 +327,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmCthCSM",
     },
     {
         id: "4340904098",
@@ -338,7 +338,7 @@ export const products = [
         commissionRate: "4%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCPCgZ7P",
     },
     {
         id: "42563928741",
@@ -349,7 +349,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rQbq5Bw",
     },
     {
         id: "29876093473",
@@ -360,7 +360,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHcupRqz",
     },
     {
         id: "45851638241",
@@ -371,7 +371,7 @@ export const products = [
         commissionRate: "3%",
         sold: "214 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhpDooW2",
     },
     {
         id: "17554153654",
@@ -382,7 +382,7 @@ export const products = [
         commissionRate: "6%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V681WoBB5",
     },
     {
         id: "28411677313",
@@ -393,7 +393,7 @@ export const products = [
         commissionRate: "10%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYDpnXq8",
     },
     {
         id: "41269628908",
@@ -404,7 +404,7 @@ export const products = [
         commissionRate: "11%",
         sold: "721 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyQ8muVB",
     },
     {
         id: "27691961562",
@@ -415,7 +415,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OcRmHAE",
     },
     {
         id: "3917320333",
@@ -426,7 +426,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALookldpH",
     },
     {
         id: "28157060643",
@@ -437,7 +437,7 @@ export const products = [
         commissionRate: "9%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTq9v9to",
     },
     {
         id: "44175814725",
@@ -448,7 +448,7 @@ export const products = [
         commissionRate: "3%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu2SuWYr",
     },
     {
         id: "17438140505",
@@ -459,7 +459,7 @@ export const products = [
         commissionRate: "9%",
         sold: "817 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKElttDu",
     },
     {
         id: "18483407721",
@@ -470,7 +470,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakR4tFsx",
     },
     {
         id: "5482391573",
@@ -481,7 +481,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAdNscY0",
     },
     {
         id: "12213933132",
@@ -492,7 +492,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDapgrzD3",
     },
     {
         id: "4422312871",
@@ -503,7 +503,7 @@ export const products = [
         commissionRate: "7%",
         sold: "626 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX11zrLs6",
     },
     {
         id: "25382246698",
@@ -514,7 +514,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqREIqiX9",
     },
     {
         id: "42115291731",
@@ -525,7 +525,7 @@ export const products = [
         commissionRate: "8%",
         sold: "333 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96Fi0Ebg",
     },
     {
         id: "50356872343",
@@ -536,7 +536,7 @@ export const products = [
         commissionRate: "2%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWS0zbGj",
     },
     {
         id: "26973673711",
@@ -547,7 +547,7 @@ export const products = [
         commissionRate: "9%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flweJyxvm",
     },
     {
         id: "15512773469",
@@ -558,7 +558,7 @@ export const products = [
         commissionRate: "7%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MqcyKap",
     },
     {
         id: "10894535737",
@@ -569,7 +569,7 @@ export const products = [
         commissionRate: "6%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On2vxhFs",
     },
     {
         id: "7406201241",
@@ -580,7 +580,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDFEx3uv",
     },
     {
         id: "21640592811",
@@ -591,7 +591,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dRXwQZy",
     },
     {
         id: "23462632567",
@@ -602,7 +602,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3dqvnF1",
     },
     {
         id: "19228534060",
@@ -613,7 +613,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8rZ4fya",
     },
     {
         id: "40977903379",
@@ -624,7 +624,7 @@ export const products = [
         commissionRate: "7%",
         sold: "934 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40difG5JJZ",
     },
     {
         id: "43507199466",
@@ -635,7 +635,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "https://s.shopee.vn/9fI4RZxp7K",
+        affiliateLink: "https://s.shopee.vn/4VZzGB3PIg",
     },
     {
         id: "24375147773",
@@ -646,7 +646,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ3s42df",
     },
     {
         id: "23244392474",
@@ -657,7 +657,7 @@ export const products = [
         commissionRate: "12%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpen28cm",
     },
     {
         id: "1766631653",
@@ -668,7 +668,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPSU2lxl",
     },
     {
         id: "27533978542",
@@ -679,7 +679,7 @@ export const products = [
         commissionRate: "5%",
         sold: "7k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg3P0rws",
     },
     {
         id: "46052692512",
@@ -690,7 +690,7 @@ export const products = [
         commissionRate: "8%",
         sold: "929 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFr61VHr",
     },
     {
         id: "43614448636",
@@ -701,7 +701,7 @@ export const products = [
         commissionRate: "8%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlH79kgS",
     },
     {
         id: "6310629644",
@@ -712,7 +712,7 @@ export const products = [
         commissionRate: "10%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L4oAO1R",
     },
     {
         id: "27280650874",
@@ -723,7 +723,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bfj8U0Y",
     },
     {
         id: "4444750754",
@@ -734,7 +734,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBTQ97LX",
     },
     {
         id: "16891048512",
@@ -745,7 +745,7 @@ export const products = [
         commissionRate: "12%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS4L7DKe",
     },
     {
         id: "21139521781",
@@ -756,7 +756,7 @@ export const products = [
         commissionRate: "4%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1s27qfd",
     },
     {
         id: "27656348893",
@@ -767,7 +767,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKISx5wek",
     },
     {
         id: "29611921097",
@@ -778,7 +778,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sGe6Zzj",
     },
     {
         id: "23100684635",
@@ -789,7 +789,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNgfEpOK",
     },
     {
         id: "16197669350",
@@ -800,7 +800,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxUMFSjJ",
     },
     {
         id: "29501993999",
@@ -811,7 +811,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE5HDYiQ",
     },
     {
         id: "28033221490",
@@ -822,7 +822,7 @@ export const products = [
         commissionRate: "8%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnsyEC3P",
     },
     {
         id: "29282913711",
@@ -833,7 +833,7 @@ export const products = [
         commissionRate: "8%",
         sold: "473 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4TtCI2W",
     },
     {
         id: "27914369707",
@@ -844,7 +844,7 @@ export const products = [
         commissionRate: "4%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seHaCvNV",
     },
     {
         id: "15377943048",
@@ -855,7 +855,7 @@ export const products = [
         commissionRate: "9%",
         sold: "50k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VousVB1Mc",
     },
     {
         id: "29255669492",
@@ -866,7 +866,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUgCBehb",
     },
     {
         id: "3984625299",
@@ -877,7 +877,7 @@ export const products = [
         commissionRate: "9%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR06DJu6C",
     },
     {
         id: "24389484524",
@@ -888,7 +888,7 @@ export const products = [
         commissionRate: "6%",
         sold: "600k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZtuKXRB",
     },
     {
         id: "25752052642",
@@ -899,7 +899,7 @@ export const products = [
         commissionRate: "12%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qUpIdQI",
     },
     {
         id: "18913399333",
@@ -910,7 +910,7 @@ export const products = [
         commissionRate: "8%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQIWJGlH",
     },
     {
         id: "24485177434",
@@ -921,7 +921,7 @@ export const products = [
         commissionRate: "10%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggtRHMkO",
     },
     {
         id: "22452573755",
@@ -932,7 +932,7 @@ export const products = [
         commissionRate: "2%",
         sold: "7k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGh8I05N",
     },
     {
         id: "19616169570",
@@ -943,7 +943,7 @@ export const products = [
         commissionRate: "7%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXI3G64U",
     },
     {
         id: "27759512716",
@@ -954,7 +954,7 @@ export const products = [
         commissionRate: "5%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11075kGjPT",
     },
     {
         id: "23708641765",
@@ -965,7 +965,7 @@ export const products = [
         commissionRate: "6%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfDMkNA8",
     },
     {
         id: "26354753668",
@@ -976,7 +976,7 @@ export const products = [
         commissionRate: "4%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF13l0V7",
     },
     {
         id: "27105006413",
@@ -987,7 +987,7 @@ export const products = [
         commissionRate: "9%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVbyj6UE",
     },
     {
         id: "25009818290",
@@ -998,7 +998,7 @@ export const products = [
         commissionRate: "6%",
         sold: "50k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5PfjjpD",
     },
     {
         id: "27458177596",
@@ -1009,7 +1009,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM0ahpoK",
     },
     {
         id: "1154540546",
@@ -1020,7 +1020,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvoHiT9J",
     },
     {
         id: "7417467318",
@@ -1031,7 +1031,7 @@ export const products = [
         commissionRate: "4%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCPCgZ8Q",
     },
     {
         id: "2591017539",
@@ -1042,7 +1042,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmCthCTP",
     },
     {
         id: "25060476639",
@@ -1053,7 +1053,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHcupRs0",
     },
     {
         id: "42769326036",
@@ -1064,7 +1064,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rQbq5Cz",
     },
     {
         id: "22267387568",
@@ -1075,7 +1075,7 @@ export const products = [
         commissionRate: "19%",
         sold: "132 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V681WoBC6",
     },
     {
         id: "15972249888",
@@ -1086,7 +1086,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhpDooX5",
     },
     {
         id: "41328158655",
@@ -1097,7 +1097,7 @@ export const products = [
         commissionRate: "11%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyQ8muWC",
     },
     {
         id: "28372584676",
@@ -1108,7 +1108,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHcxjlfP",
     },
     {
         id: "12686420647",
@@ -1119,7 +1119,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OcUgaya",
     },
     {
         id: "7396375835",
@@ -1130,7 +1130,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALoonfxdd",
     },
     {
         id: "54353804212",
@@ -1141,7 +1141,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYDshreY",
     },
     {
         id: "27200939253",
@@ -1152,7 +1152,7 @@ export const products = [
         commissionRate: "7%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyQBhEJb",
     },
     {
         id: "29550030387",
@@ -1163,7 +1163,7 @@ export const products = [
         commissionRate: "14%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKEooD2G",
     },
     {
         id: "11220300260",
@@ -1174,7 +1174,7 @@ export const products = [
         commissionRate: "7%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakR7nZhJ",
     },
     {
         id: "26719709140",
@@ -1185,7 +1185,7 @@ export const products = [
         commissionRate: "12%",
         sold: "895 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTqCpTiE",
     },
     {
         id: "5544877862",
@@ -1196,7 +1196,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu2VoqNH",
     },
     {
         id: "24115182664",
@@ -1207,7 +1207,7 @@ export const products = [
         commissionRate: "5%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX122lfgS",
     },
     {
         id: "29960969364",
@@ -1218,7 +1218,7 @@ export const products = [
         commissionRate: "5%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRELl2LV",
     },
     {
         id: "14309446161",
@@ -1229,7 +1229,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAdQmwMQ",
     },
     {
         id: "22755160844",
@@ -1240,7 +1240,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDapjmJ1T",
     },
     {
         id: "13945243520",
@@ -1251,7 +1251,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flweMtHk8",
     },
     {
         id: "22103501228",
@@ -1262,7 +1262,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MqfsePB",
     },
     {
         id: "26430947148",
@@ -1273,7 +1273,7 @@ export const products = [
         commissionRate: "12%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96FkuYQ6",
     },
     {
         id: "28500938755",
@@ -1284,7 +1284,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWS3tv59",
     },
     {
         id: "41905756852",
@@ -1295,7 +1295,7 @@ export const products = [
         commissionRate: "9%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dRaqkOK",
     },
     {
         id: "29933371592",
@@ -1306,7 +1306,7 @@ export const products = [
         commissionRate: "4%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3dtq73N",
     },
     {
         id: "25442910866",
@@ -1317,7 +1317,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On2ys14I",
     },
     {
         id: "15596472434",
@@ -1328,7 +1328,7 @@ export const products = [
         commissionRate: "7%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDFHrNjL",
     },
     {
         id: "4139583975",
@@ -1339,7 +1339,7 @@ export const products = [
         commissionRate: "7%",
         sold: "300k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ3uyMS0",
     },
     {
         id: "20892480694",
@@ -1350,7 +1350,7 @@ export const products = [
         commissionRate: "4%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzGDxj73",
     },
     {
         id: "23870225436",
@@ -1361,7 +1361,7 @@ export const products = [
         commissionRate: "9%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40difIzd7y",
     },
     {
         id: "15687332030",
@@ -1372,7 +1372,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8rbyzn1",
     },
     {
         id: "6034618278",
@@ -1383,7 +1383,7 @@ export const products = [
         commissionRate: "6%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFr8vp6C",
     },
     {
         id: "23856319773",
@@ -1394,7 +1394,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg3RvBlF",
     },
     {
         id: "25420035796",
@@ -1405,7 +1405,7 @@ export const products = [
         commissionRate: "29%",
         sold: "351 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPSWx5mA",
     },
     {
         id: "41263688816",
@@ -1416,7 +1416,7 @@ export const products = [
         commissionRate: "6%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpepwSRD",
     },
     {
         id: "52006671005",
@@ -1427,7 +1427,7 @@ export const products = [
         commissionRate: "8%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBTT3R9s",
     },
     {
         id: "22713197207",
@@ -1438,7 +1438,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bfm2nov",
     },
     {
         id: "27216214190",
@@ -1449,7 +1449,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L4r4hpq",
     },
     {
         id: "3456070076",
@@ -1460,7 +1460,7 @@ export const products = [
         commissionRate: "7%",
         sold: "9k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlHA44Ut",
     },
     {
         id: "19288005536",
@@ -1471,7 +1471,7 @@ export const products = [
         commissionRate: "4%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sGh0to4",
     },
     {
         id: "4938329028",
@@ -1482,7 +1482,7 @@ export const products = [
         commissionRate: "3%",
         sold: "400k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIT00GT7",
     },
     {
         id: "27900109533",
@@ -1493,7 +1493,7 @@ export const products = [
         commissionRate: "12%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1s52AU2",
     },
     {
         id: "16789350373",
@@ -1504,7 +1504,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS4O1X95",
     },
     {
         id: "23287390286",
@@ -1515,7 +1515,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnt18Vrk",
     },
     {
         id: "29155584263",
@@ -1526,7 +1526,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE5K7sWn",
     },
     {
         id: "23571503974",
@@ -1537,7 +1537,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxUP9mXi",
     },
     {
         id: "19718340501",
@@ -1548,7 +1548,7 @@ export const products = [
         commissionRate: "7%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNgi99Cl",
     },
     {
         id: "28163491041",
@@ -1559,7 +1559,7 @@ export const products = [
         commissionRate: "6%",
         sold: "9k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUgF5yVw",
     },
     {
         id: "24093715534",
@@ -1570,7 +1570,7 @@ export const products = [
         commissionRate: "4%",
         sold: "800k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VousY5LAz",
     },
     {
         id: "26261899016",
@@ -1581,7 +1581,7 @@ export const products = [
         commissionRate: "4%",
         sold: "7k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seHd7FBu",
     },
     {
         id: "6838217078",
@@ -1592,7 +1592,7 @@ export const products = [
         commissionRate: "9%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4Tw6bqx",
     },
     {
         id: "15418320059",
@@ -1603,7 +1603,7 @@ export const products = [
         commissionRate: "8%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQIZDaZc",
     },
     {
         id: "6389141907",
@@ -1614,7 +1614,7 @@ export const products = [
         commissionRate: "3%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qUsCxEf",
     },
     {
         id: "29806291972",
@@ -1625,7 +1625,7 @@ export const products = [
         commissionRate: "12%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZtxErFa",
     },
     {
         id: "26192645117",
@@ -1636,7 +1636,7 @@ export const products = [
         commissionRate: "7%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR06GEDud",
     },
     {
         id: "20141375455",
@@ -1647,7 +1647,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11075nB3Do",
     },
     {
         id: "2215510614",
@@ -1658,7 +1658,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXI6APsr",
     },
     {
         id: "28311915473",
@@ -1669,7 +1669,7 @@ export const products = [
         commissionRate: "6%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGhBCJtm",
     },
     {
         id: "46451065061",
@@ -1680,7 +1680,7 @@ export const products = [
         commissionRate: "7%",
         sold: "547 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggtUBgYp",
     },
     {
         id: "5232928902",
@@ -1691,7 +1691,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVc1dQIa",
     },
     {
         id: "28330305363",
@@ -1702,7 +1702,7 @@ export const products = [
         commissionRate: "9%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5Pie3dZ",
     },
     {
         id: "285286646",
@@ -1713,7 +1713,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfDPegyY",
     },
     {
         id: "22640603175",
@@ -1724,7 +1724,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF16fKJX",
     },
     {
         id: "4919536795",
@@ -1735,7 +1735,7 @@ export const products = [
         commissionRate: "11%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCPFaswm",
     },
     {
         id: "8817329559",
@@ -1746,7 +1746,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmCwbWHl",
     },
     {
         id: "25522551231",
@@ -1757,7 +1757,7 @@ export const products = [
         commissionRate: "12%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM0dc9ck",
     },
     {
         id: "43210058889",
@@ -1768,7 +1768,7 @@ export const products = [
         commissionRate: "8%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvoKcmxj",
     },
     {
         id: "8260171611",
@@ -1779,7 +1779,7 @@ export const products = [
         commissionRate: "9%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V681ZiV0S",
     },
     {
         id: "23383447378",
@@ -1790,7 +1790,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhpGj8LR",
     },
     {
         id: "44652639655",
@@ -1801,7 +1801,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHcxjlgQ",
     },
     {
         id: "8725946576",
@@ -1812,7 +1812,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rQekP1P",
     },
     {
         id: "3258501967",
@@ -1823,7 +1823,7 @@ export const products = [
         commissionRate: "38%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALoonfxee",
     },
     {
         id: "5242697754",
@@ -1834,7 +1834,7 @@ export const products = [
         commissionRate: "2%",
         sold: "50k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OcUgazd",
     },
     {
         id: "29606486389",
@@ -1845,7 +1845,7 @@ export const products = [
         commissionRate: "12%",
         sold: "611 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyQBhEKc",
     },
     {
         id: "14815987506",
@@ -1856,7 +1856,7 @@ export const products = [
         commissionRate: "3%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYDshrfb",
     },
     {
         id: "12922194797",
@@ -1867,7 +1867,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakR7nZiK",
     },
     {
         id: "7439723931",
@@ -1878,7 +1878,7 @@ export const products = [
         commissionRate: "7%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKEooD3J",
     },
     {
         id: "21764304165",
@@ -1889,7 +1889,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu2VoqOI",
     },
     {
         id: "28619346082",
@@ -1900,7 +1900,7 @@ export const products = [
         commissionRate: "9%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTqCpTjH",
     },
     {
         id: "20385683383",
@@ -1911,7 +1911,7 @@ export const products = [
         commissionRate: "7%",
         sold: "747 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRELl2MW",
     },
     {
         id: "24014960931",
@@ -1922,7 +1922,7 @@ export const products = [
         commissionRate: "5%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX122lfhV",
     },
     {
         id: "25626200046",
@@ -1933,7 +1933,7 @@ export const products = [
         commissionRate: "12%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDapjmJ2U",
     },
     {
         id: "25838963987",
@@ -1944,7 +1944,7 @@ export const products = [
         commissionRate: "9%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAdQmwNT",
     },
     {
         id: "17645113419",
@@ -1955,7 +1955,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MqfseQC",
     },
     {
         id: "22825339169",
@@ -1966,7 +1966,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flweMtHlB",
     },
     {
         id: "29408402448",
@@ -1977,7 +1977,7 @@ export const products = [
         commissionRate: "3%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWS3tv6A",
     },
     {
         id: "18133407025",
@@ -1988,7 +1988,7 @@ export const products = [
         commissionRate: "3%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96FkuYR9",
     },
     {
         id: "26916068255",
@@ -1999,7 +1999,7 @@ export const products = [
         commissionRate: "6%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3dtq74O",
     },
     {
         id: "20381603918",
@@ -2010,7 +2010,7 @@ export const products = [
         commissionRate: "3%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dRaqkPN",
     },
     {
         id: "4957433278",
@@ -2021,7 +2021,7 @@ export const products = [
         commissionRate: "10%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDFHrNkM",
     },
     {
         id: "29918897624",
@@ -2032,7 +2032,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On2ys15L",
     },
     {
         id: "20804441614",
@@ -2043,7 +2043,7 @@ export const products = [
         commissionRate: "5%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzGDxj84",
     },
     {
         id: "29304937355",
@@ -2054,7 +2054,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ3uyMT3",
     },
     {
         id: "22370064038",
@@ -2065,7 +2065,7 @@ export const products = [
         commissionRate: "12%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8rbyzo2",
     },
     {
         id: "24639773373",
@@ -2076,7 +2076,7 @@ export const products = [
         commissionRate: "4%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40difIzd91",
     },
     {
         id: "23934767312",
@@ -2087,7 +2087,7 @@ export const products = [
         commissionRate: "10%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg3RvBmG",
     },
     {
         id: "20680902144",
@@ -2098,7 +2098,7 @@ export const products = [
         commissionRate: "4%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFr8vp7F",
     },
     {
         id: "26111918171",
@@ -2109,7 +2109,7 @@ export const products = [
         commissionRate: "6%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpepwSSE",
     },
     {
         id: "19644325296",
@@ -2120,7 +2120,7 @@ export const products = [
         commissionRate: "3%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPSWx5nD",
     },
     {
         id: "23871806065",
@@ -2131,7 +2131,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bfm2npw",
     },
     {
         id: "26606316434",
@@ -2142,7 +2142,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBTT3RAv",
     },
     {
         id: "25619560714",
@@ -2153,7 +2153,7 @@ export const products = [
         commissionRate: "4%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlHA44Vu",
     },
     {
         id: "23584318844",
@@ -2164,7 +2164,7 @@ export const products = [
         commissionRate: "2%",
         sold: "400k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L4r4hqt",
     },
     {
         id: "17129648575",
@@ -2175,7 +2175,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIT00GU8",
     },
     {
         id: "11760005120",
@@ -2186,7 +2186,7 @@ export const products = [
         commissionRate: "8%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sGh0tp7",
     },
     {
         id: "43271885513",
@@ -2197,7 +2197,7 @@ export const products = [
         commissionRate: "9%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "https://s.shopee.vn/30lAVKNCdN",
+        affiliateLink: "https://s.shopee.vn/3VhS4O1XA6",
     },
     {
         id: "20027715887",
@@ -2208,7 +2208,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggtWkcoT",
     },
     {
         id: "22384953722",
@@ -2219,7 +2219,7 @@ export const products = [
         commissionRate: "12%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11075pjzTW",
     },
     {
         id: "28550441928",
@@ -2230,7 +2230,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXI8jM8Z",
     },
     {
         id: "29562647187",
@@ -2241,7 +2241,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZtznnVM",
     },
     {
         id: "10796877188",
@@ -2252,7 +2252,7 @@ export const products = [
         commissionRate: "3%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR06InAAP",
     },
     {
         id: "3381707834",
@@ -2263,7 +2263,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQIbmWpS",
     },
     {
         id: "25724214473",
@@ -2274,7 +2274,7 @@ export const products = [
         commissionRate: "2%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qUultUV",
     },
     {
         id: "29114454454",
@@ -2285,7 +2285,7 @@ export const products = [
         commissionRate: "4%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seHfgBRo",
     },
     {
         id: "57201775762",
@@ -2296,7 +2296,7 @@ export const products = [
         commissionRate: "8%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4TyfY6r",
     },
     {
         id: "24851548069",
@@ -2307,7 +2307,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUgHeulu",
     },
     {
         id: "24434261529",
@@ -2318,7 +2318,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VousaeHQx",
     },
     {
         id: "20089537521",
@@ -2329,7 +2329,7 @@ export const products = [
         commissionRate: "9%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxURiink",
     },
     {
         id: "11074180896",
@@ -2340,7 +2340,7 @@ export const products = [
         commissionRate: "12%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNgki5Sn",
     },
     {
         id: "5007003192",
@@ -2351,7 +2351,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnt3hS7q",
     },
     {
         id: "24845591739",
@@ -2362,7 +2362,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE5Mgomt",
     },
     {
         id: "17097683186",
@@ -2373,7 +2373,7 @@ export const products = [
         commissionRate: "12%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1s7b6kC",
     },
     {
         id: "28468191322",
@@ -2384,7 +2384,7 @@ export const products = [
         commissionRate: "8%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS4QaTPF",
     },
     {
         id: "24281658609",
@@ -2395,7 +2395,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1tr+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sGjZq4I",
     },
     {
         id: "10742169268",
@@ -2406,7 +2406,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIT2ZCjL",
     },
     {
         id: "29782092326",
@@ -2417,7 +2417,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L4tde68",
     },
     {
         id: "7646908703",
@@ -2428,7 +2428,7 @@ export const products = [
         commissionRate: "5%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlHCd0lB",
     },
     {
         id: "29651225302",
@@ -2439,7 +2439,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBTVcNQE",
     },
     {
         id: "18984922479",
@@ -2450,7 +2450,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bfobk5H",
     },
     {
         id: "22966265702",
@@ -2461,7 +2461,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPSZW22a",
     },
     {
         id: "6474045558",
@@ -2472,7 +2472,7 @@ export const products = [
         commissionRate: "6%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpesVOhd",
     },
     {
         id: "27262783020",
@@ -2483,7 +2483,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFrBUlMg",
     },
     {
         id: "2110837443",
@@ -2494,7 +2494,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg3UU81j",
     },
     {
         id: "24519572314",
@@ -2505,7 +2505,7 @@ export const products = [
         commissionRate: "4%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40difLYZOW",
     },
     {
         id: "9030471225",
@@ -2516,7 +2516,7 @@ export const products = [
         commissionRate: "2%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8reXw3Z",
     },
     {
         id: "18528715107",
@@ -2527,7 +2527,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ3xXIic",
     },
     {
         id: "22483684881",
@@ -2538,7 +2538,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzGGWfNf",
     },
     {
         id: "21683265298",
@@ -2549,7 +2549,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On31QxKy",
     },
     {
         id: "23089070355",
@@ -2560,7 +2560,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDFKQK01",
     },
     {
         id: "43422996764",
@@ -2571,7 +2571,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dRdPgf4",
     },
     {
         id: "5194527805",
@@ -2582,7 +2582,7 @@ export const products = [
         commissionRate: "3%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3dwP3K7",
     },
     {
         id: "41450900202",
@@ -2593,7 +2593,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96FnTUgu",
     },
     {
         id: "40669676989",
@@ -2604,7 +2604,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWS6SrLx",
     },
     {
         id: "24961941888",
@@ -2615,7 +2615,7 @@ export const products = [
         commissionRate: "9%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flwePSE10",
     },
     {
         id: "19109792133",
@@ -2626,7 +2626,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MqiRag3",
     },
     {
         id: "4307490678",
@@ -2637,7 +2637,7 @@ export const products = [
         commissionRate: "7%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAdTLsdM",
     },
     {
         id: "15661233020",
@@ -2648,7 +2648,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDapmLFIP",
     },
     {
         id: "24968950102",
@@ -2659,7 +2659,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX125KbxS",
     },
     {
         id: "20129949585",
@@ -2670,7 +2670,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqREOJycV",
     },
     {
         id: "23469946201",
@@ -2681,7 +2681,7 @@ export const products = [
         commissionRate: "12%",
         sold: "925 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTqFOPzI",
     },
     {
         id: "2286263611",
@@ -2692,7 +2692,7 @@ export const products = [
         commissionRate: "8%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu2YNmeL",
     },
     {
         id: "18895512574",
@@ -2703,7 +2703,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKErN9JO",
     },
     {
         id: "7683140564",
@@ -2714,7 +2714,7 @@ export const products = [
         commissionRate: "6%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakRAMVyR",
     },
     {
         id: "22189046305",
@@ -2725,7 +2725,7 @@ export const products = [
         commissionRate: "12%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYDvGnvk",
     },
     {
         id: "40203368504",
@@ -2736,7 +2736,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyQEGAan",
     },
     {
         id: "54154426317",
@@ -2747,7 +2747,7 @@ export const products = [
         commissionRate: "12%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OcXFXFq",
     },
     {
         id: "10079004677",
@@ -2758,7 +2758,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALooqEtut",
     },
     {
         id: "26855549463",
@@ -2769,7 +2769,7 @@ export const products = [
         commissionRate: "6%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rQhJLHg",
     },
     {
         id: "24825599990",
@@ -2780,7 +2780,7 @@ export const products = [
         commissionRate: "2%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHd0Ihwj",
     },
     {
         id: "49006136061",
@@ -2791,7 +2791,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhpJI4bm",
     },
     {
         id: "16991393799",
@@ -2802,7 +2802,7 @@ export const products = [
         commissionRate: "7%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V681cHRGp",
     },
     {
         id: "26009951099",
@@ -2813,7 +2813,7 @@ export const products = [
         commissionRate: "10%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvoNBjE8",
     },
     {
         id: "46053965792",
@@ -2824,7 +2824,7 @@ export const products = [
         commissionRate: "9%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM0gB5tB",
     },
     {
         id: "41914710357",
@@ -2835,7 +2835,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmCzASYE",
     },
     {
         id: "19888021477",
@@ -2846,7 +2846,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCPI9pDH",
     },
     {
         id: "27658618522",
@@ -2857,7 +2857,7 @@ export const products = [
         commissionRate: "12%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF19EGa4",
     },
     {
         id: "52400239292",
@@ -2868,7 +2868,7 @@ export const products = [
         commissionRate: "6%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfDSDdF7",
     },
     {
         id: "11459589882",
@@ -2879,7 +2879,7 @@ export const products = [
         commissionRate: "8%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5PlCzuA",
     },
     {
         id: "5288788034",
@@ -2890,7 +2890,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVc4CMZD",
     },
     {
         id: "29527362305",
@@ -2901,7 +2901,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggtWkcpU",
     },
     {
         id: "7663758942",
@@ -2912,7 +2912,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGhDlGAT",
     },
     {
         id: "22248341413",
@@ -2923,7 +2923,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXI8jM9a",
     },
     {
         id: "8763254682",
@@ -2934,7 +2934,7 @@ export const products = [
         commissionRate: "2%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11075pjzUZ",
     },
     {
         id: "9797985772",
@@ -2945,7 +2945,7 @@ export const products = [
         commissionRate: "2%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR06InABQ",
     },
     {
         id: "10360689619",
@@ -2956,7 +2956,7 @@ export const products = [
         commissionRate: "8%",
         sold: "9k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17ZtznnWP",
     },
     {
         id: "42670675259",
@@ -2967,7 +2967,7 @@ export const products = [
         commissionRate: "5%",
         sold: "9k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qUultVW",
     },
     {
         id: "23151197869",
@@ -2978,7 +2978,7 @@ export const products = [
         commissionRate: "4%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQIbmWqV",
     },
     {
         id: "18528912313",
@@ -2989,7 +2989,7 @@ export const products = [
         commissionRate: "9%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4TyfY7s",
     },
     {
         id: "24474223901",
@@ -3000,7 +3000,7 @@ export const products = [
         commissionRate: "2%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seHfgBSr",
     },
     {
         id: "3921882827",
@@ -3011,7 +3011,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VousaeHRy",
     },
     {
         id: "23074771589",
@@ -3022,7 +3022,7 @@ export const products = [
         commissionRate: "7%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUgHeumx",
     },
     {
         id: "15520490377",
@@ -3033,7 +3033,7 @@ export const products = [
         commissionRate: "6%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNgki5To",
     },
     {
         id: "4848857177",
@@ -3044,7 +3044,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxURiion",
     },
     {
         id: "45251796023",
@@ -3055,7 +3055,7 @@ export const products = [
         commissionRate: "8%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE5Mgonu",
     },
     {
         id: "41478621880",
@@ -3066,7 +3066,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnt3hS8t",
     },
     {
         id: "14313555661",
@@ -3077,7 +3077,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS4QaTQG",
     },
     {
         id: "16607169906",
@@ -3088,7 +3088,7 @@ export const products = [
         commissionRate: "12%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1s7b6lF",
     },
     {
         id: "18180544240",
@@ -3099,7 +3099,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIT2ZCkM",
     },
     {
         id: "3883498780",
@@ -3110,7 +3110,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sGjZq5L",
     },
     {
         id: "10576689000",
@@ -3121,7 +3121,7 @@ export const products = [
         commissionRate: "8%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlHCd0mC",
     },
     {
         id: "9784757197",
@@ -3132,7 +3132,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L4tde7B",
     },
     {
         id: "28754937558",
@@ -3143,7 +3143,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bfobk6I",
     },
     {
         id: "21188925492",
@@ -3154,7 +3154,7 @@ export const products = [
         commissionRate: "3%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBTVcNRH",
     },
     {
         id: "28414701988",
@@ -3165,7 +3165,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpesVOie",
     },
     {
         id: "11455564961",
@@ -3176,7 +3176,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPSZW23d",
     },
     {
         id: "42976592880",
@@ -3187,7 +3187,7 @@ export const products = [
         commissionRate: "8%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg3UU82k",
     },
     {
         id: "12092264923",
@@ -3198,7 +3198,7 @@ export const products = [
         commissionRate: "4%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFrBUlNj",
     },
     {
         id: "26308613401",
@@ -3209,7 +3209,7 @@ export const products = [
         commissionRate: "12%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8reXw4a",
     },
     {
         id: "42578115125",
@@ -3220,7 +3220,7 @@ export const products = [
         commissionRate: "4%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40difLYZPZ",
     },
     {
         id: "47152068311",
@@ -3231,7 +3231,7 @@ export const products = [
         commissionRate: "8%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzGGWfOg",
     },
     {
         id: "23304242866",
@@ -3242,7 +3242,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ3xXIjf",
     },
     {
         id: "7988383802",
@@ -3253,7 +3253,7 @@ export const products = [
         commissionRate: "9%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDFKQK12",
     },
     {
         id: "22445221185",
@@ -3264,7 +3264,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On31QxM1",
     },
     {
         id: "5278589476",
@@ -3275,7 +3275,7 @@ export const products = [
         commissionRate: "7%",
         sold: "1tr+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "https://s.shopee.vn/9KfE2xz5mF",
+        affiliateLink: "https://s.shopee.vn/6VL3dwP3L8",
     },
     {
         id: "6957104681",
@@ -3286,7 +3286,7 @@ export const products = [
         commissionRate: "7%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dRdPgg7",
     },
     {
         id: "25635086846",
@@ -3297,7 +3297,7 @@ export const products = [
         commissionRate: "12%",
         sold: "618 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWS6SrMy",
     },
     {
         id: "16156474053",
@@ -3308,7 +3308,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALoosER8f",
     },
     {
         id: "26209123624",
@@ -3319,7 +3319,7 @@ export const products = [
         commissionRate: "6%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYDxGL9a",
     },
     {
         id: "24362049317",
@@ -3330,7 +3330,7 @@ export const products = [
         commissionRate: "3%",
         sold: "600k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyQGFhod",
     },
     {
         id: "9751537589",
@@ -3341,7 +3341,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5PnCX7o",
     },
     {
         id: "20801834536",
@@ -3352,7 +3352,7 @@ export const products = [
         commissionRate: "9%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVc6Btmr",
     },
     {
         id: "24553805975",
@@ -3363,7 +3363,7 @@ export const products = [
         commissionRate: "3%",
         sold: "1tr+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF1BDnnm",
     },
     {
         id: "44359370134",
@@ -3374,7 +3374,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfDUDASp",
     },
     {
         id: "13953540627",
@@ -3385,7 +3385,7 @@ export const products = [
         commissionRate: "8%",
         sold: "300k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmD19zm0",
     },
     {
         id: "19596471989",
@@ -3396,7 +3396,7 @@ export const products = [
         commissionRate: "2%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCPK9MR3",
     },
     {
         id: "51502988032",
@@ -3407,7 +3407,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvoPBGRy",
     },
     {
         id: "13981928803",
@@ -3418,7 +3418,7 @@ export const products = [
         commissionRate: "5%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM0iAd71",
     },
     {
         id: "28270146431",
@@ -3429,7 +3429,7 @@ export const products = [
         commissionRate: "9%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qUwlQjA",
     },
     {
         id: "24319521767",
@@ -3440,7 +3440,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQIdm449",
     },
     {
         id: "25682960381",
@@ -3451,7 +3451,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR06KmhP8",
     },
     {
         id: "3431533581",
@@ -3462,7 +3462,7 @@ export const products = [
         commissionRate: "6%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zu1nKk7",
     },
     {
         id: "21123026036",
@@ -3473,7 +3473,7 @@ export const products = [
         commissionRate: "13%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXIAitNM",
     },
     {
         id: "22348582994",
@@ -3484,7 +3484,7 @@ export const products = [
         commissionRate: "6%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11075rjWiL",
     },
     {
         id: "48601779364",
@@ -3495,7 +3495,7 @@ export const products = [
         commissionRate: "8%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggtYkA3K",
     },
     {
         id: "27126885181",
@@ -3506,7 +3506,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGhFknOJ",
     },
     {
         id: "42914069944",
@@ -3517,7 +3517,7 @@ export const products = [
         commissionRate: "8%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE5OgM1Y",
     },
     {
         id: "25418089717",
@@ -3528,7 +3528,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnt5gzMX",
     },
     {
         id: "7559544466",
@@ -3539,7 +3539,7 @@ export const products = [
         commissionRate: "3%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNgmhchW",
     },
     {
         id: "22481388764",
@@ -3550,7 +3550,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxUTiG2V",
     },
     {
         id: "23980964671",
@@ -3561,7 +3561,7 @@ export const products = [
         commissionRate: "9%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2Vouscdofk",
     },
     {
         id: "9946363209",
@@ -3572,7 +3572,7 @@ export const products = [
         commissionRate: "5%",
         sold: "400k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUgJeS0j",
     },
     {
         id: "8652012874",
@@ -3583,7 +3583,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4U0f5Li",
     },
     {
         id: "18953008000",
@@ -3594,7 +3594,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seHhfigh",
     },
     {
         id: "24152487243",
@@ -3605,7 +3605,7 @@ export const products = [
         commissionRate: "9%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bfqbHJw",
     },
     {
         id: "24419571612",
@@ -3616,7 +3616,7 @@ export const products = [
         commissionRate: "4%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBTXbuev",
     },
     {
         id: "4178590102",
@@ -3627,7 +3627,7 @@ export const products = [
         commissionRate: "7%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2qRlHEcXzu",
     },
     {
         id: "7417073658",
@@ -3638,7 +3638,7 @@ export const products = [
         commissionRate: "4%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L4vdBKt",
     },
     {
         id: "29965458361",
@@ -3649,7 +3649,7 @@ export const products = [
         commissionRate: "4%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIT4Yjy8",
     },
     {
         id: "5489485327",
@@ -3660,7 +3660,7 @@ export const products = [
         commissionRate: "8%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sGlZNJ7",
     },
     {
         id: "27367961195",
@@ -3671,7 +3671,7 @@ export const products = [
         commissionRate: "6%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS4Sa0e6",
     },
     {
         id: "5837439631",
@@ -3682,7 +3682,7 @@ export const products = [
         commissionRate: "3%",
         sold: "300k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1s9adz5",
     },
     {
         id: "10702658353",
@@ -3693,7 +3693,7 @@ export const products = [
         commissionRate: "7%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzGIWCcK",
     },
     {
         id: "24956684309",
@@ -3704,7 +3704,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ3zWpxJ",
     },
     {
         id: "21093296050",
@@ -3715,7 +3715,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8rgXTII",
     },
     {
         id: "24204793110",
@@ -3726,7 +3726,7 @@ export const products = [
         commissionRate: "3%",
         sold: "3tr+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40difNY6dH",
     },
     {
         id: "14081802719",
@@ -3737,7 +3737,7 @@ export const products = [
         commissionRate: "2%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg3WTfGW",
     },
     {
         id: "24435166930",
@@ -3748,7 +3748,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFrDUIbV",
     },
     {
         id: "9985524538",
@@ -3759,7 +3759,7 @@ export const products = [
         commissionRate: "7%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpeuUvwU",
     },
     {
         id: "16217512695",
@@ -3770,7 +3770,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPSbVZHT",
     },
     {
         id: "15461900941",
@@ -3781,7 +3781,7 @@ export const products = [
         commissionRate: "8%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5MqkR7ui",
     },
     {
         id: "4019032894",
@@ -3792,7 +3792,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5flweRRlFh",
     },
     {
         id: "11272070717",
@@ -3803,7 +3803,7 @@ export const products = [
         commissionRate: "8%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWS8SOag",
     },
     {
         id: "25256402748",
@@ -3814,7 +3814,7 @@ export const products = [
         commissionRate: "2%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96FpT1vf",
     },
     {
         id: "19263454859",
@@ -3825,7 +3825,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3dyOaYu",
     },
     {
         id: "7621784179",
@@ -3836,7 +3836,7 @@ export const products = [
         commissionRate: "9%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dRfPDtt",
     },
     {
         id: "28671185848",
@@ -3847,7 +3847,7 @@ export const products = [
         commissionRate: "6%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDFMPrEs",
     },
     {
         id: "3029801745",
@@ -3858,7 +3858,7 @@ export const products = [
         commissionRate: "11%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On33QUZr",
     },
     {
         id: "24379903983",
@@ -3869,7 +3869,7 @@ export const products = [
         commissionRate: "6%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakRCM3D6",
     },
     {
         id: "46358301103",
@@ -3880,7 +3880,7 @@ export const products = [
         commissionRate: "5%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKEtMgY5",
     },
     {
         id: "5338125492",
@@ -3891,7 +3891,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu2aNJt4",
     },
     {
         id: "29729739520",
@@ -3902,7 +3902,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTqHNxE3",
     },
     {
         id: "9353924132",
@@ -3913,7 +3913,7 @@ export const products = [
         commissionRate: "9%",
         sold: "400k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqREQJVrI",
     },
     {
         id: "16524849081",
@@ -3924,7 +3924,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX127K9CH",
     },
     {
         id: "49852677607",
@@ -3935,7 +3935,7 @@ export const products = [
         commissionRate: "7%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDapoKmXG",
     },
     {
         id: "22752512653",
@@ -3946,7 +3946,7 @@ export const products = [
         commissionRate: "7%",
         sold: "300k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAdVLPsF",
     },
     {
         id: "40428523424",
@@ -3957,7 +3957,7 @@ export const products = [
         commissionRate: "9%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V681eGyVU",
     },
     {
         id: "21749187997",
@@ -3968,7 +3968,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhpLHbqT",
     },
     {
         id: "21956460046",
@@ -3979,7 +3979,7 @@ export const products = [
         commissionRate: "4%",
         sold: "50k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHd2IFBS",
     },
     {
         id: "211662580",
@@ -3990,7 +3990,7 @@ export const products = [
         commissionRate: "7%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rQjIsWR",
     },
     {
         id: "24492737715",
@@ -4001,7 +4001,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALoosER9g",
     },
     {
         id: "26793674399",
@@ -4012,7 +4012,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OcZF4Uf",
     },
     {
         id: "54651381332",
@@ -4023,7 +4023,7 @@ export const products = [
         commissionRate: "9%",
         sold: "1k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyQGFhpe",
     },
     {
         id: "17797449219",
@@ -4034,7 +4034,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYDxGLAd",
     },
     {
         id: "24605996007",
@@ -4045,7 +4045,7 @@ export const products = [
         commissionRate: "12%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVc6Btns",
     },
     {
         id: "17189205931",
@@ -4056,7 +4056,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5PnCX8r",
     },
     {
         id: "18435035256",
@@ -4067,7 +4067,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfDUDATq",
     },
     {
         id: "3519771989",
@@ -4078,7 +4078,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF1BDnop",
     },
     {
         id: "21121471823",
@@ -4089,7 +4089,7 @@ export const products = [
         commissionRate: "8%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCPK9MS4",
     },
     {
         id: "28477248517",
@@ -4100,7 +4100,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmD19zn3",
     },
     {
         id: "42252902022",
@@ -4111,7 +4111,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM0iAd82",
     },
     {
         id: "29712748091",
@@ -4122,7 +4122,7 @@ export const products = [
         commissionRate: "5%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvoPBGT1",
     },
     {
         id: "9176722935",
@@ -4133,7 +4133,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zu1nKl6",
     },
     {
         id: "24713580891",
@@ -4144,7 +4144,7 @@ export const products = [
         commissionRate: "9%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR06KmhQ9",
     },
     {
         id: "15672948852",
@@ -4155,7 +4155,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQIdm45C",
     },
     {
         id: "25668516381",
@@ -4166,7 +4166,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qUwlQkF",
     },
     {
         id: "21505820618",
@@ -4177,7 +4177,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGhFknPI",
     },
     {
         id: "7936412598",
@@ -4188,7 +4188,7 @@ export const products = [
         commissionRate: "2%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggtYkA4L",
     },
     {
         id: "9668539289",
@@ -4199,7 +4199,7 @@ export const products = [
         commissionRate: "3%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11075rjWjO",
     },
     {
         id: "24784772276",
@@ -4210,7 +4210,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXIAitOR",
     },
     {
         id: "1969829424",
@@ -4221,7 +4221,7 @@ export const products = [
         commissionRate: "12%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxUTiG3U",
     },
     {
         id: "7324935348",
@@ -4232,7 +4232,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNgmhciX",
     },
     {
         id: "26001142201",
@@ -4243,7 +4243,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnt5gzNa",
     },
     {
         id: "53153398678",
@@ -4254,7 +4254,7 @@ export const products = [
         commissionRate: "5%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "https://s.shopee.vn/6pxt4Inbkl",
+        affiliateLink: "https://s.shopee.vn/1qZE5OgM2d",
     },
     {
         id: "8839825791",
@@ -4265,7 +4265,7 @@ export const products = [
         commissionRate: "2%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seHhfihg",
     },
     {
         id: "52351467054",
@@ -4276,7 +4276,7 @@ export const products = [
         commissionRate: "9%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4U0f5Mj",
     },
     {
         id: "15998710227",
@@ -4287,7 +4287,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUgJeS1m",
     },
     {
         id: "1388537623",
@@ -4298,7 +4298,7 @@ export const products = [
         commissionRate: "5%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2Vouscdogp",
     },
     {
         id: "10394002986",
@@ -4309,7 +4309,7 @@ export const products = [
         commissionRate: "13%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L4vdBLs",
     },
     {
         id: "43508358436",
@@ -4320,7 +4320,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "https://s.shopee.vn/1BJWJt9BFw",
+        affiliateLink: "https://s.shopee.vn/2qRlHEcY0v",
     },
     {
         id: "26900967178",
@@ -4331,7 +4331,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBTXbufy",
     },
     {
         id: "19390347271",
@@ -4342,7 +4342,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bfqbHL1",
     },
     {
         id: "20795074688",
@@ -4353,7 +4353,7 @@ export const products = [
         commissionRate: "9%",
         sold: "300k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1s9ae04",
     },
     {
         id: "25904637864",
@@ -4364,7 +4364,7 @@ export const products = [
         commissionRate: "4%",
         sold: "50k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS4Sa0f7",
     },
     {
         id: "25965758938",
@@ -4375,7 +4375,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sGlZNKA",
     },
     {
         id: "29885003062",
@@ -4386,7 +4386,7 @@ export const products = [
         commissionRate: "7%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIT4YjzD",
     },
     {
         id: "13567240619",
@@ -4397,7 +4397,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40difNY6eG",
     },
     {
         id: "23501680109",
@@ -4408,7 +4408,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3e07DFe",
     },
     {
         id: "22506580601",
@@ -4419,7 +4419,7 @@ export const products = [
         commissionRate: "8%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dRh7qad",
     },
     {
         id: "26127222289",
@@ -4430,7 +4430,7 @@ export const products = [
         commissionRate: "7%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu2c5wZk",
     },
     {
         id: "18096338504",
@@ -4441,7 +4441,7 @@ export const products = [
         commissionRate: "13%",
         sold: "572 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTqJ6Zuj",
     },
     {
         id: "20696071533",
@@ -4452,7 +4452,7 @@ export const products = [
         commissionRate: "7%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakRE4ftq",
     },
     {
         id: "12714373684",
@@ -4463,7 +4463,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKEv5JEp",
     },
     {
         id: "23290175919",
@@ -4474,7 +4474,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDapq3PDw",
     },
     {
         id: "22353263204",
@@ -4485,7 +4485,7 @@ export const products = [
         commissionRate: "8%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAdX42Yv",
     },
     {
         id: "4939139864",
@@ -4496,7 +4496,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRES28Y2",
     },
     {
         id: "11697585940",
@@ -4507,7 +4507,7 @@ export const products = [
         commissionRate: "7%",
         sold: "400k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX1292lt1",
     },
     {
         id: "4289189331",
@@ -4518,7 +4518,7 @@ export const products = [
         commissionRate: "5%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHd40rs8",
     },
     {
         id: "26014267234",
@@ -4529,7 +4529,7 @@ export const products = [
         commissionRate: "7%",
         sold: "7k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rQl1VD7",
     },
     {
         id: "13477908884",
@@ -4540,7 +4540,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V681fzbCE",
     },
     {
         id: "52302053036",
@@ -4551,7 +4551,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhpN0EXD",
     },
     {
         id: "20885936000",
@@ -4562,7 +4562,7 @@ export const products = [
         commissionRate: "6%",
         sold: "300k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyQHyKWK",
     },
     {
         id: "2095590220",
@@ -4573,7 +4573,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYDyyxrJ",
     },
     {
         id: "1287914419",
@@ -4584,7 +4584,7 @@ export const products = [
         commissionRate: "3%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALootx3qQ",
     },
     {
         id: "47901787339",
@@ -4595,7 +4595,7 @@ export const products = [
         commissionRate: "8%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OcaxhBP",
     },
     {
         id: "27339410609",
@@ -4606,7 +4606,7 @@ export const products = [
         commissionRate: "9%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfDVvnAW",
     },
     {
         id: "28566760341",
@@ -4617,7 +4617,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF1CwQVV",
     },
     {
         id: "19548143129",
@@ -4628,7 +4628,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVc7uWUc",
     },
     {
         id: "26904783421",
@@ -4639,7 +4639,7 @@ export const products = [
         commissionRate: "8%",
         sold: "1tr+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "https://s.shopee.vn/AKXlEhbmMN",
+        affiliateLink: "https://s.shopee.vn/9fI5Pov9pb",
     },
     {
         id: "5319077931",
@@ -4650,7 +4650,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM0jtFoi",
     },
     {
         id: "26026037519",
@@ -4661,7 +4661,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvoQtt9h",
     },
     {
         id: "8441543048",
@@ -4672,7 +4672,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCPLrz8o",
     },
     {
         id: "21052627049",
@@ -4683,7 +4683,7 @@ export const products = [
         commissionRate: "7%",
         sold: "50k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmD2scTn",
     },
     {
         id: "1933190306",
@@ -4694,7 +4694,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR06MVK6q",
     },
     {
         id: "24871663752",
@@ -4705,7 +4705,7 @@ export const products = [
         commissionRate: "4%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zu3VxRp",
     },
     {
         id: "15321566767",
@@ -4716,7 +4716,7 @@ export const products = [
         commissionRate: "7%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "https://s.shopee.vn/6feSs49FCy",
+        affiliateLink: "https://s.shopee.vn/W3qUyU3Qw",
     },
     {
         id: "26281279565",
@@ -4727,7 +4727,7 @@ export const products = [
         commissionRate: "9%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQIfUglv",
     },
     {
         id: "554322131",
@@ -4738,7 +4738,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggtaSml2",
     },
     {
         id: "17376610678",
@@ -4749,7 +4749,7 @@ export const products = [
         commissionRate: "13%",
         sold: "7k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGhHTQ61",
     },
     {
         id: "28002898942",
@@ -4760,7 +4760,7 @@ export const products = [
         commissionRate: "4%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXICRW58",
     },
     {
         id: "46850747865",
@@ -4771,7 +4771,7 @@ export const products = [
         commissionRate: "9%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11075tS9Q7",
     },
     {
         id: "14897031811",
@@ -4782,7 +4782,7 @@ export const products = [
         commissionRate: "5%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNgoQFPE",
     },
     {
         id: "19795342516",
@@ -4793,7 +4793,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxUVQskD",
     },
     {
         id: "17504124257",
@@ -4804,7 +4804,7 @@ export const products = [
         commissionRate: "6%",
         sold: "4k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1qZE5QOyjK",
     },
     {
         id: "28618311294",
@@ -4815,7 +4815,7 @@ export const products = [
         commissionRate: "8%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1gFnt7Pc4J",
     },
     {
         id: "29652942330",
@@ -4826,7 +4826,7 @@ export const products = [
         commissionRate: "5%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2BC4U2Ni3Q",
     },
     {
         id: "13021672896",
@@ -4837,7 +4837,7 @@ export const products = [
         commissionRate: "3%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/20seHjOLOP",
     },
     {
         id: "26413938904",
@@ -4848,7 +4848,7 @@ export const products = [
         commissionRate: "9%",
         sold: "5k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2VouseMRNW",
     },
     {
         id: "11652525490",
@@ -4859,7 +4859,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2LVUgLN4iV",
     },
     {
         id: "24322637813",
@@ -4870,7 +4870,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "https://s.shopee.vn/9pbUdq7PF9",
+        affiliateLink: "https://s.shopee.vn/2qRlHGLAhc",
     },
     {
         id: "28808612601",
@@ -4881,7 +4881,7 @@ export const products = [
         commissionRate: "12%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/2g8L4xLo2b",
     },
     {
         id: "10108476341",
@@ -4892,7 +4892,7 @@ export const products = [
         commissionRate: "2%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3B4bfsJu1i",
     },
     {
         id: "13922180720",
@@ -4903,7 +4903,7 @@ export const products = [
         commissionRate: "9%",
         sold: "6k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/30lBTZKXMh",
     },
     {
         id: "3164054131",
@@ -4914,7 +4914,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3VhS4UIdLo",
     },
     {
         id: "17197441729",
@@ -4925,7 +4925,7 @@ export const products = [
         commissionRate: "12%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3LO1sBJGgn",
     },
     {
         id: "29234522832",
@@ -4936,7 +4936,7 @@ export const products = [
         commissionRate: "10%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3qKIT6HMfu",
     },
     {
         id: "56805393849",
@@ -4947,7 +4947,7 @@ export const products = [
         commissionRate: "7%",
         sold: "9k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/3g0sGnI00t",
     },
     {
         id: "43653824191",
@@ -4958,7 +4958,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4Ax8riG600",
     },
     {
         id: "8303527198",
@@ -4969,7 +4969,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/40difPGjKz",
     },
     {
         id: "22559712895",
@@ -4980,7 +4980,7 @@ export const products = [
         commissionRate: "4%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4VZzGKEpK6",
     },
     {
         id: "27542556396",
@@ -4991,7 +4991,7 @@ export const products = [
         commissionRate: "9%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4LGZ41FSf5",
     },
     {
         id: "23952167886",
@@ -5002,7 +5002,7 @@ export const products = [
         commissionRate: "3%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4qCpewDYeC",
     },
     {
         id: "18460562794",
@@ -5013,7 +5013,7 @@ export const products = [
         commissionRate: "5%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/4ftPSdEBzB",
     },
     {
         id: "25124449116",
@@ -5024,7 +5024,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5Apg3YCHyI",
     },
     {
         id: "26073061019",
@@ -5035,7 +5035,7 @@ export const products = [
         commissionRate: "6%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/50WFrFCvJH",
     },
     {
         id: "5917573994",
@@ -5046,7 +5046,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5L96FrBedM",
     },
     {
         id: "24172893040",
@@ -5057,7 +5057,7 @@ export const products = [
         commissionRate: "7%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5VSWSAB1IP",
     },
     {
         id: "8675360402",
@@ -5068,7 +5068,7 @@ export const products = [
         commissionRate: "7%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "https://s.shopee.vn/3B4ahX33uh",
+        affiliateLink: "https://s.shopee.vn/5flweTANxS",
     },
     {
         id: "49450515029",
@@ -5079,7 +5079,7 @@ export const products = [
         commissionRate: "9%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/5q5Mqm9kcV",
     },
     {
         id: "22371532126",
@@ -5090,7 +5090,7 @@ export const products = [
         commissionRate: "5%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/60On3597HY",
     },
     {
         id: "14214354087",
@@ -5101,7 +5101,7 @@ export const products = [
         commissionRate: "6%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6AiDFO8Twb",
     },
     {
         id: "11259470663",
@@ -5112,7 +5112,7 @@ export const products = [
         commissionRate: "3%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6L1dRh7qbe",
     },
     {
         id: "55200722398",
@@ -5123,7 +5123,7 @@ export const products = [
         commissionRate: "9%",
         sold: "2k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6VL3e07DGh",
     },
     {
         id: "24901995958",
@@ -5134,7 +5134,7 @@ export const products = [
         commissionRate: "2%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6feTqJ6Zvk",
     },
     {
         id: "28958618089",
@@ -5145,7 +5145,7 @@ export const products = [
         commissionRate: "12%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/6pxu2c5wan",
     },
     {
         id: "22579137867",
@@ -5156,7 +5156,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/70HKEv5JFq",
     },
     {
         id: "26079329171",
@@ -5167,7 +5167,7 @@ export const products = [
         commissionRate: "2%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7AakRE4fut",
     },
     {
         id: "3717997782",
@@ -5178,7 +5178,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7KuAdX42Zw",
     },
     {
         id: "43206654280",
@@ -5189,7 +5189,7 @@ export const products = [
         commissionRate: "7%",
         sold: "8k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7VDapq3PEz",
     },
     {
         id: "23722554894",
@@ -5200,7 +5200,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7fX1292lu2",
     },
     {
         id: "26700381228",
@@ -5211,7 +5211,7 @@ export const products = [
         commissionRate: "9%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/7pqRES28Z5",
     },
     {
         id: "7762155296",
@@ -5222,7 +5222,7 @@ export const products = [
         commissionRate: "3%",
         sold: "60k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/809rQl1VE8",
     },
     {
         id: "18970878588",
@@ -5233,7 +5233,7 @@ export const products = [
         commissionRate: "9%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8ATHd40rtB",
     },
     {
         id: "29620523788",
@@ -5244,7 +5244,7 @@ export const products = [
         commissionRate: "3%",
         sold: "200k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8KmhpN0EYE",
     },
     {
         id: "4067646140",
@@ -5255,7 +5255,7 @@ export const products = [
         commissionRate: "4%",
         sold: "70k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8V681fzbDH",
     },
     {
         id: "5951522107",
@@ -5266,7 +5266,7 @@ export const products = [
         commissionRate: "3%",
         sold: "50k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8fPYDyyxsK",
     },
     {
         id: "9453126749",
@@ -5277,7 +5277,7 @@ export const products = [
         commissionRate: "9%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/8piyQHyKXN",
     },
     {
         id: "15536628136",
@@ -5288,7 +5288,7 @@ export const products = [
         commissionRate: "2%",
         sold: "300k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/902OcaxhCQ",
     },
     {
         id: "8646409293",
@@ -5299,7 +5299,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9ALootx3rT",
     },
     {
         id: "26860924048",
@@ -5310,7 +5310,7 @@ export const products = [
         commissionRate: "5%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9KfF1CwQWW",
     },
     {
         id: "13173886107",
@@ -5321,7 +5321,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9UyfDVvnBZ",
     },
     {
         id: "19524545862",
@@ -5332,7 +5332,7 @@ export const products = [
         commissionRate: "2%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9fI5Pov9qc",
     },
     {
         id: "29383509527",
@@ -5343,7 +5343,7 @@ export const products = [
         commissionRate: "3%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9pbVc7uWVf",
     },
     {
         id: "18804694738",
@@ -5354,7 +5354,7 @@ export const products = [
         commissionRate: "3%",
         sold: "90k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/9zuvoQttAi",
     },
     {
         id: "18779886035",
@@ -5365,7 +5365,7 @@ export const products = [
         commissionRate: "4%",
         sold: "706 lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AAEM0jtFpl",
     },
     {
         id: "17125755465",
@@ -5376,7 +5376,7 @@ export const products = [
         commissionRate: "7%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AKXmD2scUo",
     },
     {
         id: "7078579318",
@@ -5387,7 +5387,7 @@ export const products = [
         commissionRate: "7%",
         sold: "40k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/AUrCPLrz9r",
     },
     {
         id: "18545930905",
@@ -5398,7 +5398,7 @@ export const products = [
         commissionRate: "3%",
         sold: "400k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/17Zu3VxSq",
     },
     {
         id: "18079734689",
@@ -5409,7 +5409,7 @@ export const products = [
         commissionRate: "12%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/BR06MVK7t",
     },
     {
         id: "42772751761",
@@ -5420,7 +5420,7 @@ export const products = [
         commissionRate: "9%",
         sold: "3k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/LkQIfUgmw",
     },
     {
         id: "15666728512",
@@ -5431,7 +5431,7 @@ export const products = [
         commissionRate: "5%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/W3qUyU3Rz",
     },
     {
         id: "3950627779",
@@ -5442,7 +5442,7 @@ export const products = [
         commissionRate: "4%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/gNGhHTQ72",
     },
     {
         id: "12627734350",
@@ -5453,7 +5453,7 @@ export const products = [
         commissionRate: "8%",
         sold: "10k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/qggtaSmm5",
     },
     {
         id: "14698451225",
@@ -5464,7 +5464,7 @@ export const products = [
         commissionRate: "6%",
         sold: "20k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/11075tS9R8",
     },
     {
         id: "4491418100",
@@ -5475,7 +5475,7 @@ export const products = [
         commissionRate: "2%",
         sold: "100k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1BJXICRW6B",
     },
     {
         id: "25505957884",
@@ -5486,7 +5486,7 @@ export const products = [
         commissionRate: "6%",
         sold: "30k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1LcxUVQslE",
     },
     {
         id: "17553345161",
@@ -5497,6 +5497,6 @@ export const products = [
         commissionRate: "9%",
         sold: "80k+ lượt bán",
         category: "Bách hóa tổng hợp",
-        affiliateLink: "",
+        affiliateLink: "https://s.shopee.vn/1VwNgoQFQH",
     },
 ];
