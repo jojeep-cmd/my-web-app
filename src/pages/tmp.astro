@@ -29,17 +29,14 @@ import Layout from "../layouts/Layout.astro";
         <table class="result-table">
             <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Email</th>
                     <th>Subject</th>
                     <th>Message</th>
+                    <th>Response</th>
                 </tr>
             </thead>
             <tbody id="data-container">
                 <tr class="empty-row">
-                    <td colspan="4"
-                        >Nhập email và nhấn Tìm kiếm để xem kết quả.</td
-                    >
+                    <td colspan="3">Nhập email và nhấn Tìm kiếm để xem kết quả.</td>
                 </tr>
             </tbody>
         </table>
@@ -76,10 +73,9 @@ import Layout from "../layouts/Layout.astro";
                     data.forEach((item) => {
                         const tr = document.createElement("tr");
                         tr.innerHTML = `
-                            <td class="td-name">${item.Name ?? "—"}</td>
-                            <td><span class="td-email">${item.Email ?? "—"}</span></td>
-                            <td class="td-subject">${item.Subject ?? "—"}</td>
-                            <td class="td-message">${item.Message ?? "—"}</td>
+                            <td class="td-subject" data-label="Subject">${item.Subject ?? "—"}</td>
+                            <td class="td-message" data-label="Message">${item.Message ?? "—"}</td>
+                            <td class="td-message" data-label="Response">${item.Response ?? "—"}</td>
                         `;
                         container.appendChild(tr);
                     });
@@ -273,6 +269,77 @@ import Layout from "../layouts/Layout.astro";
             color: #9ca3af;
             padding: 2.5rem 16px;
             font-size: 14px;
+        }
+
+        /* ── Mobile ── */
+        @media (max-width: 640px) {
+            .search-group {
+                flex-direction: column;
+            }
+
+            #search-btn {
+                width: 100%;
+            }
+
+            /* Ẩn header, mỗi row thành card */
+            .result-table thead {
+                display: none;
+            }
+
+            .result-table tbody tr {
+                display: block;
+                border: 1px solid #e8eaf0;
+                border-radius: 10px;
+                margin-bottom: 10px;
+                padding: 4px 0;
+            }
+
+            .result-table tbody tr:hover {
+                background: #fff9f8;
+            }
+
+            /* Bỏ border giữa các td trong cùng row */
+            .result-table tbody tr:last-child {
+                border-bottom: 1px solid #e8eaf0;
+            }
+
+            .result-table td {
+                display: flex;
+                align-items: flex-start;
+                gap: 10px;
+                padding: 10px 14px;
+                border-bottom: 1px solid #f3f4f6;
+                max-width: 100%;
+            }
+
+            .result-table td:last-child {
+                border-bottom: none;
+            }
+
+            /* Hiện label từ data-label attribute */
+            .result-table td::before {
+                content: attr(data-label);
+                flex-shrink: 0;
+                width: 80px;
+                font-size: 11px;
+                font-weight: 600;
+                color: #9ca3af;
+                text-transform: uppercase;
+                letter-spacing: 0.4px;
+                padding-top: 2px;
+            }
+
+            .td-message {
+                max-width: 100%;
+            }
+
+            .empty-row td::before {
+                display: none;
+            }
+
+            .empty-row td {
+                justify-content: center;
+            }
         }
     </style>
 </Layout>
