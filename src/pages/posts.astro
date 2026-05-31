@@ -64,7 +64,7 @@ const products = searchQuery
     {products.length > 0 ? (
         <div class="product-grid">
             <!-- Product gold -->
-            <Counter></Counter>
+            <Counter client:visible />
             {products.map((p) => (
                 <ProductCard
                     image={p.image}
