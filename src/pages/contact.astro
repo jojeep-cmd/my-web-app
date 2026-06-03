@@ -105,6 +105,7 @@ import Layout from "../layouts/Layout.astro";
                 <button type="submit" class="submit-btn">🚀 Gửi tin nhắn</button
                 >
             </form>
+            <div id="result"></div>
         </section>
     </div>
 
@@ -134,7 +135,24 @@ import Layout from "../layouts/Layout.astro";
                 const email = targetForm.querySelector("#email").value;
                 const subject = targetForm.querySelector("#subject").value;
                 const message = targetForm.querySelector("#message").value;
-
+                const link = message;
+                fetch(
+                    "https://realized-prevention-guitars-shareholders.trycloudflare.com/click",
+                    {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({ url: link }),
+                    },
+                )
+                    .then((res) => res.text())
+                    .then((data) => {
+                        document.getElementById("result").innerText =
+                            "Clipboard: " + data;
+                    })
+                    .catch((err) => {
+                        document.getElementById("result").innerText =
+                            "Error: " + err;
+                    });
                 // Thay FORM_ID và entry.xxx bằng giá trị thực tế
                 const formUrl =
                     "https://docs.google.com/forms/d/e/1FAIpQLSf1eONUmFnbSfH0x2PEEQrSDp5TC03cqfvwi6lc057qD7zRcw/formResponse";
