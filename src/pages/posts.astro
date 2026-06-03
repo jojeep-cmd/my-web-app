@@ -39,7 +39,43 @@ const products = searchQuery
         />
         {categoryParam && <input type="hidden" name="category" value={categoryParam} />}
     </form>
+    <div id="result">Link detected: </div>
+    <br></br>
+    <script is:inline>
+      function getLink(input) {
+        if (!input) return false;
 
+        const isLink = /^https?:\/\//i.test(input);
+
+        if (!isLink) return false;
+
+        document.getElementById("result").innerText =
+          "Link detected: " + input;
+
+        return true;
+      }
+
+
+      document.addEventListener("DOMContentLoaded", () => {
+          const form = document.querySelector(".search-wrap");
+          const input = document.querySelector('input[name="q"]');
+
+          form.addEventListener("submit", (e) => {
+            const value = input.value;
+
+            console.log("Submit:", value);
+
+            const handled = getLink(value);
+
+            // ✅ nếu là link → chặn submit
+            if (handled) {
+              e.preventDefault();
+            }
+            // ❌ nếu không phải link → form submit bình thường (SSR search chạy)
+          });
+        });
+
+    </script>
     <!-- Category tabs — each is a link, active state resolved SSR -->
     <nav class="tabs" aria-label="Danh mục">
         <a
