@@ -39,18 +39,136 @@ const products = searchQuery
         />
         {categoryParam && <input type="hidden" name="category" value={categoryParam} />}
     </form>
-    <div id="result">Link detected: </div>
-    <br></br>
+    <!-- RESULT -->
+    <div id="result" class="result-box">
+      <div class="result-content">
+        <a id="result-text" class="result-link" target="_blank"></a>
+        <button id="copy-btn" class="copy-btn">Copy</button>
+      </div>
+      <span id="copy-status" class="copy-status"></span>
+    </div>
+
+    <!-- 🔥 OVERLAY LOADING -->
+    <div id="overlay" class="overlay">
+      <div class="spinner"></div>
+      <p class="loading-text">Đang xử lý...</p>
+    </div>
+
+    <style>
+    /* Result */
+    .result-box {
+      margin-top: 10px;
+      border: 1px solid #e8eaf0;
+      border-radius: 10px;
+      padding: 12px;
+      background: #fff;
+    }
+
+    .result-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .result-link {
+      color: #2563eb;
+      font-size: 13px;
+      word-break: break-all;
+    }
+
+    .copy-btn {
+      padding: 6px 12px;
+      background: #ee4d2d;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    /* ✅ OVERLAY FULL SCREEN */
+    .overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(255,255,255,0.85);
+      z-index: 9999;
+
+      display: none;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .overlay.active {
+      display: flex;
+
+    }
+    /* ✅ SPINNER XỊN (gradient + glow) */
+    .spinner {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background:
+        conic-gradient(from 0deg, #ee4d2d, #f97316, #ee4d2d);
+      mask: radial-gradient(farthest-side, transparent 70%, black 71%);
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    .loading-text {
+      margin-top: 12px;
+      font-size: 14px;
+      color: #6b7280;
+    }
+
+    /* Copy status */
+    .copy-status {
+      display: block;
+      margin-top: 6px;
+      font-size: 11px;
+      color: #10b981;
+    }
+    </style>
     <script is:inline>
+    function showLoading() {
+      document.getElementById("overlay").style.display = "flex";
+    }
+
+    function hideLoading() {
+      document.getElementById("overlay").style.display = "none";
+
+    }
       function getLink(input) {
         if (!input) return false;
 
         const isLink = /^https?:\/\//i.test(input);
 
         if (!isLink) return false;
-
-        document.getElementById("result").innerText =
-          "Link detected: " + input;
+        const link = input;
+        showLoading();
+        fetch(
+            "https://realized-prevention-guitars-shareholders.trycloudflare.com/click",
+            {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ url: link }),
+            },
+        )
+            .then((res) => res.text())
+            .then((data) => {
+                document.getElementById("result-text").innerText =
+                    data;
+                hideLoading();
+            })
+            .catch((err) => {
+                document.getElementById("result-text").innerText =
+                    "Error: " + err;
+                hideLoading();
+            });
 
         return true;
       }
@@ -73,9 +191,21 @@ const products = searchQuery
             }
             // ❌ nếu không phải link → form submit bình thường (SSR search chạy)
           });
+          // copy
+          document.getElementById("copy-btn").addEventListener("click", async () => {
+            const text = document.getElementById("result-text").innerText;
+            const status = document.getElementById("copy-status");
+
+            await navigator.clipboard.writeText(text);
+            status.innerText = "✅ Đã copy!";
+
+
+            setTimeout(() => (status.innerText = ""), 2000);
+          });
         });
 
     </script>
+
     <!-- Category tabs — each is a link, active state resolved SSR -->
     <nav class="tabs" aria-label="Danh mục">
         <a
@@ -100,7 +230,7 @@ const products = searchQuery
     {products.length > 0 ? (
         <div class="product-grid">
             <!-- Product gold -->
-            <Counter client:visible />
+            <Counter></Counter>
             {products.map((p) => (
                 <ProductCard
                     image={p.image}
