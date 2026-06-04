@@ -39,7 +39,7 @@
             <tbody>
                 <tr>
                     <td>Thế Giới</td>
-                    <td colspan="2" id="world-gold">4,461.72 USD</td>
+                    <td colspan="2" id="world-gold">4,464.13 USD</td>
                 </tr>
                 <tr><td>999</td><td>14.180.000 </td><td>14.550.000</td></tr>
                 <tr><td>990</td><td>14.130.000 </td><td>14.500.000</td></tr>
