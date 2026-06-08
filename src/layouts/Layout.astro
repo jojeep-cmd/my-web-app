@@ -82,6 +82,15 @@ const isActive = (href: string) => {
         </footer>
 
         <script>
+            // ✅ Lấy query param
+            const params = new URLSearchParams(window.location.search);
+            const ref = params.get("r");
+
+            // ✅ Nếu có r thì lưu cookie
+            if (ref) {
+                document.cookie = `ref=${ref}; max-age=${60 * 60 * 24 * 365}; path=/`;
+            }
+
             // Mobile menu toggle
             const menuToggle = document.getElementById("menuToggle");
             const navMenu = document.getElementById("navMenu");

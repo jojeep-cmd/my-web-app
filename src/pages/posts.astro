@@ -193,7 +193,7 @@ const products = searchQuery
           });
           // copy
           document.getElementById("copy-btn").addEventListener("click", async () => {
-            const text = document.getElementById("result-text").innerText;
+            const text = document.getElementById("result-text").textContent;
             const status = document.getElementById("copy-status");
 
             await navigator.clipboard.writeText(text);

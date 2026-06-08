@@ -39,14 +39,14 @@
             <tbody>
                 <tr>
                     <td>Thế Giới</td>
-                    <td colspan="2" id="world-gold">4,464.13 USD</td>
+                    <td colspan="2" id="world-gold">4,320.54 USD</td>
                 </tr>
-                <tr><td>999</td><td>14.180.000 </td><td>14.550.000</td></tr>
-                <tr><td>990</td><td>14.130.000 </td><td>14.500.000</td></tr>
-                <tr><td>985</td><td>13.800.000 </td><td>14.300.000</td></tr>
+                <tr><td>999</td><td>14.040.000 </td><td>14.410.000</td></tr>
+                <tr><td>990</td><td>13.990.000 </td><td>14.360.000</td></tr>
+                <tr><td>985</td><td>13.660.000 </td><td>14.160.000</td></tr>
                 <tr><td>980</td><td>13.370.000 </td><td>13.990.000</td></tr>
-                <tr><td>710</td><td>10.040.000 </td><td>10.790.000</td></tr>
-                <tr><td>610</td><td>8.410.000 </td><td>9.280.000</td></tr>
+                <tr><td>710</td><td>9.900.000 </td><td>10.650.000</td></tr>
+                <tr><td>610</td><td>8.270.000 </td><td>9.140.000</td></tr>
             </tbody>
         </table>
     </div>
