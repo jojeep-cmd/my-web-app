@@ -28,7 +28,8 @@ const products = searchQuery
 
     <!-- Search — form GET so it works without JS -->
     <form class="search-wrap" method="get" action="/posts">
-        <span class="search-icon">🔍</span>
+
+
         <input
             class="search-input"
             type="text"
@@ -37,7 +38,9 @@ const products = searchQuery
             placeholder="Tìm kiếm sản phẩm Shopee..."
             autocomplete="off"
         />
+        <button id="search-btn">🔍 Tìm kiếm</button>
         {categoryParam && <input type="hidden" name="category" value={categoryParam} />}
+
     </form>
     <!-- RESULT -->
     <div id="result" class="result-box">
@@ -275,6 +278,7 @@ const products = searchQuery
         pointer-events: none;
     }
     .search-input {
+
         width: 100%;
         height: 44px;
         padding: 0 16px 0 42px;
@@ -291,6 +295,25 @@ const products = searchQuery
         box-shadow: 0 0 0 3px rgba(238, 77, 45, 0.08);
     }
     .search-input::placeholder { color: #9ca3af; }
+    #search-btn {
+
+        height: 44px;
+        padding: 0 20px;
+        background: #ee4d2d;
+        color: #fff;
+        border: none;
+        border-radius: 10px;
+        font-size: 14px;
+        font-weight: 600;
+        cursor: pointer;
+        white-space: nowrap;
+        transition: background 0.15s;
+        font-family: inherit;
+    }
+
+    #search-btn:hover {
+        background: #d44326;
+    }
 
     /* Tabs */
     .tabs {
